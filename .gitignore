@@ -1,0 +1,7 @@
+# Repo này chỉ chứa dữ liệu bài học cho app, trong thư mục media/.
+# Các thư mục khác nằm cạnh nó trên máy là dự án riêng, không đưa vào đây.
+/*
+!/.gitignore
+!/README.md
+!/media/
+.DS_Store

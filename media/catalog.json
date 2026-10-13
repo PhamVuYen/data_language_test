@@ -1,0 +1,84 @@
+{
+ "schema": "catalog/1",
+ "updated_at": "2026-10-13T12:00:00+07:00",
+ "series": [
+  {
+   "id": "di-cho",
+   "lang": "zh-Hans",
+   "title": "Đi chợ",
+   "level": "HSK 3"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "vi-260829-test-quy-trinh",
+   "kind": "episode",
+   "lang": "zh-Hans",
+   "series": "di-cho",
+   "order": 1,
+   "title": {
+    "target": "能便宜一点吗？",
+    "l1": "Câu mặc cả đầu tiên quyết định giá"
+   },
+   "level": {
+    "scheme": "HSK3.0",
+    "label": "HSK 3"
+   },
+   "flags": [
+    "test"
+   ],
+   "duration_ms": 47445,
+   "line_count": 7,
+   "version": 1,
+   "text": {
+    "path": "episode.json",
+    "url": "v/vi-260829-test-quy-trinh/r1/episode.json",
+    "bytes": 14250,
+    "sha256": "5d3c7ca3babcab65612d1887551607354dae82e9ad97cbfc310f2ef7db93ce07"
+   },
+   "media": [
+    {
+     "path": "audio/mix.m4a",
+     "url": "v/vi-260829-test-quy-trinh/r1/audio/mix.m4a",
+     "bytes": 787571,
+     "sha256": "34439f54f72571583c5ea3c07bf303f9f1e05f13db9908f52660295eaa720584"
+    }
+   ]
+  },
+  {
+   "id": "thu-tai-ve-01",
+   "kind": "episode",
+   "lang": "zh-Hans",
+   "series": "di-cho",
+   "order": 2,
+   "title": {
+    "target": "能便宜一点吗？",
+    "l1": "Câu mặc cả đầu tiên quyết định giá (bản thử tải về)"
+   },
+   "level": {
+    "scheme": "HSK3.0",
+    "label": "HSK 3"
+   },
+   "flags": [
+    "test"
+   ],
+   "duration_ms": 47445,
+   "line_count": 7,
+   "version": 1,
+   "text": {
+    "path": "episode.json",
+    "url": "v/thu-tai-ve-01/r1/episode.json",
+    "bytes": 14318,
+    "sha256": "0d060927757737154fb4269009ffca16668a4ca4d603e5c468f5675c7a670261"
+   },
+   "media": [
+    {
+     "path": "audio/mix.m4a",
+     "url": "v/thu-tai-ve-01/r1/audio/mix.m4a",
+     "bytes": 787571,
+     "sha256": "34439f54f72571583c5ea3c07bf303f9f1e05f13db9908f52660295eaa720584"
+    }
+   ]
+  }
+ ]
+}

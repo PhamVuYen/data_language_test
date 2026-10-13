@@ -1,0 +1,877 @@
+{
+ "schema": "episode/1",
+ "id": "vi-260829-test-quy-trinh",
+ "lang": {
+  "target": "zh-Hans",
+  "l1": "vi"
+ },
+ "level": {
+  "scheme": "HSK3.0",
+  "label": "HSK 3"
+ },
+ "title": {
+  "target": "能便宜一点吗？",
+  "l1": "Câu mặc cả đầu tiên quyết định giá"
+ },
+ "series": null,
+ "flags": [
+  "test"
+ ],
+ "audio": {
+  "mix": "audio/mix.m4a",
+  "duration_ms": 47445
+ },
+ "speakers": {
+  "A": {
+   "name": "林老师",
+   "l1_name": "cô Lâm"
+  },
+  "B": {
+   "name": "阿南",
+   "l1_name": "Nam"
+  }
+ },
+ "sections": [
+  {
+   "id": "b01",
+   "type": "hook",
+   "label": "Mở lạnh",
+   "start_ms": 0
+  },
+  {
+   "id": "b02",
+   "type": "dialogue",
+   "label": "Thân bài",
+   "start_ms": 15712
+  },
+  {
+   "id": "b03",
+   "type": "recap_slow",
+   "label": "Nhắc lại chậm",
+   "start_ms": 29866
+  }
+ ],
+ "lines": [
+  {
+   "id": "b01.narr",
+   "section": "b01",
+   "kind": "narration",
+   "speaker": null,
+   "text": "Câu đầu tiên bạn nói khi mặc cả sẽ quyết định giá cuối cùng. Nghe thử đoạn này.",
+   "tokens": [],
+   "l1": "Câu đầu tiên bạn nói khi mặc cả sẽ quyết định giá cuối cùng. Nghe thử đoạn này.",
+   "start_ms": 0,
+   "end_ms": 6000,
+   "words": []
+  },
+  {
+   "id": "b01.00",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "这个太贵了，能便宜一点吗？",
+   "tokens": [
+    {
+     "text": "这",
+     "reading": "zhè",
+     "tone": 4
+    },
+    {
+     "text": "个",
+     "reading": "ge",
+     "tone": 0
+    },
+    {
+     "text": "太",
+     "reading": "tài",
+     "tone": 4
+    },
+    {
+     "text": "贵",
+     "reading": "guì",
+     "tone": 4
+    },
+    {
+     "text": "了",
+     "reading": "le",
+     "tone": 0
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "能",
+     "reading": "néng",
+     "tone": 2
+    },
+    {
+     "text": "便",
+     "reading": "pián",
+     "tone": 2
+    },
+    {
+     "text": "宜",
+     "reading": "yi",
+     "tone": 0
+    },
+    {
+     "text": "一",
+     "reading": "yì",
+     "tone": 4
+    },
+    {
+     "text": "点",
+     "reading": "diǎn",
+     "tone": 3
+    },
+    {
+     "text": "吗",
+     "reading": "ma",
+     "tone": 0
+    },
+    {
+     "text": "？",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Cái này đắt quá, rẻ hơn chút được không?",
+   "start_ms": 6300,
+   "end_ms": 10140,
+   "words": [
+    {
+     "text": "这个",
+     "start_ms": 6414,
+     "end_ms": 6783
+    },
+    {
+     "text": "太",
+     "start_ms": 6799,
+     "end_ms": 7152
+    },
+    {
+     "text": "贵",
+     "start_ms": 7151,
+     "end_ms": 7455
+    },
+    {
+     "text": "了",
+     "start_ms": 7456,
+     "end_ms": 7728
+    },
+    {
+     "text": "能",
+     "start_ms": 8065,
+     "end_ms": 8209
+    },
+    {
+     "text": "便宜",
+     "start_ms": 8225,
+     "end_ms": 8690
+    },
+    {
+     "text": "一点",
+     "start_ms": 8706,
+     "end_ms": 9091
+    },
+    {
+     "text": "吗",
+     "start_ms": 9090,
+     "end_ms": 9410
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [
+    "便宜"
+   ]
+  },
+  {
+   "id": "b01.01",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "行，给你打个九折吧。",
+   "tokens": [
+    {
+     "text": "行",
+     "reading": "xíng",
+     "tone": 2
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "给",
+     "reading": "gěi",
+     "tone": 3
+    },
+    {
+     "text": "你",
+     "reading": "nǐ",
+     "tone": 3
+    },
+    {
+     "text": "打",
+     "reading": "dǎ",
+     "tone": 3
+    },
+    {
+     "text": "个",
+     "reading": "gè",
+     "tone": 4
+    },
+    {
+     "text": "九",
+     "reading": "jiǔ",
+     "tone": 3
+    },
+    {
+     "text": "折",
+     "reading": "zhé",
+     "tone": 2
+    },
+    {
+     "text": "吧",
+     "reading": "ba",
+     "tone": 0
+    },
+    {
+     "text": "。",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Được, giảm 10% cho bạn.",
+   "start_ms": 11090,
+   "end_ms": 14762,
+   "words": [
+    {
+     "text": "行",
+     "start_ms": 11204,
+     "end_ms": 11685
+    },
+    {
+     "text": "给",
+     "start_ms": 12037,
+     "end_ms": 12277
+    },
+    {
+     "text": "你",
+     "start_ms": 12278,
+     "end_ms": 12422
+    },
+    {
+     "text": "打",
+     "start_ms": 12438,
+     "end_ms": 12662
+    },
+    {
+     "text": "个",
+     "start_ms": 12662,
+     "end_ms": 12758
+    },
+    {
+     "text": "九",
+     "start_ms": 12775,
+     "end_ms": 13063
+    },
+    {
+     "text": "折",
+     "start_ms": 13063,
+     "end_ms": 13351
+    },
+    {
+     "text": "吧",
+     "start_ms": 13352,
+     "end_ms": 13656
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": []
+  },
+  {
+   "id": "b02.00",
+   "section": "b02",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "你第一次去中国的市场买东西吗？",
+   "tokens": [
+    {
+     "text": "你",
+     "reading": "nǐ",
+     "tone": 3
+    },
+    {
+     "text": "第",
+     "reading": "dì",
+     "tone": 4
+    },
+    {
+     "text": "一",
+     "reading": "yī",
+     "tone": 1
+    },
+    {
+     "text": "次",
+     "reading": "cì",
+     "tone": 4
+    },
+    {
+     "text": "去",
+     "reading": "qù",
+     "tone": 4
+    },
+    {
+     "text": "中",
+     "reading": "zhōng",
+     "tone": 1
+    },
+    {
+     "text": "国",
+     "reading": "guó",
+     "tone": 2
+    },
+    {
+     "text": "的",
+     "reading": "de",
+     "tone": 0
+    },
+    {
+     "text": "市",
+     "reading": "shì",
+     "tone": 4
+    },
+    {
+     "text": "场",
+     "reading": "chǎng",
+     "tone": 3
+    },
+    {
+     "text": "买",
+     "reading": "mǎi",
+     "tone": 3
+    },
+    {
+     "text": "东",
+     "reading": "dōng",
+     "tone": 1
+    },
+    {
+     "text": "西",
+     "reading": "xī",
+     "tone": 1
+    },
+    {
+     "text": "吗",
+     "reading": "ma",
+     "tone": 0
+    },
+    {
+     "text": "？",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Lần đầu bạn đi chợ ở Trung Quốc à?",
+   "start_ms": 15712,
+   "end_ms": 19768,
+   "words": [
+    {
+     "text": "你",
+     "start_ms": 15826,
+     "end_ms": 16018
+    },
+    {
+     "text": "第一",
+     "start_ms": 16034,
+     "end_ms": 16371
+    },
+    {
+     "text": "次",
+     "start_ms": 16371,
+     "end_ms": 16708
+    },
+    {
+     "text": "去",
+     "start_ms": 16740,
+     "end_ms": 16932
+    },
+    {
+     "text": "中国",
+     "start_ms": 16948,
+     "end_ms": 17365
+    },
+    {
+     "text": "的",
+     "start_ms": 17365,
+     "end_ms": 17477
+    },
+    {
+     "text": "市场",
+     "start_ms": 17493,
+     "end_ms": 17974
+    },
+    {
+     "text": "买",
+     "start_ms": 18006,
+     "end_ms": 18230
+    },
+    {
+     "text": "东西",
+     "start_ms": 18230,
+     "end_ms": 18695
+    },
+    {
+     "text": "吗",
+     "start_ms": 18695,
+     "end_ms": 19032
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": []
+  },
+  {
+   "id": "b02.01",
+   "section": "b02",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "对啊，我不知道可以讲价。",
+   "tokens": [
+    {
+     "text": "对",
+     "reading": "duì",
+     "tone": 4
+    },
+    {
+     "text": "啊",
+     "reading": "a",
+     "tone": 0
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "我",
+     "reading": "wǒ",
+     "tone": 3
+    },
+    {
+     "text": "不",
+     "reading": "bù",
+     "tone": 4
+    },
+    {
+     "text": "知",
+     "reading": "zhī",
+     "tone": 1
+    },
+    {
+     "text": "道",
+     "reading": "dào",
+     "tone": 4
+    },
+    {
+     "text": "可",
+     "reading": "kě",
+     "tone": 3
+    },
+    {
+     "text": "以",
+     "reading": "yǐ",
+     "tone": 3
+    },
+    {
+     "text": "讲",
+     "reading": "jiǎng",
+     "tone": 3
+    },
+    {
+     "text": "价",
+     "reading": "jià",
+     "tone": 4
+    },
+    {
+     "text": "。",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Đúng vậy, mình không biết là có thể mặc cả.",
+   "start_ms": 20718,
+   "end_ms": 24486,
+   "words": [
+    {
+     "text": "对",
+     "start_ms": 20832,
+     "end_ms": 21136
+    },
+    {
+     "text": "啊",
+     "start_ms": 21137,
+     "end_ms": 21361
+    },
+    {
+     "text": "我",
+     "start_ms": 21762,
+     "end_ms": 21938
+    },
+    {
+     "text": "不",
+     "start_ms": 21938,
+     "end_ms": 22050
+    },
+    {
+     "text": "知道",
+     "start_ms": 22050,
+     "end_ms": 22435
+    },
+    {
+     "text": "可以",
+     "start_ms": 22467,
+     "end_ms": 22739
+    },
+    {
+     "text": "讲价",
+     "start_ms": 22755,
+     "end_ms": 23348
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": []
+  },
+  {
+   "id": "b02.02",
+   "section": "b02",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "其实在市场都可以讲价的。",
+   "tokens": [
+    {
+     "text": "其",
+     "reading": "qí",
+     "tone": 2
+    },
+    {
+     "text": "实",
+     "reading": "shí",
+     "tone": 2
+    },
+    {
+     "text": "在",
+     "reading": "zài",
+     "tone": 4
+    },
+    {
+     "text": "市",
+     "reading": "shì",
+     "tone": 4
+    },
+    {
+     "text": "场",
+     "reading": "chǎng",
+     "tone": 3
+    },
+    {
+     "text": "都",
+     "reading": "dōu",
+     "tone": 1
+    },
+    {
+     "text": "可",
+     "reading": "kě",
+     "tone": 3
+    },
+    {
+     "text": "以",
+     "reading": "yǐ",
+     "tone": 3
+    },
+    {
+     "text": "讲",
+     "reading": "jiǎng",
+     "tone": 3
+    },
+    {
+     "text": "价",
+     "reading": "jià",
+     "tone": 4
+    },
+    {
+     "text": "的",
+     "reading": "de",
+     "tone": 0
+    },
+    {
+     "text": "。",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Thật ra ở chợ đều mặc cả được.",
+   "start_ms": 25436,
+   "end_ms": 28916,
+   "words": [
+    {
+     "text": "其实",
+     "start_ms": 25550,
+     "end_ms": 25983
+    },
+    {
+     "text": "在",
+     "start_ms": 26015,
+     "end_ms": 26191
+    },
+    {
+     "text": "市场",
+     "start_ms": 26191,
+     "end_ms": 26800
+    },
+    {
+     "text": "都",
+     "start_ms": 26832,
+     "end_ms": 27056
+    },
+    {
+     "text": "可以",
+     "start_ms": 27056,
+     "end_ms": 27328
+    },
+    {
+     "text": "讲价",
+     "start_ms": 27345,
+     "end_ms": 27938
+    },
+    {
+     "text": "的",
+     "start_ms": 27938,
+     "end_ms": 28194
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": []
+  },
+  {
+   "id": "b03.narr",
+   "section": "b03",
+   "kind": "narration",
+   "speaker": null,
+   "text": "Giờ mình đọc chậm lại hai câu quan trọng nhất. Bạn lặp lại theo nhé.",
+   "tokens": [],
+   "l1": "Giờ mình đọc chậm lại hai câu quan trọng nhất. Bạn lặp lại theo nhé.",
+   "start_ms": 29866,
+   "end_ms": 35146,
+   "words": []
+  },
+  {
+   "id": "b03.00",
+   "section": "b03",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "能便宜一点吗？",
+   "tokens": [
+    {
+     "text": "能",
+     "reading": "néng",
+     "tone": 2
+    },
+    {
+     "text": "便",
+     "reading": "pián",
+     "tone": 2
+    },
+    {
+     "text": "宜",
+     "reading": "yi",
+     "tone": 0
+    },
+    {
+     "text": "一",
+     "reading": "yì",
+     "tone": 4
+    },
+    {
+     "text": "点",
+     "reading": "diǎn",
+     "tone": 3
+    },
+    {
+     "text": "吗",
+     "reading": "ma",
+     "tone": 0
+    },
+    {
+     "text": "？",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Rẻ hơn chút được không?",
+   "start_ms": 35446,
+   "end_ms": 37774,
+   "words": [
+    {
+     "text": "能",
+     "start_ms": 35560,
+     "end_ms": 35784
+    },
+    {
+     "text": "便宜",
+     "start_ms": 35800,
+     "end_ms": 36265
+    },
+    {
+     "text": "一点",
+     "start_ms": 36281,
+     "end_ms": 36682
+    },
+    {
+     "text": "吗",
+     "start_ms": 36682,
+     "end_ms": 37035
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": true,
+   "pause_after_ms": 2000,
+   "targets": [
+    "便宜"
+   ]
+  },
+  {
+   "id": "b03.01",
+   "section": "b03",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "可以打折吗？",
+   "tokens": [
+    {
+     "text": "可",
+     "reading": "kě",
+     "tone": 3
+    },
+    {
+     "text": "以",
+     "reading": "yǐ",
+     "tone": 3
+    },
+    {
+     "text": "打",
+     "reading": "dǎ",
+     "tone": 3
+    },
+    {
+     "text": "折",
+     "reading": "zhé",
+     "tone": 2
+    },
+    {
+     "text": "吗",
+     "reading": "ma",
+     "tone": 0
+    },
+    {
+     "text": "？",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Có giảm giá không?",
+   "start_ms": 42602,
+   "end_ms": 44786,
+   "words": [
+    {
+     "text": "可以",
+     "start_ms": 42716,
+     "end_ms": 43085
+    },
+    {
+     "text": "打折",
+     "start_ms": 43101,
+     "end_ms": 43678
+    },
+    {
+     "text": "吗",
+     "start_ms": 43678,
+     "end_ms": 44047
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": true,
+   "pause_after_ms": 2000,
+   "targets": [
+    "打折"
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "text": "便宜",
+   "reading": "pián yi",
+   "l1": "rẻ",
+   "level": 1,
+   "cognate": {
+    "reading": "tiện nghi",
+    "class": "ban_gia",
+    "false_meaning": "đầy đủ, thoải mái"
+   }
+  },
+  {
+   "text": "打折",
+   "reading": "dǎ zhé",
+   "l1": "giảm giá",
+   "level": 4,
+   "cognate": null
+  }
+ ],
+ "cognate_reveal": {
+  "text": "便宜",
+  "reading": "tiện nghi",
+  "class": "ban_gia",
+  "l1_meaning": "rẻ",
+  "false_meaning": "đầy đủ, thoải mái",
+  "line_id": "b01.00"
+ },
+ "errata": [
+  {
+   "line_id": "b02.00",
+   "note": "买东西 trong tập ghi mǎi dōng xī. Theo CC-CEDICT, 东西 nghĩa “đồ vật” đọc dōngxi (西 thanh nhẹ). Chờ người HSK5+ xác nhận."
+  }
+ ],
+ "attribution": [
+  "CC-CEDICT (CC BY-SA 4.0)",
+  "pypinyin (MIT)"
+ ],
+ "disclosure": {
+  "synthetic_voice": true
+ }
+}

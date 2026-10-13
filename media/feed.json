@@ -1,0 +1,22 @@
+{
+ "schema": "feed/1",
+ "updated_at": "2026-10-13T12:00:00+07:00",
+ "items": [
+  {
+   "id": "lesson-thu-tai-ve-01",
+   "kind": "lesson",
+   "lang": "zh-Hans",
+   "title": "Bài mới: 能便宜一点吗？ (bản thử tải về)",
+   "published_at": "2026-10-13T12:00:00+07:00",
+   "lesson_id": "thu-tai-ve-01"
+  },
+  {
+   "id": "post-261013-01",
+   "kind": "post",
+   "lang": "zh-Hans",
+   "title": "Bài đăng mẫu: ba câu mặc cả",
+   "published_at": "2026-10-13T11:00:00+07:00",
+   "text": "这个太贵了，能便宜一点吗？\n行，给你打个九折吧。\n其实在市场都可以讲价的。"
+  }
+ ]
+}
