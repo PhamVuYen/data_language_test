@@ -1,0 +1,1535 @@
+{
+ "schema": "episode/1",
+ "id": "doi-song-01-en",
+ "pair": "doi-song-01",
+ "lang": {
+  "target": "en",
+  "l1": "vi"
+ },
+ "level": {
+  "scheme": "CEFR",
+  "label": "A2"
+ },
+ "title": {
+  "target": "Buying Fruit",
+  "l1": "Đi chợ mua hoa quả"
+ },
+ "series": {
+  "id": "doi-song-en",
+  "name": "Đời sống",
+  "order": 1
+ },
+ "flags": [],
+ "audio": {
+  "mix": "audio/mix.m4a",
+  "duration_ms": 50303
+ },
+ "speakers": {
+  "A": {
+   "name": "Fruit seller",
+   "l1_name": "cô bán hoa quả"
+  },
+  "B": {
+   "name": "Nam",
+   "l1_name": "Nam"
+  }
+ },
+ "sections": [
+  {
+   "id": "b01",
+   "type": "dialogue",
+   "label": "Hội thoại",
+   "start_ms": 300
+  },
+  {
+   "id": "b02",
+   "type": "recap_slow",
+   "label": "Nhắc lại chậm",
+   "start_ms": 36982
+  }
+ ],
+ "lines": [
+  {
+   "id": "b01.00",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "Hi there, what fruit are you looking for?",
+   "tokens": [
+    {
+     "text": "Hi",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "there",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ",",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "what",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "fruit",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "are",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "you",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "looking",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "for",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "?",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Chào cháu, muốn mua hoa quả gì?",
+   "start_ms": 300,
+   "end_ms": 2610,
+   "words": [
+    {
+     "text": "Hi",
+     "start_ms": 300,
+     "end_ms": 579
+    },
+    {
+     "text": "there",
+     "start_ms": 523,
+     "end_ms": 842
+    },
+    {
+     "text": "what",
+     "start_ms": 1068,
+     "end_ms": 1267
+    },
+    {
+     "text": "fruit",
+     "start_ms": 1281,
+     "end_ms": 1520
+    },
+    {
+     "text": "are",
+     "start_ms": 1533,
+     "end_ms": 1613
+    },
+    {
+     "text": "you",
+     "start_ms": 1626,
+     "end_ms": 1759
+    },
+    {
+     "text": "looking",
+     "start_ms": 1773,
+     "end_ms": 2079
+    },
+    {
+     "text": "for",
+     "start_ms": 2092,
+     "end_ms": 2531
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "你好，想买什么水果？",
+    "reading": "nǐ hǎo xiǎng mǎi shén me shuǐ guǒ"
+   }
+  },
+  {
+   "id": "b01.01",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "How much are these apples?",
+   "tokens": [
+    {
+     "text": "How",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "much",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "are",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "these",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "apples",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "?",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Táo này bán thế nào ạ?",
+   "start_ms": 2960,
+   "end_ms": 4337,
+   "words": [
+    {
+     "text": "How",
+     "start_ms": 2960,
+     "end_ms": 3146
+    },
+    {
+     "text": "much",
+     "start_ms": 3090,
+     "end_ms": 3316
+    },
+    {
+     "text": "are",
+     "start_ms": 3342,
+     "end_ms": 3448
+    },
+    {
+     "text": "these",
+     "start_ms": 3475,
+     "end_ms": 3688
+    },
+    {
+     "text": "apples",
+     "start_ms": 3715,
+     "end_ms": 4260
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "这些苹果怎么卖？",
+    "reading": "zhè xiē píng guǒ zěn me mài"
+   }
+  },
+  {
+   "id": "b01.02",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "Ten yuan a kilo. They just came in this morning.",
+   "tokens": [
+    {
+     "text": "Ten",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "yuan",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "a",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "kilo",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "They",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "just",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "came",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "in",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "this",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "morning",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Mười tệ một cân, đều mới về sáng nay.",
+   "start_ms": 4687,
+   "end_ms": 8614,
+   "words": [
+    {
+     "text": "Ten",
+     "start_ms": 4687,
+     "end_ms": 4980
+    },
+    {
+     "text": "yuan",
+     "start_ms": 4933,
+     "end_ms": 5319
+    },
+    {
+     "text": "a",
+     "start_ms": 5332,
+     "end_ms": 5385
+    },
+    {
+     "text": "kilo",
+     "start_ms": 5398,
+     "end_ms": 5956
+    },
+    {
+     "text": "They",
+     "start_ms": 6891,
+     "end_ms": 7104
+    },
+    {
+     "text": "just",
+     "start_ms": 7117,
+     "end_ms": 7436
+    },
+    {
+     "text": "came",
+     "start_ms": 7450,
+     "end_ms": 7729
+    },
+    {
+     "text": "in",
+     "start_ms": 7742,
+     "end_ms": 7848
+    },
+    {
+     "text": "this",
+     "start_ms": 7862,
+     "end_ms": 8035
+    },
+    {
+     "text": "morning",
+     "start_ms": 8048,
+     "end_ms": 8527
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "十块钱一公斤，都是今天早上刚到的。",
+    "reading": "shí kuài qián yì gōng jīn dōu shì jīn tiān zǎo shang gāng dào de"
+   }
+  },
+  {
+   "id": "b01.03",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "That's a bit pricey. Could you go a little lower?",
+   "tokens": [
+    {
+     "text": "That's",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "a",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "bit",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "pricey",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "Could",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "you",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "go",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "a",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "little",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "lower",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "?",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Hơi đắt, bớt chút được không ạ?",
+   "start_ms": 8964,
+   "end_ms": 12627,
+   "words": [
+    {
+     "text": "That's",
+     "start_ms": 8964,
+     "end_ms": 9283
+    },
+    {
+     "text": "a",
+     "start_ms": 9226,
+     "end_ms": 9306
+    },
+    {
+     "text": "bit",
+     "start_ms": 9332,
+     "end_ms": 9531
+    },
+    {
+     "text": "pricey",
+     "start_ms": 9558,
+     "end_ms": 10130
+    },
+    {
+     "text": "Could",
+     "start_ms": 11051,
+     "end_ms": 11277
+    },
+    {
+     "text": "you",
+     "start_ms": 11290,
+     "end_ms": 11410
+    },
+    {
+     "text": "go",
+     "start_ms": 11436,
+     "end_ms": 11635
+    },
+    {
+     "text": "a",
+     "start_ms": 11662,
+     "end_ms": 11715
+    },
+    {
+     "text": "little",
+     "start_ms": 11742,
+     "end_ms": 12061
+    },
+    {
+     "text": "lower",
+     "start_ms": 12088,
+     "end_ms": 12593
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [
+    "lower"
+   ],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "有点贵，能便宜一点吗？",
+    "reading": "yǒu diǎn guì néng pián yi yì diǎn ma"
+   }
+  },
+  {
+   "id": "b01.04",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "If you take two kilos, I'll make it eighteen yuan.",
+   "tokens": [
+    {
+     "text": "If",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "you",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "take",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "two",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "kilos",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ",",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "I'll",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "make",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "it",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "eighteen",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "yuan",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Nếu cháu mua hai cân, cô tính mười tám tệ.",
+   "start_ms": 12977,
+   "end_ms": 16123,
+   "words": [
+    {
+     "text": "If",
+     "start_ms": 12977,
+     "end_ms": 13163
+    },
+    {
+     "text": "you",
+     "start_ms": 13118,
+     "end_ms": 13224
+    },
+    {
+     "text": "take",
+     "start_ms": 13237,
+     "end_ms": 13530
+    },
+    {
+     "text": "two",
+     "start_ms": 13543,
+     "end_ms": 13756
+    },
+    {
+     "text": "kilos",
+     "start_ms": 13769,
+     "end_ms": 14327
+    },
+    {
+     "text": "I'll",
+     "start_ms": 14594,
+     "end_ms": 14700
+    },
+    {
+     "text": "make",
+     "start_ms": 14713,
+     "end_ms": 14926
+    },
+    {
+     "text": "it",
+     "start_ms": 14939,
+     "end_ms": 15059
+    },
+    {
+     "text": "eighteen",
+     "start_ms": 15072,
+     "end_ms": 15484
+    },
+    {
+     "text": "yuan",
+     "start_ms": 15498,
+     "end_ms": 16030
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "你买两公斤的话，我给你算十八块。",
+    "reading": "nǐ mǎi liǎng gōng jīn de huà wǒ gěi nǐ suàn shí bā kuài"
+   }
+  },
+  {
+   "id": "b01.05",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "Okay, two kilos then. Are they sweet?",
+   "tokens": [
+    {
+     "text": "Okay",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ",",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "two",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "kilos",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "then",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "Are",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "they",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "sweet",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "?",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Vâng, vậy cháu lấy hai cân. Có ngọt không ạ?",
+   "start_ms": 16473,
+   "end_ms": 20016,
+   "words": [
+    {
+     "text": "Okay",
+     "start_ms": 16473,
+     "end_ms": 16938
+    },
+    {
+     "text": "two",
+     "start_ms": 17079,
+     "end_ms": 17305
+    },
+    {
+     "text": "kilos",
+     "start_ms": 17332,
+     "end_ms": 17731
+    },
+    {
+     "text": "then",
+     "start_ms": 17757,
+     "end_ms": 18076
+    },
+    {
+     "text": "Are",
+     "start_ms": 19024,
+     "end_ms": 19210
+    },
+    {
+     "text": "they",
+     "start_ms": 19237,
+     "end_ms": 19370
+    },
+    {
+     "text": "sweet",
+     "start_ms": 19396,
+     "end_ms": 19954
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "好吧，那我要两公斤。甜不甜？",
+    "reading": "hǎo ba nà wǒ yào liǎng gōng jīn tián bù tián"
+   }
+  },
+  {
+   "id": "b01.06",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "Really sweet. Go ahead and try one first.",
+   "tokens": [
+    {
+     "text": "Really",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "sweet",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "Go",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "ahead",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "and",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "try",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "one",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "first",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Ngọt lắm, cháu ăn thử một quả trước đi.",
+   "start_ms": 20366,
+   "end_ms": 24040,
+   "words": [
+    {
+     "text": "Really",
+     "start_ms": 20366,
+     "end_ms": 20778
+    },
+    {
+     "text": "sweet",
+     "start_ms": 20740,
+     "end_ms": 21259
+    },
+    {
+     "text": "Go",
+     "start_ms": 22179,
+     "end_ms": 22432
+    },
+    {
+     "text": "ahead",
+     "start_ms": 22445,
+     "end_ms": 22751
+    },
+    {
+     "text": "and",
+     "start_ms": 22764,
+     "end_ms": 22857
+    },
+    {
+     "text": "try",
+     "start_ms": 22871,
+     "end_ms": 23124
+    },
+    {
+     "text": "one",
+     "start_ms": 23137,
+     "end_ms": 23403
+    },
+    {
+     "text": "first",
+     "start_ms": 23416,
+     "end_ms": 24001
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "特别甜，你可以先尝一个。",
+    "reading": "tè bié tián nǐ kě yǐ xiān cháng yí gè"
+   }
+  },
+  {
+   "id": "b01.07",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "They really are sweet! Can I pay by phone?",
+   "tokens": [
+    {
+     "text": "They",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "really",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "are",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "sweet",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "!",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "Can",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "I",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "pay",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "by",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "phone",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "?",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Ngọt thật! Trả bằng điện thoại được không ạ?",
+   "start_ms": 24390,
+   "end_ms": 27888,
+   "words": [
+    {
+     "text": "They",
+     "start_ms": 24390,
+     "end_ms": 24603
+    },
+    {
+     "text": "really",
+     "start_ms": 24530,
+     "end_ms": 24942
+    },
+    {
+     "text": "are",
+     "start_ms": 24968,
+     "end_ms": 25101
+    },
+    {
+     "text": "sweet",
+     "start_ms": 25128,
+     "end_ms": 25647
+    },
+    {
+     "text": "Can",
+     "start_ms": 26567,
+     "end_ms": 26753
+    },
+    {
+     "text": "I",
+     "start_ms": 26780,
+     "end_ms": 26873
+    },
+    {
+     "text": "pay",
+     "start_ms": 26886,
+     "end_ms": 27099
+    },
+    {
+     "text": "by",
+     "start_ms": 27113,
+     "end_ms": 27286
+    },
+    {
+     "text": "phone",
+     "start_ms": 27312,
+     "end_ms": 27791
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [
+    "pay"
+   ],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "真的很甜！可以用手机付钱吗？",
+    "reading": "zhēn de hěn tián kě yǐ yòng shǒu jī fù qián ma"
+   }
+  },
+  {
+   "id": "b01.08",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "Sure, just scan this code.",
+   "tokens": [
+    {
+     "text": "Sure",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ",",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "just",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "scan",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "this",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "code",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Được, quét mã này là được.",
+   "start_ms": 28238,
+   "end_ms": 30258,
+   "words": [
+    {
+     "text": "Sure",
+     "start_ms": 28238,
+     "end_ms": 28823
+    },
+    {
+     "text": "just",
+     "start_ms": 28931,
+     "end_ms": 29184
+    },
+    {
+     "text": "scan",
+     "start_ms": 29197,
+     "end_ms": 29556
+    },
+    {
+     "text": "this",
+     "start_ms": 29569,
+     "end_ms": 29742
+    },
+    {
+     "text": "code",
+     "start_ms": 29756,
+     "end_ms": 30221
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "可以，扫这个码就行。",
+    "reading": "kě yǐ sǎo zhè ge mǎ jiù xíng"
+   }
+  },
+  {
+   "id": "b01.09",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "All paid. Thank you!",
+   "tokens": [
+    {
+     "text": "All",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "paid",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "Thank",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "you",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "!",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Cháu trả rồi, cảm ơn cô!",
+   "start_ms": 30608,
+   "end_ms": 33145,
+   "words": [
+    {
+     "text": "All",
+     "start_ms": 30608,
+     "end_ms": 30914
+    },
+    {
+     "text": "paid",
+     "start_ms": 30867,
+     "end_ms": 31399
+    },
+    {
+     "text": "Thank",
+     "start_ms": 32347,
+     "end_ms": 32706
+    },
+    {
+     "text": "you",
+     "start_ms": 32732,
+     "end_ms": 33051
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "付好了，谢谢阿姨！",
+    "reading": "fù hǎo le xiè xie ā yí"
+   }
+  },
+  {
+   "id": "b01.10",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "You're welcome. Come again!",
+   "tokens": [
+    {
+     "text": "You're",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "welcome",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "Come",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "again",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "!",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Không có gì, lần sau lại đến nhé!",
+   "start_ms": 33495,
+   "end_ms": 36082,
+   "words": [
+    {
+     "text": "You're",
+     "start_ms": 33495,
+     "end_ms": 33734
+    },
+    {
+     "text": "welcome",
+     "start_ms": 33696,
+     "end_ms": 34254
+    },
+    {
+     "text": "Come",
+     "start_ms": 35175,
+     "end_ms": 35441
+    },
+    {
+     "text": "again",
+     "start_ms": 35454,
+     "end_ms": 35986
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "不客气，下次再来！",
+    "reading": "bú kè qi xià cì zài lái"
+   }
+  },
+  {
+   "id": "b02.00",
+   "section": "b02",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "That's a bit pricey. Could you go a little lower?",
+   "tokens": [
+    {
+     "text": "That's",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "a",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "bit",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "pricey",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "Could",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "you",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "go",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "a",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "little",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "lower",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "?",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Hơi đắt, bớt chút được không ạ?",
+   "start_ms": 36982,
+   "end_ms": 41264,
+   "words": [
+    {
+     "text": "That's",
+     "start_ms": 36982,
+     "end_ms": 37357
+    },
+    {
+     "text": "a",
+     "start_ms": 37284,
+     "end_ms": 37378
+    },
+    {
+     "text": "bit",
+     "start_ms": 37409,
+     "end_ms": 37643
+    },
+    {
+     "text": "pricey",
+     "start_ms": 37675,
+     "end_ms": 38347
+    },
+    {
+     "text": "Could",
+     "start_ms": 39437,
+     "end_ms": 39703
+    },
+    {
+     "text": "you",
+     "start_ms": 39719,
+     "end_ms": 39860
+    },
+    {
+     "text": "go",
+     "start_ms": 39890,
+     "end_ms": 40124
+    },
+    {
+     "text": "a",
+     "start_ms": 40156,
+     "end_ms": 40218
+    },
+    {
+     "text": "little",
+     "start_ms": 40250,
+     "end_ms": 40625
+    },
+    {
+     "text": "lower",
+     "start_ms": 40656,
+     "end_ms": 41250
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": true,
+   "pause_after_ms": 2000,
+   "targets": [
+    "lower"
+   ],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "有点贵，能便宜一点吗？",
+    "reading": "yǒu diǎn guì néng pián yi yì diǎn ma"
+   }
+  },
+  {
+   "id": "b02.01",
+   "section": "b02",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "They really are sweet! Can I pay by phone?",
+   "tokens": [
+    {
+     "text": "They",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "really",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "are",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "sweet",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "!",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "Can",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "I",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "pay",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "by",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "phone",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "?",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Ngọt thật! Trả bằng điện thoại được không ạ?",
+   "start_ms": 43614,
+   "end_ms": 47703,
+   "words": [
+    {
+     "text": "They",
+     "start_ms": 43614,
+     "end_ms": 43864
+    },
+    {
+     "text": "really",
+     "start_ms": 43770,
+     "end_ms": 44254
+    },
+    {
+     "text": "are",
+     "start_ms": 44285,
+     "end_ms": 44441
+    },
+    {
+     "text": "sweet",
+     "start_ms": 44473,
+     "end_ms": 45082
+    },
+    {
+     "text": "Can",
+     "start_ms": 46173,
+     "end_ms": 46392
+    },
+    {
+     "text": "I",
+     "start_ms": 46423,
+     "end_ms": 46532
+    },
+    {
+     "text": "pay",
+     "start_ms": 46548,
+     "end_ms": 46798
+    },
+    {
+     "text": "by",
+     "start_ms": 46814,
+     "end_ms": 47017
+    },
+    {
+     "text": "phone",
+     "start_ms": 47048,
+     "end_ms": 47610
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": true,
+   "pause_after_ms": 2000,
+   "targets": [
+    "pay"
+   ],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "真的很甜！可以用手机付钱吗？",
+    "reading": "zhēn de hěn tián kě yǐ yòng shǒu jī fù qián ma"
+   }
+  }
+ ],
+ "vocab": [
+  {
+   "text": "pricey",
+   "reading": null,
+   "l1": "đắt",
+   "level": null,
+   "cognate": null
+  },
+  {
+   "text": "go lower",
+   "reading": null,
+   "l1": "bớt giá",
+   "level": null,
+   "cognate": null
+  },
+  {
+   "text": "scan",
+   "reading": null,
+   "l1": "quét (mã)",
+   "level": null,
+   "cognate": null
+  }
+ ],
+ "cognate_reveal": null,
+ "errata": [],
+ "attribution": [],
+ "disclosure": {
+  "synthetic_voice": true
+ }
+}

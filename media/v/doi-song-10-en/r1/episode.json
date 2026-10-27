@@ -1,0 +1,1735 @@
+{
+ "schema": "episode/1",
+ "id": "doi-song-10-en",
+ "pair": "doi-song-10",
+ "lang": {
+  "target": "en",
+  "l1": "vi"
+ },
+ "level": {
+  "scheme": "CEFR",
+  "label": "A2"
+ },
+ "title": {
+  "target": "First Day at Work",
+  "l1": "Ngày đầu đi làm"
+ },
+ "series": {
+  "id": "doi-song-en",
+  "name": "Đời sống",
+  "order": 10
+ },
+ "flags": [],
+ "audio": {
+  "mix": "audio/mix.m4a",
+  "duration_ms": 55247
+ },
+ "speakers": {
+  "A": {
+   "name": "Mr. Wang",
+   "l1_name": "quản lý Vương"
+  },
+  "B": {
+   "name": "Nam",
+   "l1_name": "Nam"
+  }
+ },
+ "sections": [
+  {
+   "id": "b01",
+   "type": "dialogue",
+   "label": "Hội thoại",
+   "start_ms": 300
+  },
+  {
+   "id": "b02",
+   "type": "recap_slow",
+   "label": "Nhắc lại chậm",
+   "start_ms": 43718
+  }
+ ],
+ "lines": [
+  {
+   "id": "b01.00",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "Welcome to the company! I'm Wang, the manager.",
+   "tokens": [
+    {
+     "text": "Welcome",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "to",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "the",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "company",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "!",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "I'm",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "Wang",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ",",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "the",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "manager",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Chào mừng cậu gia nhập công ty! Tôi là quản lý Vương.",
+   "start_ms": 300,
+   "end_ms": 4138,
+   "words": [
+    {
+     "text": "Welcome",
+     "start_ms": 300,
+     "end_ms": 779
+    },
+    {
+     "text": "to",
+     "start_ms": 729,
+     "end_ms": 822
+    },
+    {
+     "text": "the",
+     "start_ms": 836,
+     "end_ms": 942
+    },
+    {
+     "text": "company",
+     "start_ms": 955,
+     "end_ms": 1527
+    },
+    {
+     "text": "I'm",
+     "start_ms": 2448,
+     "end_ms": 2701
+    },
+    {
+     "text": "Wang",
+     "start_ms": 2714,
+     "end_ms": 3126
+    },
+    {
+     "text": "the",
+     "start_ms": 3379,
+     "end_ms": 3472
+    },
+    {
+     "text": "manager",
+     "start_ms": 3485,
+     "end_ms": 4137
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "欢迎你加入我们公司！我是王经理。",
+    "reading": "huān yíng nǐ jiā rù wǒ men gōng sī wǒ shì wáng jīng lǐ"
+   }
+  },
+  {
+   "id": "b01.01",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "Hello, Mr. Wang. I'm Nam. It's a pleasure to meet you.",
+   "tokens": [
+    {
+     "text": "Hello",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ",",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "Mr",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "Wang",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "I'm",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "Nam",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "It's",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "a",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "pleasure",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "to",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "meet",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "you",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Chào anh Vương, tôi là Nam, rất vui được gặp anh.",
+   "start_ms": 4488,
+   "end_ms": 10120,
+   "words": [
+    {
+     "text": "Hello",
+     "start_ms": 4488,
+     "end_ms": 4940
+    },
+    {
+     "text": "Mr",
+     "start_ms": 5079,
+     "end_ms": 5465
+    },
+    {
+     "text": "Wang",
+     "start_ms": 5492,
+     "end_ms": 5918
+    },
+    {
+     "text": "I'm",
+     "start_ms": 6851,
+     "end_ms": 7130
+    },
+    {
+     "text": "Nam",
+     "start_ms": 7157,
+     "end_ms": 7636
+    },
+    {
+     "text": "It's",
+     "start_ms": 8553,
+     "end_ms": 8792
+    },
+    {
+     "text": "a",
+     "start_ms": 8806,
+     "end_ms": 8899
+    },
+    {
+     "text": "pleasure",
+     "start_ms": 8926,
+     "end_ms": 9338
+    },
+    {
+     "text": "to",
+     "start_ms": 9364,
+     "end_ms": 9470
+    },
+    {
+     "text": "meet",
+     "start_ms": 9484,
+     "end_ms": 9723
+    },
+    {
+     "text": "you",
+     "start_ms": 9750,
+     "end_ms": 10016
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "王经理好，我是阿南，很高兴认识您。",
+    "reading": "wáng jīng lǐ hǎo wǒ shì ā nán hěn gāo xìng rèn shi nín"
+   }
+  },
+  {
+   "id": "b01.02",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "Let me show you around the office first. This is your desk.",
+   "tokens": [
+    {
+     "text": "Let",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "me",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "show",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "you",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "around",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "the",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "office",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "first",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "This",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "is",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "your",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "desk",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Để tôi dẫn cậu đi xem văn phòng trước. Đây là chỗ ngồi của cậu.",
+   "start_ms": 10470,
+   "end_ms": 14773,
+   "words": [
+    {
+     "text": "Let",
+     "start_ms": 10470,
+     "end_ms": 10669
+    },
+    {
+     "text": "me",
+     "start_ms": 10629,
+     "end_ms": 10735
+    },
+    {
+     "text": "show",
+     "start_ms": 10749,
+     "end_ms": 11002
+    },
+    {
+     "text": "you",
+     "start_ms": 11015,
+     "end_ms": 11188
+    },
+    {
+     "text": "around",
+     "start_ms": 11201,
+     "end_ms": 11533
+    },
+    {
+     "text": "the",
+     "start_ms": 11547,
+     "end_ms": 11640
+    },
+    {
+     "text": "office",
+     "start_ms": 11653,
+     "end_ms": 12065
+    },
+    {
+     "text": "first",
+     "start_ms": 12078,
+     "end_ms": 12636
+    },
+    {
+     "text": "This",
+     "start_ms": 13558,
+     "end_ms": 13837
+    },
+    {
+     "text": "is",
+     "start_ms": 13850,
+     "end_ms": 13983
+    },
+    {
+     "text": "your",
+     "start_ms": 13997,
+     "end_ms": 14130
+    },
+    {
+     "text": "desk",
+     "start_ms": 14143,
+     "end_ms": 14715
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "我先带你看看办公室。这是你的座位。",
+    "reading": "wǒ xiān dài nǐ kàn kan bàn gōng shì zhè shì nǐ de zuò wèi"
+   }
+  },
+  {
+   "id": "b01.03",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "Thanks. What time do we start every day?",
+   "tokens": [
+    {
+     "text": "Thanks",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "What",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "time",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "do",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "we",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "start",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "every",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "day",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "?",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Cảm ơn anh. Mỗi ngày mấy giờ mình vào làm?",
+   "start_ms": 15123,
+   "end_ms": 18551,
+   "words": [
+    {
+     "text": "Thanks",
+     "start_ms": 15123,
+     "end_ms": 15775
+    },
+    {
+     "text": "What",
+     "start_ms": 16575,
+     "end_ms": 16828
+    },
+    {
+     "text": "time",
+     "start_ms": 16855,
+     "end_ms": 17134
+    },
+    {
+     "text": "do",
+     "start_ms": 17160,
+     "end_ms": 17280
+    },
+    {
+     "text": "we",
+     "start_ms": 17293,
+     "end_ms": 17426
+    },
+    {
+     "text": "start",
+     "start_ms": 17453,
+     "end_ms": 17785
+    },
+    {
+     "text": "every",
+     "start_ms": 17812,
+     "end_ms": 18051
+    },
+    {
+     "text": "day",
+     "start_ms": 18065,
+     "end_ms": 18464
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [
+    "start"
+   ],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "谢谢。我们每天几点上班？",
+    "reading": "xiè xie wǒ men měi tiān jǐ diǎn shàng bān"
+   }
+  },
+  {
+   "id": "b01.04",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "We start at nine in the morning and finish at six, with an hour for lunch.",
+   "tokens": [
+    {
+     "text": "We",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "start",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "at",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "nine",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "in",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "the",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "morning",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "and",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "finish",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "at",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "six",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ",",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "with",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "an",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "hour",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "for",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "lunch",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Chín giờ sáng vào làm, sáu giờ chiều tan làm, trưa nghỉ một tiếng.",
+   "start_ms": 18901,
+   "end_ms": 23316,
+   "words": [
+    {
+     "text": "We",
+     "start_ms": 18901,
+     "end_ms": 19087
+    },
+    {
+     "text": "start",
+     "start_ms": 19039,
+     "end_ms": 19385
+    },
+    {
+     "text": "at",
+     "start_ms": 19398,
+     "end_ms": 19504
+    },
+    {
+     "text": "nine",
+     "start_ms": 19517,
+     "end_ms": 19876
+    },
+    {
+     "text": "in",
+     "start_ms": 19890,
+     "end_ms": 19943
+    },
+    {
+     "text": "the",
+     "start_ms": 19956,
+     "end_ms": 20009
+    },
+    {
+     "text": "morning",
+     "start_ms": 20023,
+     "end_ms": 20449
+    },
+    {
+     "text": "and",
+     "start_ms": 20462,
+     "end_ms": 20555
+    },
+    {
+     "text": "finish",
+     "start_ms": 20568,
+     "end_ms": 21007
+    },
+    {
+     "text": "at",
+     "start_ms": 21020,
+     "end_ms": 21140
+    },
+    {
+     "text": "six",
+     "start_ms": 21153,
+     "end_ms": 21685
+    },
+    {
+     "text": "with",
+     "start_ms": 21884,
+     "end_ms": 22044
+    },
+    {
+     "text": "an",
+     "start_ms": 22057,
+     "end_ms": 22177
+    },
+    {
+     "text": "hour",
+     "start_ms": 22190,
+     "end_ms": 22522
+    },
+    {
+     "text": "for",
+     "start_ms": 22536,
+     "end_ms": 22696
+    },
+    {
+     "text": "lunch",
+     "start_ms": 22709,
+     "end_ms": 23241
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "早上九点上班，下午六点下班，中午休息一个小时。",
+    "reading": "zǎo shang jiǔ diǎn shàng bān xià wǔ liù diǎn xià bān zhōng wǔ xiū xi yí gè xiǎo shí"
+   }
+  },
+  {
+   "id": "b01.05",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "If I have a question, who should I ask?",
+   "tokens": [
+    {
+     "text": "If",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "I",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "have",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "a",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "question",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ",",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "who",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "should",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "I",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "ask",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "?",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Nếu có vấn đề thì tôi nên hỏi ai?",
+   "start_ms": 23666,
+   "end_ms": 25879,
+   "words": [
+    {
+     "text": "If",
+     "start_ms": 23666,
+     "end_ms": 23865
+    },
+    {
+     "text": "I",
+     "start_ms": 23826,
+     "end_ms": 23919
+    },
+    {
+     "text": "have",
+     "start_ms": 23946,
+     "end_ms": 24106
+    },
+    {
+     "text": "a",
+     "start_ms": 24119,
+     "end_ms": 24185
+    },
+    {
+     "text": "question",
+     "start_ms": 24199,
+     "end_ms": 24678
+    },
+    {
+     "text": "who",
+     "start_ms": 24863,
+     "end_ms": 24969
+    },
+    {
+     "text": "should",
+     "start_ms": 24996,
+     "end_ms": 25195
+    },
+    {
+     "text": "I",
+     "start_ms": 25223,
+     "end_ms": 25329
+    },
+    {
+     "text": "ask",
+     "start_ms": 25355,
+     "end_ms": 25807
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [
+    "should"
+   ],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "如果有问题，我应该问谁？",
+    "reading": "rú guǒ yǒu wèn tí wǒ yīng gāi wèn shuí"
+   }
+  },
+  {
+   "id": "b01.06",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "You can ask Xiao Li. She sits right next to you.",
+   "tokens": [
+    {
+     "text": "You",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "can",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "ask",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "Xiao",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "Li",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "She",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "sits",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "right",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "next",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "to",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "you",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Cậu có thể hỏi Tiểu Lý, cô ấy ngồi ngay cạnh cậu.",
+   "start_ms": 26229,
+   "end_ms": 30105,
+   "words": [
+    {
+     "text": "You",
+     "start_ms": 26229,
+     "end_ms": 26415
+    },
+    {
+     "text": "can",
+     "start_ms": 26370,
+     "end_ms": 26543
+    },
+    {
+     "text": "ask",
+     "start_ms": 26556,
+     "end_ms": 26862
+    },
+    {
+     "text": "Xiao",
+     "start_ms": 26875,
+     "end_ms": 27168
+    },
+    {
+     "text": "Li",
+     "start_ms": 27181,
+     "end_ms": 27513
+    },
+    {
+     "text": "She",
+     "start_ms": 28434,
+     "end_ms": 28700
+    },
+    {
+     "text": "sits",
+     "start_ms": 28713,
+     "end_ms": 29059
+    },
+    {
+     "text": "right",
+     "start_ms": 29072,
+     "end_ms": 29325
+    },
+    {
+     "text": "next",
+     "start_ms": 29338,
+     "end_ms": 29631
+    },
+    {
+     "text": "to",
+     "start_ms": 29644,
+     "end_ms": 29710
+    },
+    {
+     "text": "you",
+     "start_ms": 29724,
+     "end_ms": 30070
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "你可以问小李，她就坐在你旁边。",
+    "reading": "nǐ kě yǐ wèn xiǎo lǐ tā jiù zuò zài nǐ páng biān"
+   }
+  },
+  {
+   "id": "b01.07",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "Okay. What do I need to do today?",
+   "tokens": [
+    {
+     "text": "Okay",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "What",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "do",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "I",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "need",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "to",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "do",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "today",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "?",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Vâng. Hôm nay tôi cần làm gì ạ?",
+   "start_ms": 30455,
+   "end_ms": 33590,
+   "words": [
+    {
+     "text": "Okay",
+     "start_ms": 30455,
+     "end_ms": 31186
+    },
+    {
+     "text": "What",
+     "start_ms": 32056,
+     "end_ms": 32282
+    },
+    {
+     "text": "do",
+     "start_ms": 32296,
+     "end_ms": 32429
+    },
+    {
+     "text": "I",
+     "start_ms": 32442,
+     "end_ms": 32508
+    },
+    {
+     "text": "need",
+     "start_ms": 32535,
+     "end_ms": 32748
+    },
+    {
+     "text": "to",
+     "start_ms": 32761,
+     "end_ms": 32854
+    },
+    {
+     "text": "do",
+     "start_ms": 32881,
+     "end_ms": 33054
+    },
+    {
+     "text": "today",
+     "start_ms": 33067,
+     "end_ms": 33506
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "好的。今天我需要做什么？",
+    "reading": "hǎo de jīn tiān wǒ xū yào zuò shén me"
+   }
+  },
+  {
+   "id": "b01.08",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "Today, just get to know the workplace. We have a meeting at three this afternoon.",
+   "tokens": [
+    {
+     "text": "Today",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ",",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "just",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "get",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "to",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "know",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "the",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "workplace",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "We",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "have",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "a",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "meeting",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "at",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "three",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "this",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "afternoon",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Hôm nay cứ làm quen với môi trường làm việc trước, ba giờ chiều họp.",
+   "start_ms": 33940,
+   "end_ms": 39501,
+   "words": [
+    {
+     "text": "Today",
+     "start_ms": 33940,
+     "end_ms": 34432
+    },
+    {
+     "text": "just",
+     "start_ms": 34611,
+     "end_ms": 34877
+    },
+    {
+     "text": "get",
+     "start_ms": 34891,
+     "end_ms": 35024
+    },
+    {
+     "text": "to",
+     "start_ms": 35037,
+     "end_ms": 35143
+    },
+    {
+     "text": "know",
+     "start_ms": 35156,
+     "end_ms": 35369
+    },
+    {
+     "text": "the",
+     "start_ms": 35383,
+     "end_ms": 35489
+    },
+    {
+     "text": "workplace",
+     "start_ms": 35502,
+     "end_ms": 36313
+    },
+    {
+     "text": "We",
+     "start_ms": 37234,
+     "end_ms": 37420
+    },
+    {
+     "text": "have",
+     "start_ms": 37434,
+     "end_ms": 37594
+    },
+    {
+     "text": "a",
+     "start_ms": 37606,
+     "end_ms": 37672
+    },
+    {
+     "text": "meeting",
+     "start_ms": 37686,
+     "end_ms": 38072
+    },
+    {
+     "text": "at",
+     "start_ms": 38085,
+     "end_ms": 38218
+    },
+    {
+     "text": "three",
+     "start_ms": 38232,
+     "end_ms": 38525
+    },
+    {
+     "text": "this",
+     "start_ms": 38537,
+     "end_ms": 38723
+    },
+    {
+     "text": "afternoon",
+     "start_ms": 38737,
+     "end_ms": 39442
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "今天先熟悉一下工作环境，下午三点开会。",
+    "reading": "jīn tiān xiān shú xī yí xià gōng zuò huán jìng xià wǔ sān diǎn kāi huì"
+   }
+  },
+  {
+   "id": "b01.09",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "Understood. I'll do my best!",
+   "tokens": [
+    {
+     "text": "Understood",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "I'll",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "do",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "my",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "best",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "!",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Tôi hiểu rồi, tôi sẽ cố gắng!",
+   "start_ms": 39851,
+   "end_ms": 42818,
+   "words": [
+    {
+     "text": "Understood",
+     "start_ms": 39851,
+     "end_ms": 40822
+    },
+    {
+     "text": "I'll",
+     "start_ms": 41687,
+     "end_ms": 41886
+    },
+    {
+     "text": "do",
+     "start_ms": 41913,
+     "end_ms": 42033
+    },
+    {
+     "text": "my",
+     "start_ms": 42046,
+     "end_ms": 42192
+    },
+    {
+     "text": "best",
+     "start_ms": 42219,
+     "end_ms": 42764
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "明白了，我会努力的！",
+    "reading": "míng bai le wǒ huì nǔ lì de"
+   }
+  },
+  {
+   "id": "b02.00",
+   "section": "b02",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "Thanks. What time do we start every day?",
+   "tokens": [
+    {
+     "text": "Thanks",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "What",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "time",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "do",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "we",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "start",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "every",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "day",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "?",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Cảm ơn anh. Mỗi ngày mấy giờ mình vào làm?",
+   "start_ms": 43718,
+   "end_ms": 47718,
+   "words": [
+    {
+     "text": "Thanks",
+     "start_ms": 43718,
+     "end_ms": 44484
+    },
+    {
+     "text": "What",
+     "start_ms": 45420,
+     "end_ms": 45717
+    },
+    {
+     "text": "time",
+     "start_ms": 45748,
+     "end_ms": 46076
+    },
+    {
+     "text": "do",
+     "start_ms": 46108,
+     "end_ms": 46249
+    },
+    {
+     "text": "we",
+     "start_ms": 46264,
+     "end_ms": 46420
+    },
+    {
+     "text": "start",
+     "start_ms": 46451,
+     "end_ms": 46842
+    },
+    {
+     "text": "every",
+     "start_ms": 46873,
+     "end_ms": 47154
+    },
+    {
+     "text": "day",
+     "start_ms": 47170,
+     "end_ms": 47639
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": true,
+   "pause_after_ms": 2000,
+   "targets": [
+    "start"
+   ],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "谢谢。我们每天几点上班？",
+    "reading": "xiè xie wǒ men měi tiān jǐ diǎn shàng bān"
+   }
+  },
+  {
+   "id": "b02.01",
+   "section": "b02",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "If I have a question, who should I ask?",
+   "tokens": [
+    {
+     "text": "If",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "I",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "have",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "a",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "question",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ",",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "who",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "should",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "I",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "ask",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "?",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Nếu có vấn đề thì tôi nên hỏi ai?",
+   "start_ms": 50068,
+   "end_ms": 52647,
+   "words": [
+    {
+     "text": "If",
+     "start_ms": 50068,
+     "end_ms": 50302
+    },
+    {
+     "text": "I",
+     "start_ms": 50253,
+     "end_ms": 50362
+    },
+    {
+     "text": "have",
+     "start_ms": 50394,
+     "end_ms": 50582
+    },
+    {
+     "text": "a",
+     "start_ms": 50597,
+     "end_ms": 50675
+    },
+    {
+     "text": "question",
+     "start_ms": 50691,
+     "end_ms": 51253
+    },
+    {
+     "text": "who",
+     "start_ms": 51472,
+     "end_ms": 51597
+    },
+    {
+     "text": "should",
+     "start_ms": 51628,
+     "end_ms": 51862
+    },
+    {
+     "text": "I",
+     "start_ms": 51894,
+     "end_ms": 52019
+    },
+    {
+     "text": "ask",
+     "start_ms": 52050,
+     "end_ms": 52581
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": true,
+   "pause_after_ms": 2000,
+   "targets": [
+    "should"
+   ],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "如果有问题，我应该问谁？",
+    "reading": "rú guǒ yǒu wèn tí wǒ yīng gāi wèn shuí"
+   }
+  }
+ ],
+ "vocab": [
+  {
+   "text": "show around",
+   "reading": null,
+   "l1": "dẫn đi xem",
+   "level": null,
+   "cognate": null
+  },
+  {
+   "text": "workplace",
+   "reading": null,
+   "l1": "nơi làm việc",
+   "level": null,
+   "cognate": null
+  },
+  {
+   "text": "do my best",
+   "reading": null,
+   "l1": "cố hết sức",
+   "level": null,
+   "cognate": null
+  }
+ ],
+ "cognate_reveal": null,
+ "errata": [],
+ "attribution": [],
+ "disclosure": {
+  "synthetic_voice": true
+ }
+}

@@ -1,0 +1,1640 @@
+{
+ "schema": "episode/1",
+ "id": "doi-song-08-en",
+ "pair": "doi-song-08",
+ "lang": {
+  "target": "en",
+  "l1": "vi"
+ },
+ "level": {
+  "scheme": "CEFR",
+  "label": "A2"
+ },
+ "title": {
+  "target": "Buying a Train Ticket",
+  "l1": "Mua vé tàu cao tốc"
+ },
+ "series": {
+  "id": "doi-song-en",
+  "name": "Đời sống",
+  "order": 8
+ },
+ "flags": [],
+ "audio": {
+  "mix": "audio/mix.m4a",
+  "duration_ms": 45905
+ },
+ "speakers": {
+  "A": {
+   "name": "Ticket agent",
+   "l1_name": "nhân viên bán vé"
+  },
+  "B": {
+   "name": "Nam",
+   "l1_name": "Nam"
+  }
+ },
+ "sections": [
+  {
+   "id": "b01",
+   "type": "dialogue",
+   "label": "Hội thoại",
+   "start_ms": 300
+  },
+  {
+   "id": "b02",
+   "type": "recap_slow",
+   "label": "Nhắc lại chậm",
+   "start_ms": 34703
+  }
+ ],
+ "lines": [
+  {
+   "id": "b01.00",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "Hi, I'd like a high-speed train ticket to Shanghai for tomorrow.",
+   "tokens": [
+    {
+     "text": "Hi",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ",",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "I'd",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "like",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "a",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "high",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "-",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "speed",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "train",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "ticket",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "to",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "Shanghai",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "for",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "tomorrow",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Chào anh, tôi muốn mua một vé tàu cao tốc đi Thượng Hải ngày mai.",
+   "start_ms": 300,
+   "end_ms": 3809,
+   "words": [
+    {
+     "text": "Hi",
+     "start_ms": 300,
+     "end_ms": 659
+    },
+    {
+     "text": "I'd",
+     "start_ms": 767,
+     "end_ms": 953
+    },
+    {
+     "text": "like",
+     "start_ms": 980,
+     "end_ms": 1140
+    },
+    {
+     "text": "a",
+     "start_ms": 1153,
+     "end_ms": 1206
+    },
+    {
+     "text": "high",
+     "start_ms": 1220,
+     "end_ms": 1444
+    },
+    {
+     "text": "speed",
+     "start_ms": 1444,
+     "end_ms": 1725
+    },
+    {
+     "text": "train",
+     "start_ms": 1751,
+     "end_ms": 2017
+    },
+    {
+     "text": "ticket",
+     "start_ms": 2044,
+     "end_ms": 2350
+    },
+    {
+     "text": "to",
+     "start_ms": 2376,
+     "end_ms": 2482
+    },
+    {
+     "text": "Shanghai",
+     "start_ms": 2496,
+     "end_ms": 2975
+    },
+    {
+     "text": "for",
+     "start_ms": 3001,
+     "end_ms": 3161
+    },
+    {
+     "text": "tomorrow",
+     "start_ms": 3188,
+     "end_ms": 3720
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [
+    "ticket"
+   ],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "你好，我想买一张明天去上海的高铁票。",
+    "reading": "nǐ hǎo wǒ xiǎng mǎi yì zhāng míng tiān qù shàng hǎi de gāo tiě piào"
+   }
+  },
+  {
+   "id": "b01.01",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "Morning or afternoon?",
+   "tokens": [
+    {
+     "text": "Morning",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "or",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "afternoon",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "?",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Buổi sáng hay buổi chiều?",
+   "start_ms": 4159,
+   "end_ms": 5523,
+   "words": [
+    {
+     "text": "Morning",
+     "start_ms": 4159,
+     "end_ms": 4678
+    },
+    {
+     "text": "or",
+     "start_ms": 4628,
+     "end_ms": 4788
+    },
+    {
+     "text": "afternoon",
+     "start_ms": 4801,
+     "end_ms": 5439
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "上午还是下午？",
+    "reading": "shàng wǔ hái shì xià wǔ"
+   }
+  },
+  {
+   "id": "b01.02",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "Morning, the earlier the better.",
+   "tokens": [
+    {
+     "text": "Morning",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ",",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "the",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "earlier",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "the",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "better",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Buổi sáng, càng sớm càng tốt.",
+   "start_ms": 5873,
+   "end_ms": 7901,
+   "words": [
+    {
+     "text": "Morning",
+     "start_ms": 5873,
+     "end_ms": 6418
+    },
+    {
+     "text": "the",
+     "start_ms": 6596,
+     "end_ms": 6716
+    },
+    {
+     "text": "earlier",
+     "start_ms": 6742,
+     "end_ms": 7221
+    },
+    {
+     "text": "the",
+     "start_ms": 7247,
+     "end_ms": 7367
+    },
+    {
+     "text": "better",
+     "start_ms": 7394,
+     "end_ms": 7859
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "上午，最好早一点。",
+    "reading": "shàng wǔ zuì hǎo zǎo yì diǎn"
+   }
+  },
+  {
+   "id": "b01.03",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "There's one at eight in the morning, and second class still has seats.",
+   "tokens": [
+    {
+     "text": "There's",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "one",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "at",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "eight",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "in",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "the",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "morning",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ",",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "and",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "second",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "class",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "still",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "has",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "seats",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Tám giờ sáng có một chuyến, ghế hạng hai vẫn còn vé.",
+   "start_ms": 8251,
+   "end_ms": 12095,
+   "words": [
+    {
+     "text": "There's",
+     "start_ms": 8251,
+     "end_ms": 8530
+    },
+    {
+     "text": "one",
+     "start_ms": 8472,
+     "end_ms": 8725
+    },
+    {
+     "text": "at",
+     "start_ms": 8738,
+     "end_ms": 8898
+    },
+    {
+     "text": "eight",
+     "start_ms": 8911,
+     "end_ms": 9097
+    },
+    {
+     "text": "in",
+     "start_ms": 9110,
+     "end_ms": 9176
+    },
+    {
+     "text": "the",
+     "start_ms": 9190,
+     "end_ms": 9243
+    },
+    {
+     "text": "morning",
+     "start_ms": 9256,
+     "end_ms": 9708
+    },
+    {
+     "text": "and",
+     "start_ms": 9948,
+     "end_ms": 10094
+    },
+    {
+     "text": "second",
+     "start_ms": 10107,
+     "end_ms": 10493
+    },
+    {
+     "text": "class",
+     "start_ms": 10506,
+     "end_ms": 10905
+    },
+    {
+     "text": "still",
+     "start_ms": 10919,
+     "end_ms": 11225
+    },
+    {
+     "text": "has",
+     "start_ms": 11238,
+     "end_ms": 11464
+    },
+    {
+     "text": "seats",
+     "start_ms": 11477,
+     "end_ms": 12035
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "早上八点有一班，二等座还有票。",
+    "reading": "zǎo shang bā diǎn yǒu yì bān èr děng zuò hái yǒu piào"
+   }
+  },
+  {
+   "id": "b01.04",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "How much is a ticket?",
+   "tokens": [
+    {
+     "text": "How",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "much",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "is",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "a",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "ticket",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "?",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Bao nhiêu tiền một vé?",
+   "start_ms": 12445,
+   "end_ms": 13617,
+   "words": [
+    {
+     "text": "How",
+     "start_ms": 12445,
+     "end_ms": 12644
+    },
+    {
+     "text": "much",
+     "start_ms": 12582,
+     "end_ms": 12808
+    },
+    {
+     "text": "is",
+     "start_ms": 12835,
+     "end_ms": 12968
+    },
+    {
+     "text": "a",
+     "start_ms": 12994,
+     "end_ms": 13074
+    },
+    {
+     "text": "ticket",
+     "start_ms": 13087,
+     "end_ms": 13566
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "多少钱一张？",
+    "reading": "duō shao qián yì zhāng"
+   }
+  },
+  {
+   "id": "b01.05",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "Five hundred and fifty-three yuan. Would you like a window seat?",
+   "tokens": [
+    {
+     "text": "Five",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "hundred",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "and",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "fifty",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "-",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "three",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "yuan",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "Would",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "you",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "like",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "a",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "window",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "seat",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "?",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Năm trăm năm mươi ba tệ. Anh có muốn ghế cạnh cửa sổ không?",
+   "start_ms": 13967,
+   "end_ms": 18228,
+   "words": [
+    {
+     "text": "Five",
+     "start_ms": 13967,
+     "end_ms": 14393
+    },
+    {
+     "text": "hundred",
+     "start_ms": 14285,
+     "end_ms": 14551
+    },
+    {
+     "text": "and",
+     "start_ms": 14564,
+     "end_ms": 14657
+    },
+    {
+     "text": "fifty",
+     "start_ms": 14671,
+     "end_ms": 14997
+    },
+    {
+     "text": "three",
+     "start_ms": 14997,
+     "end_ms": 15323
+    },
+    {
+     "text": "yuan",
+     "start_ms": 15336,
+     "end_ms": 15868
+    },
+    {
+     "text": "Would",
+     "start_ms": 16788,
+     "end_ms": 16961
+    },
+    {
+     "text": "you",
+     "start_ms": 16974,
+     "end_ms": 17067
+    },
+    {
+     "text": "like",
+     "start_ms": 17081,
+     "end_ms": 17267
+    },
+    {
+     "text": "a",
+     "start_ms": 17280,
+     "end_ms": 17346
+    },
+    {
+     "text": "window",
+     "start_ms": 17360,
+     "end_ms": 17692
+    },
+    {
+     "text": "seat",
+     "start_ms": 17706,
+     "end_ms": 18185
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "五百五十三块。你要靠窗的座位吗？",
+    "reading": "wǔ bǎi wǔ shí sān kuài nǐ yào kào chuāng de zuò wèi ma"
+   }
+  },
+  {
+   "id": "b01.06",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "Yes, please. How long is the ride?",
+   "tokens": [
+    {
+     "text": "Yes",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ",",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "please",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "How",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "long",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "is",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "the",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "ride",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "?",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Có, cảm ơn. Đi mất bao lâu?",
+   "start_ms": 18578,
+   "end_ms": 21940,
+   "words": [
+    {
+     "text": "Yes",
+     "start_ms": 18578,
+     "end_ms": 19057
+    },
+    {
+     "text": "please",
+     "start_ms": 19150,
+     "end_ms": 19669
+    },
+    {
+     "text": "How",
+     "start_ms": 20602,
+     "end_ms": 20788
+    },
+    {
+     "text": "long",
+     "start_ms": 20802,
+     "end_ms": 21108
+    },
+    {
+     "text": "is",
+     "start_ms": 21134,
+     "end_ms": 21254
+    },
+    {
+     "text": "the",
+     "start_ms": 21280,
+     "end_ms": 21386
+    },
+    {
+     "text": "ride",
+     "start_ms": 21413,
+     "end_ms": 21852
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "要，谢谢。坐车要多长时间？",
+    "reading": "yào xiè xie zuò chē yào duō cháng shí jiān"
+   }
+  },
+  {
+   "id": "b01.07",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "A little over four hours. You'll be in Shanghai by noon.",
+   "tokens": [
+    {
+     "text": "A",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "little",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "over",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "four",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "hours",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "You'll",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "be",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "in",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "Shanghai",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "by",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "noon",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Hơn bốn tiếng, trưa là tới Thượng Hải.",
+   "start_ms": 22290,
+   "end_ms": 26680,
+   "words": [
+    {
+     "text": "A",
+     "start_ms": 22290,
+     "end_ms": 22396
+    },
+    {
+     "text": "little",
+     "start_ms": 22360,
+     "end_ms": 22653
+    },
+    {
+     "text": "over",
+     "start_ms": 22666,
+     "end_ms": 22905
+    },
+    {
+     "text": "four",
+     "start_ms": 22918,
+     "end_ms": 23237
+    },
+    {
+     "text": "hours",
+     "start_ms": 23251,
+     "end_ms": 23863
+    },
+    {
+     "text": "You'll",
+     "start_ms": 24783,
+     "end_ms": 24996
+    },
+    {
+     "text": "be",
+     "start_ms": 25009,
+     "end_ms": 25169
+    },
+    {
+     "text": "in",
+     "start_ms": 25182,
+     "end_ms": 25315
+    },
+    {
+     "text": "Shanghai",
+     "start_ms": 25329,
+     "end_ms": 25914
+    },
+    {
+     "text": "by",
+     "start_ms": 25927,
+     "end_ms": 26073
+    },
+    {
+     "text": "noon",
+     "start_ms": 26086,
+     "end_ms": 26618
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "四个多小时，中午就到上海了。",
+    "reading": "sì gè duō xiǎo shí zhōng wǔ jiù dào shàng hǎi le"
+   }
+  },
+  {
+   "id": "b01.08",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "What if I want to change the time?",
+   "tokens": [
+    {
+     "text": "What",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "if",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "I",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "want",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "to",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "change",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "the",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "time",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "?",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Nếu tôi muốn đổi giờ thì có được không?",
+   "start_ms": 27030,
+   "end_ms": 28885,
+   "words": [
+    {
+     "text": "What",
+     "start_ms": 27030,
+     "end_ms": 27243
+    },
+    {
+     "text": "if",
+     "start_ms": 27208,
+     "end_ms": 27328
+    },
+    {
+     "text": "I",
+     "start_ms": 27354,
+     "end_ms": 27447
+    },
+    {
+     "text": "want",
+     "start_ms": 27473,
+     "end_ms": 27726
+    },
+    {
+     "text": "to",
+     "start_ms": 27739,
+     "end_ms": 27805
+    },
+    {
+     "text": "change",
+     "start_ms": 27833,
+     "end_ms": 28179
+    },
+    {
+     "text": "the",
+     "start_ms": 28192,
+     "end_ms": 28298
+    },
+    {
+     "text": "time",
+     "start_ms": 28325,
+     "end_ms": 28764
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [
+    "change the time"
+   ],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "如果我想改时间，可以吗？",
+    "reading": "rú guǒ wǒ xiǎng gǎi shí jiān kě yǐ ma"
+   }
+  },
+  {
+   "id": "b01.09",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "You can change it once for free before departure.",
+   "tokens": [
+    {
+     "text": "You",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "can",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "change",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "it",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "once",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "for",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "free",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "before",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "departure",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Trước giờ tàu chạy có thể đổi miễn phí một lần.",
+   "start_ms": 29235,
+   "end_ms": 31890,
+   "words": [
+    {
+     "text": "You",
+     "start_ms": 29235,
+     "end_ms": 29408
+    },
+    {
+     "text": "can",
+     "start_ms": 29358,
+     "end_ms": 29531
+    },
+    {
+     "text": "change",
+     "start_ms": 29545,
+     "end_ms": 29877
+    },
+    {
+     "text": "it",
+     "start_ms": 29890,
+     "end_ms": 29983
+    },
+    {
+     "text": "once",
+     "start_ms": 29997,
+     "end_ms": 30316
+    },
+    {
+     "text": "for",
+     "start_ms": 30329,
+     "end_ms": 30489
+    },
+    {
+     "text": "free",
+     "start_ms": 30502,
+     "end_ms": 30848
+    },
+    {
+     "text": "before",
+     "start_ms": 30861,
+     "end_ms": 31193
+    },
+    {
+     "text": "departure",
+     "start_ms": 31207,
+     "end_ms": 31872
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "开车前可以免费改一次。",
+    "reading": "kāi chē qián kě yǐ miǎn fèi gǎi yí cì"
+   }
+  },
+  {
+   "id": "b01.10",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "Okay, I'll take that one.",
+   "tokens": [
+    {
+     "text": "Okay",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ",",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "I'll",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "take",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "that",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "one",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Vâng, tôi lấy vé đó.",
+   "start_ms": 32240,
+   "end_ms": 33803,
+   "words": [
+    {
+     "text": "Okay",
+     "start_ms": 32240,
+     "end_ms": 32612
+    },
+    {
+     "text": "I'll",
+     "start_ms": 32802,
+     "end_ms": 32962
+    },
+    {
+     "text": "take",
+     "start_ms": 32988,
+     "end_ms": 33187
+    },
+    {
+     "text": "that",
+     "start_ms": 33214,
+     "end_ms": 33400
+    },
+    {
+     "text": "one",
+     "start_ms": 33427,
+     "end_ms": 33693
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "好的，就买这一张吧。",
+    "reading": "hǎo de jiù mǎi zhè yì zhāng ba"
+   }
+  },
+  {
+   "id": "b02.00",
+   "section": "b02",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "Hi, I'd like a high-speed train ticket to Shanghai for tomorrow.",
+   "tokens": [
+    {
+     "text": "Hi",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ",",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "I'd",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "like",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "a",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "high",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "-",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "speed",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "train",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "ticket",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "to",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "Shanghai",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "for",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "tomorrow",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Chào anh, tôi muốn mua một vé tàu cao tốc đi Thượng Hải ngày mai.",
+   "start_ms": 34703,
+   "end_ms": 38801,
+   "words": [
+    {
+     "text": "Hi",
+     "start_ms": 34703,
+     "end_ms": 35125
+    },
+    {
+     "text": "I'd",
+     "start_ms": 35242,
+     "end_ms": 35461
+    },
+    {
+     "text": "like",
+     "start_ms": 35492,
+     "end_ms": 35680
+    },
+    {
+     "text": "a",
+     "start_ms": 35695,
+     "end_ms": 35757
+    },
+    {
+     "text": "high",
+     "start_ms": 35773,
+     "end_ms": 36037
+    },
+    {
+     "text": "speed",
+     "start_ms": 36037,
+     "end_ms": 36367
+    },
+    {
+     "text": "train",
+     "start_ms": 36398,
+     "end_ms": 36710
+    },
+    {
+     "text": "ticket",
+     "start_ms": 36742,
+     "end_ms": 37101
+    },
+    {
+     "text": "to",
+     "start_ms": 37133,
+     "end_ms": 37258
+    },
+    {
+     "text": "Shanghai",
+     "start_ms": 37273,
+     "end_ms": 37835
+    },
+    {
+     "text": "for",
+     "start_ms": 37867,
+     "end_ms": 38055
+    },
+    {
+     "text": "tomorrow",
+     "start_ms": 38086,
+     "end_ms": 38711
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": true,
+   "pause_after_ms": 2000,
+   "targets": [
+    "ticket"
+   ],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "你好，我想买一张明天去上海的高铁票。",
+    "reading": "nǐ hǎo wǒ xiǎng mǎi yì zhāng míng tiān qù shàng hǎi de gāo tiě piào"
+   }
+  },
+  {
+   "id": "b02.01",
+   "section": "b02",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "What if I want to change the time?",
+   "tokens": [
+    {
+     "text": "What",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "if",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "I",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "want",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "to",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "change",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "the",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "time",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "?",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Nếu tôi muốn đổi giờ thì có được không?",
+   "start_ms": 41151,
+   "end_ms": 43305,
+   "words": [
+    {
+     "text": "What",
+     "start_ms": 41151,
+     "end_ms": 41401
+    },
+    {
+     "text": "if",
+     "start_ms": 41352,
+     "end_ms": 41493
+    },
+    {
+     "text": "I",
+     "start_ms": 41524,
+     "end_ms": 41633
+    },
+    {
+     "text": "want",
+     "start_ms": 41664,
+     "end_ms": 41961
+    },
+    {
+     "text": "to",
+     "start_ms": 41977,
+     "end_ms": 42055
+    },
+    {
+     "text": "change",
+     "start_ms": 42086,
+     "end_ms": 42492
+    },
+    {
+     "text": "the",
+     "start_ms": 42508,
+     "end_ms": 42633
+    },
+    {
+     "text": "time",
+     "start_ms": 42664,
+     "end_ms": 43180
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": true,
+   "pause_after_ms": 2000,
+   "targets": [
+    "change the time"
+   ],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "如果我想改时间，可以吗？",
+    "reading": "rú guǒ wǒ xiǎng gǎi shí jiān kě yǐ ma"
+   }
+  }
+ ],
+ "vocab": [
+  {
+   "text": "high-speed train",
+   "reading": null,
+   "l1": "tàu cao tốc",
+   "level": null,
+   "cognate": null
+  },
+  {
+   "text": "window seat",
+   "reading": null,
+   "l1": "ghế cạnh cửa sổ",
+   "level": null,
+   "cognate": null
+  },
+  {
+   "text": "departure",
+   "reading": null,
+   "l1": "giờ khởi hành",
+   "level": null,
+   "cognate": null
+  }
+ ],
+ "cognate_reveal": null,
+ "errata": [],
+ "attribution": [],
+ "disclosure": {
+  "synthetic_voice": true
+ }
+}

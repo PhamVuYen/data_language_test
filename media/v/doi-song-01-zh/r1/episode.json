@@ -1,0 +1,1633 @@
+{
+ "schema": "episode/1",
+ "id": "doi-song-01-zh",
+ "pair": "doi-song-01",
+ "lang": {
+  "target": "zh-Hans",
+  "l1": "vi"
+ },
+ "level": {
+  "scheme": "HSK3.0",
+  "label": "HSK 3"
+ },
+ "title": {
+  "target": "买水果",
+  "l1": "Đi chợ mua hoa quả"
+ },
+ "series": {
+  "id": "doi-song-zh",
+  "name": "Đời sống",
+  "order": 1
+ },
+ "flags": [],
+ "audio": {
+  "mix": "audio/mix.m4a",
+  "duration_ms": 41377
+ },
+ "speakers": {
+  "A": {
+   "name": "水果店阿姨",
+   "l1_name": "cô bán hoa quả"
+  },
+  "B": {
+   "name": "阿南",
+   "l1_name": "Nam"
+  }
+ },
+ "sections": [
+  {
+   "id": "b01",
+   "type": "dialogue",
+   "label": "Hội thoại",
+   "start_ms": 300
+  },
+  {
+   "id": "b02",
+   "type": "recap_slow",
+   "label": "Nhắc lại chậm",
+   "start_ms": 29992
+  }
+ ],
+ "lines": [
+  {
+   "id": "b01.00",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "你好，想买什么水果？",
+   "tokens": [
+    {
+     "text": "你",
+     "reading": "nǐ",
+     "tone": 3
+    },
+    {
+     "text": "好",
+     "reading": "hǎo",
+     "tone": 3
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "想",
+     "reading": "xiǎng",
+     "tone": 3
+    },
+    {
+     "text": "买",
+     "reading": "mǎi",
+     "tone": 3
+    },
+    {
+     "text": "什",
+     "reading": "shén",
+     "tone": 2
+    },
+    {
+     "text": "么",
+     "reading": "me",
+     "tone": 0
+    },
+    {
+     "text": "水",
+     "reading": "shuǐ",
+     "tone": 3
+    },
+    {
+     "text": "果",
+     "reading": "guǒ",
+     "tone": 3
+    },
+    {
+     "text": "？",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Chào cháu, muốn mua hoa quả gì?",
+   "start_ms": 300,
+   "end_ms": 2218,
+   "words": [
+    {
+     "text": "你好",
+     "start_ms": 300,
+     "end_ms": 764
+    },
+    {
+     "text": "想",
+     "start_ms": 1035,
+     "end_ms": 1203
+    },
+    {
+     "text": "买",
+     "start_ms": 1202,
+     "end_ms": 1344
+    },
+    {
+     "text": "什么",
+     "start_ms": 1357,
+     "end_ms": 1576
+    },
+    {
+     "text": "水果",
+     "start_ms": 1589,
+     "end_ms": 2130
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "en",
+    "text": "Hi there, what fruit are you looking for?",
+    "reading": null
+   }
+  },
+  {
+   "id": "b01.01",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "这些苹果怎么卖？",
+   "tokens": [
+    {
+     "text": "这",
+     "reading": "zhè",
+     "tone": 4
+    },
+    {
+     "text": "些",
+     "reading": "xiē",
+     "tone": 1
+    },
+    {
+     "text": "苹",
+     "reading": "píng",
+     "tone": 2
+    },
+    {
+     "text": "果",
+     "reading": "guǒ",
+     "tone": 3
+    },
+    {
+     "text": "怎",
+     "reading": "zěn",
+     "tone": 3
+    },
+    {
+     "text": "么",
+     "reading": "me",
+     "tone": 0
+    },
+    {
+     "text": "卖",
+     "reading": "mài",
+     "tone": 4
+    },
+    {
+     "text": "？",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Táo này bán thế nào ạ?",
+   "start_ms": 2568,
+   "end_ms": 3695,
+   "words": [
+    {
+     "text": "这些",
+     "start_ms": 2568,
+     "end_ms": 2871
+    },
+    {
+     "text": "苹果",
+     "start_ms": 2827,
+     "end_ms": 3155
+    },
+    {
+     "text": "怎么",
+     "start_ms": 3181,
+     "end_ms": 3358
+    },
+    {
+     "text": "卖",
+     "start_ms": 3357,
+     "end_ms": 3685
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "en",
+    "text": "How much are these apples?",
+    "reading": null
+   }
+  },
+  {
+   "id": "b01.02",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "十块钱一公斤，都是今天早上刚到的。",
+   "tokens": [
+    {
+     "text": "十",
+     "reading": "shí",
+     "tone": 2
+    },
+    {
+     "text": "块",
+     "reading": "kuài",
+     "tone": 4
+    },
+    {
+     "text": "钱",
+     "reading": "qián",
+     "tone": 2
+    },
+    {
+     "text": "一",
+     "reading": "yì",
+     "tone": 4
+    },
+    {
+     "text": "公",
+     "reading": "gōng",
+     "tone": 1
+    },
+    {
+     "text": "斤",
+     "reading": "jīn",
+     "tone": 1
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "都",
+     "reading": "dōu",
+     "tone": 1
+    },
+    {
+     "text": "是",
+     "reading": "shì",
+     "tone": 4
+    },
+    {
+     "text": "今",
+     "reading": "jīn",
+     "tone": 1
+    },
+    {
+     "text": "天",
+     "reading": "tiān",
+     "tone": 1
+    },
+    {
+     "text": "早",
+     "reading": "zǎo",
+     "tone": 3
+    },
+    {
+     "text": "上",
+     "reading": "shang",
+     "tone": 0
+    },
+    {
+     "text": "刚",
+     "reading": "gāng",
+     "tone": 1
+    },
+    {
+     "text": "到",
+     "reading": "dào",
+     "tone": 4
+    },
+    {
+     "text": "的",
+     "reading": "de",
+     "tone": 0
+    },
+    {
+     "text": "。",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Mười tệ một cân, đều mới về sáng nay.",
+   "start_ms": 4045,
+   "end_ms": 7303,
+   "words": [
+    {
+     "text": "十",
+     "start_ms": 4045,
+     "end_ms": 4277
+    },
+    {
+     "text": "块",
+     "start_ms": 4240,
+     "end_ms": 4446
+    },
+    {
+     "text": "钱",
+     "start_ms": 4446,
+     "end_ms": 4626
+    },
+    {
+     "text": "一公斤",
+     "start_ms": 4639,
+     "end_ms": 5270
+    },
+    {
+     "text": "都是",
+     "start_ms": 5502,
+     "end_ms": 5798
+    },
+    {
+     "text": "今天",
+     "start_ms": 5812,
+     "end_ms": 6160
+    },
+    {
+     "text": "早上",
+     "start_ms": 6172,
+     "end_ms": 6546
+    },
+    {
+     "text": "刚",
+     "start_ms": 6572,
+     "end_ms": 6804
+    },
+    {
+     "text": "到",
+     "start_ms": 6804,
+     "end_ms": 7023
+    },
+    {
+     "text": "的",
+     "start_ms": 7023,
+     "end_ms": 7229
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "en",
+    "text": "Ten yuan a kilo. They just came in this morning.",
+    "reading": null
+   }
+  },
+  {
+   "id": "b01.03",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "有点贵，能便宜一点吗？",
+   "tokens": [
+    {
+     "text": "有",
+     "reading": "yǒu",
+     "tone": 3
+    },
+    {
+     "text": "点",
+     "reading": "diǎn",
+     "tone": 3
+    },
+    {
+     "text": "贵",
+     "reading": "guì",
+     "tone": 4
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "能",
+     "reading": "néng",
+     "tone": 2
+    },
+    {
+     "text": "便",
+     "reading": "pián",
+     "tone": 2
+    },
+    {
+     "text": "宜",
+     "reading": "yi",
+     "tone": 0
+    },
+    {
+     "text": "一",
+     "reading": "yì",
+     "tone": 4
+    },
+    {
+     "text": "点",
+     "reading": "diǎn",
+     "tone": 3
+    },
+    {
+     "text": "吗",
+     "reading": "ma",
+     "tone": 0
+    },
+    {
+     "text": "？",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Hơi đắt, bớt chút được không ạ?",
+   "start_ms": 7653,
+   "end_ms": 10002,
+   "words": [
+    {
+     "text": "有点",
+     "start_ms": 7653,
+     "end_ms": 8032
+    },
+    {
+     "text": "贵",
+     "start_ms": 7966,
+     "end_ms": 8345
+    },
+    {
+     "text": "能",
+     "start_ms": 8623,
+     "end_ms": 9115
+    },
+    {
+     "text": "便宜",
+     "start_ms": 9128,
+     "end_ms": 9494
+    },
+    {
+     "text": "一点",
+     "start_ms": 9507,
+     "end_ms": 9734
+    },
+    {
+     "text": "吗",
+     "start_ms": 9734,
+     "end_ms": 10002
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [
+    "便宜"
+   ],
+   "parallel": {
+    "lang": "en",
+    "text": "That's a bit pricey. Could you go a little lower?",
+    "reading": null
+   }
+  },
+  {
+   "id": "b01.04",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "你买两公斤的话，我给你算十八块。",
+   "tokens": [
+    {
+     "text": "你",
+     "reading": "nǐ",
+     "tone": 3
+    },
+    {
+     "text": "买",
+     "reading": "mǎi",
+     "tone": 3
+    },
+    {
+     "text": "两",
+     "reading": "liǎng",
+     "tone": 3
+    },
+    {
+     "text": "公",
+     "reading": "gōng",
+     "tone": 1
+    },
+    {
+     "text": "斤",
+     "reading": "jīn",
+     "tone": 1
+    },
+    {
+     "text": "的",
+     "reading": "de",
+     "tone": 0
+    },
+    {
+     "text": "话",
+     "reading": "huà",
+     "tone": 4
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "我",
+     "reading": "wǒ",
+     "tone": 3
+    },
+    {
+     "text": "给",
+     "reading": "gěi",
+     "tone": 3
+    },
+    {
+     "text": "你",
+     "reading": "nǐ",
+     "tone": 3
+    },
+    {
+     "text": "算",
+     "reading": "suàn",
+     "tone": 4
+    },
+    {
+     "text": "十",
+     "reading": "shí",
+     "tone": 2
+    },
+    {
+     "text": "八",
+     "reading": "bā",
+     "tone": 1
+    },
+    {
+     "text": "块",
+     "reading": "kuài",
+     "tone": 4
+    },
+    {
+     "text": "。",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Nếu cháu mua hai cân, cô tính mười tám tệ.",
+   "start_ms": 10352,
+   "end_ms": 13210,
+   "words": [
+    {
+     "text": "你",
+     "start_ms": 10352,
+     "end_ms": 10481
+    },
+    {
+     "text": "买",
+     "start_ms": 10468,
+     "end_ms": 10636
+    },
+    {
+     "text": "两",
+     "start_ms": 10649,
+     "end_ms": 10829
+    },
+    {
+     "text": "公斤",
+     "start_ms": 10829,
+     "end_ms": 11177
+    },
+    {
+     "text": "的话",
+     "start_ms": 11190,
+     "end_ms": 11590
+    },
+    {
+     "text": "我",
+     "start_ms": 11822,
+     "end_ms": 11964
+    },
+    {
+     "text": "给",
+     "start_ms": 11963,
+     "end_ms": 12092
+    },
+    {
+     "text": "你",
+     "start_ms": 12105,
+     "end_ms": 12234
+    },
+    {
+     "text": "算",
+     "start_ms": 12234,
+     "end_ms": 12427
+    },
+    {
+     "text": "十八",
+     "start_ms": 12453,
+     "end_ms": 12827
+    },
+    {
+     "text": "块",
+     "start_ms": 12827,
+     "end_ms": 13136
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "en",
+    "text": "If you take two kilos, I'll make it eighteen yuan.",
+    "reading": null
+   }
+  },
+  {
+   "id": "b01.05",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "好吧，那我要两公斤。甜不甜？",
+   "tokens": [
+    {
+     "text": "好",
+     "reading": "hǎo",
+     "tone": 3
+    },
+    {
+     "text": "吧",
+     "reading": "ba",
+     "tone": 0
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "那",
+     "reading": "nà",
+     "tone": 4
+    },
+    {
+     "text": "我",
+     "reading": "wǒ",
+     "tone": 3
+    },
+    {
+     "text": "要",
+     "reading": "yào",
+     "tone": 4
+    },
+    {
+     "text": "两",
+     "reading": "liǎng",
+     "tone": 3
+    },
+    {
+     "text": "公",
+     "reading": "gōng",
+     "tone": 1
+    },
+    {
+     "text": "斤",
+     "reading": "jīn",
+     "tone": 1
+    },
+    {
+     "text": "。",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "甜",
+     "reading": "tián",
+     "tone": 2
+    },
+    {
+     "text": "不",
+     "reading": "bù",
+     "tone": 4
+    },
+    {
+     "text": "甜",
+     "reading": "tián",
+     "tone": 2
+    },
+    {
+     "text": "？",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Vâng, vậy cháu lấy hai cân. Có ngọt không ạ?",
+   "start_ms": 13560,
+   "end_ms": 16950,
+   "words": [
+    {
+     "text": "好",
+     "start_ms": 13560,
+     "end_ms": 13775
+    },
+    {
+     "text": "吧",
+     "start_ms": 13644,
+     "end_ms": 13972
+    },
+    {
+     "text": "那",
+     "start_ms": 14440,
+     "end_ms": 14730
+    },
+    {
+     "text": "我",
+     "start_ms": 14730,
+     "end_ms": 14844
+    },
+    {
+     "text": "要",
+     "start_ms": 14844,
+     "end_ms": 14907
+    },
+    {
+     "text": "两",
+     "start_ms": 14919,
+     "end_ms": 15071
+    },
+    {
+     "text": "公斤",
+     "start_ms": 15071,
+     "end_ms": 15462
+    },
+    {
+     "text": "甜",
+     "start_ms": 16031,
+     "end_ms": 16309
+    },
+    {
+     "text": "不",
+     "start_ms": 16309,
+     "end_ms": 16423
+    },
+    {
+     "text": "甜",
+     "start_ms": 16422,
+     "end_ms": 16889
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "en",
+    "text": "Okay, two kilos then. Are they sweet?",
+    "reading": null
+   }
+  },
+  {
+   "id": "b01.06",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "特别甜，你可以先尝一个。",
+   "tokens": [
+    {
+     "text": "特",
+     "reading": "tè",
+     "tone": 4
+    },
+    {
+     "text": "别",
+     "reading": "bié",
+     "tone": 2
+    },
+    {
+     "text": "甜",
+     "reading": "tián",
+     "tone": 2
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "你",
+     "reading": "nǐ",
+     "tone": 3
+    },
+    {
+     "text": "可",
+     "reading": "kě",
+     "tone": 3
+    },
+    {
+     "text": "以",
+     "reading": "yǐ",
+     "tone": 3
+    },
+    {
+     "text": "先",
+     "reading": "xiān",
+     "tone": 1
+    },
+    {
+     "text": "尝",
+     "reading": "cháng",
+     "tone": 2
+    },
+    {
+     "text": "一",
+     "reading": "yí",
+     "tone": 2
+    },
+    {
+     "text": "个",
+     "reading": "gè",
+     "tone": 4
+    },
+    {
+     "text": "。",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Ngọt lắm, cháu ăn thử một quả trước đi.",
+   "start_ms": 17300,
+   "end_ms": 19603,
+   "words": [
+    {
+     "text": "特别甜",
+     "start_ms": 17300,
+     "end_ms": 18035
+    },
+    {
+     "text": "你",
+     "start_ms": 18272,
+     "end_ms": 18362
+    },
+    {
+     "text": "可以",
+     "start_ms": 18375,
+     "end_ms": 18607
+    },
+    {
+     "text": "先",
+     "start_ms": 18633,
+     "end_ms": 18852
+    },
+    {
+     "text": "尝",
+     "start_ms": 18852,
+     "end_ms": 19110
+    },
+    {
+     "text": "一个",
+     "start_ms": 19122,
+     "end_ms": 19509
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "en",
+    "text": "Really sweet. Go ahead and try one first.",
+    "reading": null
+   }
+  },
+  {
+   "id": "b01.07",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "真的很甜！可以用手机付钱吗？",
+   "tokens": [
+    {
+     "text": "真",
+     "reading": "zhēn",
+     "tone": 1
+    },
+    {
+     "text": "的",
+     "reading": "de",
+     "tone": 0
+    },
+    {
+     "text": "很",
+     "reading": "hěn",
+     "tone": 3
+    },
+    {
+     "text": "甜",
+     "reading": "tián",
+     "tone": 2
+    },
+    {
+     "text": "！",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "可",
+     "reading": "kě",
+     "tone": 3
+    },
+    {
+     "text": "以",
+     "reading": "yǐ",
+     "tone": 3
+    },
+    {
+     "text": "用",
+     "reading": "yòng",
+     "tone": 4
+    },
+    {
+     "text": "手",
+     "reading": "shǒu",
+     "tone": 3
+    },
+    {
+     "text": "机",
+     "reading": "jī",
+     "tone": 1
+    },
+    {
+     "text": "付",
+     "reading": "fù",
+     "tone": 4
+    },
+    {
+     "text": "钱",
+     "reading": "qián",
+     "tone": 2
+    },
+    {
+     "text": "吗",
+     "reading": "ma",
+     "tone": 0
+    },
+    {
+     "text": "？",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Ngọt thật! Trả bằng điện thoại được không ạ?",
+   "start_ms": 19953,
+   "end_ms": 22743,
+   "words": [
+    {
+     "text": "真的",
+     "start_ms": 19953,
+     "end_ms": 20307
+    },
+    {
+     "text": "很",
+     "start_ms": 20207,
+     "end_ms": 20384
+    },
+    {
+     "text": "甜",
+     "start_ms": 20383,
+     "end_ms": 20749
+    },
+    {
+     "text": "可以",
+     "start_ms": 21318,
+     "end_ms": 21684
+    },
+    {
+     "text": "用",
+     "start_ms": 21697,
+     "end_ms": 21836
+    },
+    {
+     "text": "手机",
+     "start_ms": 21836,
+     "end_ms": 22114
+    },
+    {
+     "text": "付钱",
+     "start_ms": 22126,
+     "end_ms": 22442
+    },
+    {
+     "text": "吗",
+     "start_ms": 22442,
+     "end_ms": 22743
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [
+    "付钱"
+   ],
+   "parallel": {
+    "lang": "en",
+    "text": "They really are sweet! Can I pay by phone?",
+    "reading": null
+   }
+  },
+  {
+   "id": "b01.08",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "可以，扫这个码就行。",
+   "tokens": [
+    {
+     "text": "可",
+     "reading": "kě",
+     "tone": 3
+    },
+    {
+     "text": "以",
+     "reading": "yǐ",
+     "tone": 3
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "扫",
+     "reading": "sǎo",
+     "tone": 3
+    },
+    {
+     "text": "这",
+     "reading": "zhè",
+     "tone": 4
+    },
+    {
+     "text": "个",
+     "reading": "ge",
+     "tone": 0
+    },
+    {
+     "text": "码",
+     "reading": "mǎ",
+     "tone": 3
+    },
+    {
+     "text": "就",
+     "reading": "jiù",
+     "tone": 4
+    },
+    {
+     "text": "行",
+     "reading": "xíng",
+     "tone": 2
+    },
+    {
+     "text": "。",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Được, quét mã này là được.",
+   "start_ms": 23093,
+   "end_ms": 25095,
+   "words": [
+    {
+     "text": "可以",
+     "start_ms": 23093,
+     "end_ms": 23583
+    },
+    {
+     "text": "扫",
+     "start_ms": 23836,
+     "end_ms": 24055
+    },
+    {
+     "text": "这个",
+     "start_ms": 24068,
+     "end_ms": 24313
+    },
+    {
+     "text": "码",
+     "start_ms": 24312,
+     "end_ms": 24492
+    },
+    {
+     "text": "就",
+     "start_ms": 24506,
+     "end_ms": 24661
+    },
+    {
+     "text": "行",
+     "start_ms": 24660,
+     "end_ms": 24995
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "en",
+    "text": "Sure, just scan this code.",
+    "reading": null
+   }
+  },
+  {
+   "id": "b01.09",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "付好了，谢谢阿姨！",
+   "tokens": [
+    {
+     "text": "付",
+     "reading": "fù",
+     "tone": 4
+    },
+    {
+     "text": "好",
+     "reading": "hǎo",
+     "tone": 3
+    },
+    {
+     "text": "了",
+     "reading": "le",
+     "tone": 0
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "谢",
+     "reading": "xiè",
+     "tone": 4
+    },
+    {
+     "text": "谢",
+     "reading": "xie",
+     "tone": 0
+    },
+    {
+     "text": "阿",
+     "reading": "ā",
+     "tone": 1
+    },
+    {
+     "text": "姨",
+     "reading": "yí",
+     "tone": 2
+    },
+    {
+     "text": "！",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Cháu trả rồi, cảm ơn cô!",
+   "start_ms": 25445,
+   "end_ms": 26911,
+   "words": [
+    {
+     "text": "付好",
+     "start_ms": 25445,
+     "end_ms": 25773
+    },
+    {
+     "text": "了",
+     "start_ms": 25681,
+     "end_ms": 25908
+    },
+    {
+     "text": "谢谢",
+     "start_ms": 26224,
+     "end_ms": 26514
+    },
+    {
+     "text": "阿姨",
+     "start_ms": 26527,
+     "end_ms": 26855
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "en",
+    "text": "All paid. Thank you!",
+    "reading": null
+   }
+  },
+  {
+   "id": "b01.10",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "不客气，下次再来！",
+   "tokens": [
+    {
+     "text": "不",
+     "reading": "bú",
+     "tone": 2
+    },
+    {
+     "text": "客",
+     "reading": "kè",
+     "tone": 4
+    },
+    {
+     "text": "气",
+     "reading": "qi",
+     "tone": 0
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "下",
+     "reading": "xià",
+     "tone": 4
+    },
+    {
+     "text": "次",
+     "reading": "cì",
+     "tone": 4
+    },
+    {
+     "text": "再",
+     "reading": "zài",
+     "tone": 4
+    },
+    {
+     "text": "来",
+     "reading": "lái",
+     "tone": 2
+    },
+    {
+     "text": "！",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Không có gì, lần sau lại đến nhé!",
+   "start_ms": 27261,
+   "end_ms": 29092,
+   "words": [
+    {
+     "text": "不客气",
+     "start_ms": 27261,
+     "end_ms": 27931
+    },
+    {
+     "text": "下次",
+     "start_ms": 28192,
+     "end_ms": 28540
+    },
+    {
+     "text": "再",
+     "start_ms": 28553,
+     "end_ms": 28759
+    },
+    {
+     "text": "来",
+     "start_ms": 28759,
+     "end_ms": 29017
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "en",
+    "text": "You're welcome. Come again!",
+    "reading": null
+   }
+  },
+  {
+   "id": "b02.00",
+   "section": "b02",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "有点贵，能便宜一点吗？",
+   "tokens": [
+    {
+     "text": "有",
+     "reading": "yǒu",
+     "tone": 3
+    },
+    {
+     "text": "点",
+     "reading": "diǎn",
+     "tone": 3
+    },
+    {
+     "text": "贵",
+     "reading": "guì",
+     "tone": 4
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "能",
+     "reading": "néng",
+     "tone": 2
+    },
+    {
+     "text": "便",
+     "reading": "pián",
+     "tone": 2
+    },
+    {
+     "text": "宜",
+     "reading": "yi",
+     "tone": 0
+    },
+    {
+     "text": "一",
+     "reading": "yì",
+     "tone": 4
+    },
+    {
+     "text": "点",
+     "reading": "diǎn",
+     "tone": 3
+    },
+    {
+     "text": "吗",
+     "reading": "ma",
+     "tone": 0
+    },
+    {
+     "text": "？",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Hơi đắt, bớt chút được không ạ?",
+   "start_ms": 29992,
+   "end_ms": 32926,
+   "words": [
+    {
+     "text": "有点",
+     "start_ms": 29992,
+     "end_ms": 30473
+    },
+    {
+     "text": "贵",
+     "start_ms": 30373,
+     "end_ms": 30854
+    },
+    {
+     "text": "能",
+     "start_ms": 31206,
+     "end_ms": 31831
+    },
+    {
+     "text": "便宜",
+     "start_ms": 31847,
+     "end_ms": 32312
+    },
+    {
+     "text": "一点",
+     "start_ms": 32328,
+     "end_ms": 32616
+    },
+    {
+     "text": "吗",
+     "start_ms": 32616,
+     "end_ms": 32926
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": true,
+   "pause_after_ms": 2000,
+   "targets": [
+    "便宜"
+   ],
+   "parallel": {
+    "lang": "en",
+    "text": "That's a bit pricey. Could you go a little lower?",
+    "reading": null
+   }
+  },
+  {
+   "id": "b02.01",
+   "section": "b02",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "真的很甜！可以用手机付钱吗？",
+   "tokens": [
+    {
+     "text": "真",
+     "reading": "zhēn",
+     "tone": 1
+    },
+    {
+     "text": "的",
+     "reading": "de",
+     "tone": 0
+    },
+    {
+     "text": "很",
+     "reading": "hěn",
+     "tone": 3
+    },
+    {
+     "text": "甜",
+     "reading": "tián",
+     "tone": 2
+    },
+    {
+     "text": "！",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "可",
+     "reading": "kě",
+     "tone": 3
+    },
+    {
+     "text": "以",
+     "reading": "yǐ",
+     "tone": 3
+    },
+    {
+     "text": "用",
+     "reading": "yòng",
+     "tone": 4
+    },
+    {
+     "text": "手",
+     "reading": "shǒu",
+     "tone": 3
+    },
+    {
+     "text": "机",
+     "reading": "jī",
+     "tone": 1
+    },
+    {
+     "text": "付",
+     "reading": "fù",
+     "tone": 4
+    },
+    {
+     "text": "钱",
+     "reading": "qián",
+     "tone": 2
+    },
+    {
+     "text": "吗",
+     "reading": "ma",
+     "tone": 0
+    },
+    {
+     "text": "？",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Ngọt thật! Trả bằng điện thoại được không ạ?",
+   "start_ms": 35276,
+   "end_ms": 38777,
+   "words": [
+    {
+     "text": "真的",
+     "start_ms": 35276,
+     "end_ms": 35725
+    },
+    {
+     "text": "很",
+     "start_ms": 35582,
+     "end_ms": 35806
+    },
+    {
+     "text": "甜",
+     "start_ms": 35806,
+     "end_ms": 36271
+    },
+    {
+     "text": "可以",
+     "start_ms": 37006,
+     "end_ms": 37471
+    },
+    {
+     "text": "用",
+     "start_ms": 37487,
+     "end_ms": 37663
+    },
+    {
+     "text": "手机",
+     "start_ms": 37663,
+     "end_ms": 38016
+    },
+    {
+     "text": "付钱",
+     "start_ms": 38032,
+     "end_ms": 38433
+    },
+    {
+     "text": "吗",
+     "start_ms": 38433,
+     "end_ms": 38777
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": true,
+   "pause_after_ms": 2000,
+   "targets": [
+    "付钱"
+   ],
+   "parallel": {
+    "lang": "en",
+    "text": "They really are sweet! Can I pay by phone?",
+    "reading": null
+   }
+  }
+ ],
+ "vocab": [
+  {
+   "text": "便宜",
+   "reading": "pián yi",
+   "l1": "rẻ",
+   "level": 1,
+   "cognate": null
+  },
+  {
+   "text": "尝",
+   "reading": "cháng",
+   "l1": "nếm, ăn thử",
+   "level": 3,
+   "cognate": null
+  },
+  {
+   "text": "付钱",
+   "reading": "fù qián",
+   "l1": "trả tiền",
+   "level": null,
+   "cognate": null
+  }
+ ],
+ "cognate_reveal": null,
+ "errata": [],
+ "attribution": [
+  "pypinyin (MIT)",
+  "jieba (MIT)"
+ ],
+ "disclosure": {
+  "synthetic_voice": true
+ }
+}

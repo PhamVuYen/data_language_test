@@ -1,0 +1,1818 @@
+{
+ "schema": "episode/1",
+ "id": "doi-song-02-zh",
+ "pair": "doi-song-02",
+ "lang": {
+  "target": "zh-Hans",
+  "l1": "vi"
+ },
+ "level": {
+  "scheme": "HSK3.0",
+  "label": "HSK 3"
+ },
+ "title": {
+  "target": "在饭馆点菜",
+  "l1": "Gọi món ở quán ăn"
+ },
+ "series": {
+  "id": "doi-song-zh",
+  "name": "Đời sống",
+  "order": 2
+ },
+ "flags": [],
+ "audio": {
+  "mix": "audio/mix.m4a",
+  "duration_ms": 44609
+ },
+ "speakers": {
+  "A": {
+   "name": "服务员",
+   "l1_name": "phục vụ"
+  },
+  "B": {
+   "name": "阿南",
+   "l1_name": "Nam"
+  }
+ },
+ "sections": [
+  {
+   "id": "b01",
+   "type": "dialogue",
+   "label": "Hội thoại",
+   "start_ms": 300
+  },
+  {
+   "id": "b02",
+   "type": "recap_slow",
+   "label": "Nhắc lại chậm",
+   "start_ms": 31606
+  }
+ ],
+ "lines": [
+  {
+   "id": "b01.00",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "欢迎光临！请问几位？",
+   "tokens": [
+    {
+     "text": "欢",
+     "reading": "huān",
+     "tone": 1
+    },
+    {
+     "text": "迎",
+     "reading": "yíng",
+     "tone": 2
+    },
+    {
+     "text": "光",
+     "reading": "guāng",
+     "tone": 1
+    },
+    {
+     "text": "临",
+     "reading": "lín",
+     "tone": 2
+    },
+    {
+     "text": "！",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "请",
+     "reading": "qǐng",
+     "tone": 3
+    },
+    {
+     "text": "问",
+     "reading": "wèn",
+     "tone": 4
+    },
+    {
+     "text": "几",
+     "reading": "jǐ",
+     "tone": 3
+    },
+    {
+     "text": "位",
+     "reading": "wèi",
+     "tone": 4
+    },
+    {
+     "text": "？",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Xin chào quý khách! Mấy người ạ?",
+   "start_ms": 300,
+   "end_ms": 2775,
+   "words": [
+    {
+     "text": "欢迎",
+     "start_ms": 300,
+     "end_ms": 712
+    },
+    {
+     "text": "光临",
+     "start_ms": 659,
+     "end_ms": 1200
+    },
+    {
+     "text": "请问",
+     "start_ms": 1794,
+     "end_ms": 2206
+    },
+    {
+     "text": "几",
+     "start_ms": 2220,
+     "end_ms": 2400
+    },
+    {
+     "text": "位",
+     "start_ms": 2400,
+     "end_ms": 2709
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "en",
+    "text": "Welcome! How many in your party?",
+    "reading": null
+   }
+  },
+  {
+   "id": "b01.01",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "两位。有靠窗的位子吗？",
+   "tokens": [
+    {
+     "text": "两",
+     "reading": "liǎng",
+     "tone": 3
+    },
+    {
+     "text": "位",
+     "reading": "wèi",
+     "tone": 4
+    },
+    {
+     "text": "。",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "有",
+     "reading": "yǒu",
+     "tone": 3
+    },
+    {
+     "text": "靠",
+     "reading": "kào",
+     "tone": 4
+    },
+    {
+     "text": "窗",
+     "reading": "chuāng",
+     "tone": 1
+    },
+    {
+     "text": "的",
+     "reading": "de",
+     "tone": 0
+    },
+    {
+     "text": "位",
+     "reading": "wèi",
+     "tone": 4
+    },
+    {
+     "text": "子",
+     "reading": "zi",
+     "tone": 0
+    },
+    {
+     "text": "吗",
+     "reading": "ma",
+     "tone": 0
+    },
+    {
+     "text": "？",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Hai người. Có bàn cạnh cửa sổ không?",
+   "start_ms": 3125,
+   "end_ms": 5305,
+   "words": [
+    {
+     "text": "两",
+     "start_ms": 3125,
+     "end_ms": 3390
+    },
+    {
+     "text": "位",
+     "start_ms": 3325,
+     "end_ms": 3641
+    },
+    {
+     "text": "有",
+     "start_ms": 4209,
+     "end_ms": 4361
+    },
+    {
+     "text": "靠",
+     "start_ms": 4373,
+     "end_ms": 4537
+    },
+    {
+     "text": "窗",
+     "start_ms": 4537,
+     "end_ms": 4726
+    },
+    {
+     "text": "的",
+     "start_ms": 4727,
+     "end_ms": 4790
+    },
+    {
+     "text": "位子",
+     "start_ms": 4802,
+     "end_ms": 5042
+    },
+    {
+     "text": "吗",
+     "start_ms": 5042,
+     "end_ms": 5305
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "en",
+    "text": "Two. Do you have a table by the window?",
+    "reading": null
+   }
+  },
+  {
+   "id": "b01.02",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "有，这边请。这是菜单。",
+   "tokens": [
+    {
+     "text": "有",
+     "reading": "yǒu",
+     "tone": 3
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "这",
+     "reading": "zhè",
+     "tone": 4
+    },
+    {
+     "text": "边",
+     "reading": "biān",
+     "tone": 1
+    },
+    {
+     "text": "请",
+     "reading": "qǐng",
+     "tone": 3
+    },
+    {
+     "text": "。",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "这",
+     "reading": "zhè",
+     "tone": 4
+    },
+    {
+     "text": "是",
+     "reading": "shì",
+     "tone": 4
+    },
+    {
+     "text": "菜",
+     "reading": "cài",
+     "tone": 4
+    },
+    {
+     "text": "单",
+     "reading": "dān",
+     "tone": 1
+    },
+    {
+     "text": "。",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Có ạ, mời đi lối này. Đây là thực đơn.",
+   "start_ms": 5655,
+   "end_ms": 8574,
+   "words": [
+    {
+     "text": "有",
+     "start_ms": 5655,
+     "end_ms": 6003
+    },
+    {
+     "text": "这边",
+     "start_ms": 6229,
+     "end_ms": 6629
+    },
+    {
+     "text": "请",
+     "start_ms": 6642,
+     "end_ms": 6977
+    },
+    {
+     "text": "这",
+     "start_ms": 7571,
+     "end_ms": 7764
+    },
+    {
+     "text": "是",
+     "start_ms": 7764,
+     "end_ms": 7893
+    },
+    {
+     "text": "菜单",
+     "start_ms": 7906,
+     "end_ms": 8460
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "en",
+    "text": "Yes, this way, please. Here's the menu.",
+    "reading": null
+   }
+  },
+  {
+   "id": "b01.03",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "你们店里什么菜最有名？",
+   "tokens": [
+    {
+     "text": "你",
+     "reading": "nǐ",
+     "tone": 3
+    },
+    {
+     "text": "们",
+     "reading": "men",
+     "tone": 0
+    },
+    {
+     "text": "店",
+     "reading": "diàn",
+     "tone": 4
+    },
+    {
+     "text": "里",
+     "reading": "lǐ",
+     "tone": 3
+    },
+    {
+     "text": "什",
+     "reading": "shén",
+     "tone": 2
+    },
+    {
+     "text": "么",
+     "reading": "me",
+     "tone": 0
+    },
+    {
+     "text": "菜",
+     "reading": "cài",
+     "tone": 4
+    },
+    {
+     "text": "最",
+     "reading": "zuì",
+     "tone": 4
+    },
+    {
+     "text": "有",
+     "reading": "yǒu",
+     "tone": 3
+    },
+    {
+     "text": "名",
+     "reading": "míng",
+     "tone": 2
+    },
+    {
+     "text": "？",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Quán mình món gì nổi tiếng nhất?",
+   "start_ms": 8924,
+   "end_ms": 10351,
+   "words": [
+    {
+     "text": "你们",
+     "start_ms": 8924,
+     "end_ms": 9290
+    },
+    {
+     "text": "店",
+     "start_ms": 9125,
+     "end_ms": 9277
+    },
+    {
+     "text": "里",
+     "start_ms": 9277,
+     "end_ms": 9340
+    },
+    {
+     "text": "什么",
+     "start_ms": 9365,
+     "end_ms": 9567
+    },
+    {
+     "text": "菜",
+     "start_ms": 9567,
+     "end_ms": 9693
+    },
+    {
+     "text": "最",
+     "start_ms": 9719,
+     "end_ms": 9858
+    },
+    {
+     "text": "有名",
+     "start_ms": 9858,
+     "end_ms": 10351
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "en",
+    "text": "What's your most popular dish?",
+    "reading": null
+   }
+  },
+  {
+   "id": "b01.04",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "宫保鸡丁和麻婆豆腐都很受欢迎。",
+   "tokens": [
+    {
+     "text": "宫",
+     "reading": "gōng",
+     "tone": 1
+    },
+    {
+     "text": "保",
+     "reading": "bǎo",
+     "tone": 3
+    },
+    {
+     "text": "鸡",
+     "reading": "jī",
+     "tone": 1
+    },
+    {
+     "text": "丁",
+     "reading": "dīng",
+     "tone": 1
+    },
+    {
+     "text": "和",
+     "reading": "hé",
+     "tone": 2
+    },
+    {
+     "text": "麻",
+     "reading": "má",
+     "tone": 2
+    },
+    {
+     "text": "婆",
+     "reading": "pó",
+     "tone": 2
+    },
+    {
+     "text": "豆",
+     "reading": "dòu",
+     "tone": 4
+    },
+    {
+     "text": "腐",
+     "reading": "fu",
+     "tone": 0
+    },
+    {
+     "text": "都",
+     "reading": "dōu",
+     "tone": 1
+    },
+    {
+     "text": "很",
+     "reading": "hěn",
+     "tone": 3
+    },
+    {
+     "text": "受",
+     "reading": "shòu",
+     "tone": 4
+    },
+    {
+     "text": "欢",
+     "reading": "huān",
+     "tone": 1
+    },
+    {
+     "text": "迎",
+     "reading": "yíng",
+     "tone": 2
+    },
+    {
+     "text": "。",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Gà Kung Pao và đậu phụ Tứ Xuyên đều được ưa chuộng.",
+   "start_ms": 10701,
+   "end_ms": 14030,
+   "words": [
+    {
+     "text": "宫保",
+     "start_ms": 10701,
+     "end_ms": 11075
+    },
+    {
+     "text": "鸡丁",
+     "start_ms": 11047,
+     "end_ms": 11524
+    },
+    {
+     "text": "和",
+     "start_ms": 11627,
+     "end_ms": 11795
+    },
+    {
+     "text": "麻婆豆腐",
+     "start_ms": 11807,
+     "end_ms": 12709
+    },
+    {
+     "text": "都",
+     "start_ms": 12813,
+     "end_ms": 12981
+    },
+    {
+     "text": "很",
+     "start_ms": 12993,
+     "end_ms": 13199
+    },
+    {
+     "text": "受",
+     "start_ms": 13199,
+     "end_ms": 13405
+    },
+    {
+     "text": "欢迎",
+     "start_ms": 13418,
+     "end_ms": 13933
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "en",
+    "text": "Kung Pao chicken and mapo tofu are both very popular.",
+    "reading": null
+   }
+  },
+  {
+   "id": "b01.05",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "麻婆豆腐辣吗？我不太能吃辣。",
+   "tokens": [
+    {
+     "text": "麻",
+     "reading": "má",
+     "tone": 2
+    },
+    {
+     "text": "婆",
+     "reading": "pó",
+     "tone": 2
+    },
+    {
+     "text": "豆",
+     "reading": "dòu",
+     "tone": 4
+    },
+    {
+     "text": "腐",
+     "reading": "fu",
+     "tone": 0
+    },
+    {
+     "text": "辣",
+     "reading": "là",
+     "tone": 4
+    },
+    {
+     "text": "吗",
+     "reading": "ma",
+     "tone": 0
+    },
+    {
+     "text": "？",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "我",
+     "reading": "wǒ",
+     "tone": 3
+    },
+    {
+     "text": "不",
+     "reading": "bú",
+     "tone": 2
+    },
+    {
+     "text": "太",
+     "reading": "tài",
+     "tone": 4
+    },
+    {
+     "text": "能",
+     "reading": "néng",
+     "tone": 2
+    },
+    {
+     "text": "吃",
+     "reading": "chī",
+     "tone": 1
+    },
+    {
+     "text": "辣",
+     "reading": "là",
+     "tone": 4
+    },
+    {
+     "text": "。",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Đậu phụ Tứ Xuyên có cay không? Tôi ăn cay kém lắm.",
+   "start_ms": 14380,
+   "end_ms": 17118,
+   "words": [
+    {
+     "text": "麻婆",
+     "start_ms": 14380,
+     "end_ms": 14746
+    },
+    {
+     "text": "豆腐辣",
+     "start_ms": 14693,
+     "end_ms": 15110
+    },
+    {
+     "text": "吗",
+     "start_ms": 15110,
+     "end_ms": 15464
+    },
+    {
+     "text": "我",
+     "start_ms": 16032,
+     "end_ms": 16234
+    },
+    {
+     "text": "不",
+     "start_ms": 16247,
+     "end_ms": 16335
+    },
+    {
+     "text": "太",
+     "start_ms": 16335,
+     "end_ms": 16474
+    },
+    {
+     "text": "能",
+     "start_ms": 16474,
+     "end_ms": 16600
+    },
+    {
+     "text": "吃",
+     "start_ms": 16613,
+     "end_ms": 16802
+    },
+    {
+     "text": "辣",
+     "start_ms": 16802,
+     "end_ms": 17092
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [
+    "吃辣"
+   ],
+   "parallel": {
+    "lang": "en",
+    "text": "Is the mapo tofu spicy? I can't handle much spice.",
+    "reading": null
+   }
+  },
+  {
+   "id": "b01.06",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "有一点辣，我们可以给你做微辣的。",
+   "tokens": [
+    {
+     "text": "有",
+     "reading": "yǒu",
+     "tone": 3
+    },
+    {
+     "text": "一",
+     "reading": "yì",
+     "tone": 4
+    },
+    {
+     "text": "点",
+     "reading": "diǎn",
+     "tone": 3
+    },
+    {
+     "text": "辣",
+     "reading": "là",
+     "tone": 4
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "我",
+     "reading": "wǒ",
+     "tone": 3
+    },
+    {
+     "text": "们",
+     "reading": "men",
+     "tone": 0
+    },
+    {
+     "text": "可",
+     "reading": "kě",
+     "tone": 3
+    },
+    {
+     "text": "以",
+     "reading": "yǐ",
+     "tone": 3
+    },
+    {
+     "text": "给",
+     "reading": "gěi",
+     "tone": 3
+    },
+    {
+     "text": "你",
+     "reading": "nǐ",
+     "tone": 3
+    },
+    {
+     "text": "做",
+     "reading": "zuò",
+     "tone": 4
+    },
+    {
+     "text": "微",
+     "reading": "wēi",
+     "tone": 1
+    },
+    {
+     "text": "辣",
+     "reading": "là",
+     "tone": 4
+    },
+    {
+     "text": "的",
+     "reading": "de",
+     "tone": 0
+    },
+    {
+     "text": "。",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Hơi cay một chút, quán có thể làm cay nhẹ cho anh.",
+   "start_ms": 17468,
+   "end_ms": 20056,
+   "words": [
+    {
+     "text": "有",
+     "start_ms": 17468,
+     "end_ms": 17636
+    },
+    {
+     "text": "一",
+     "start_ms": 17596,
+     "end_ms": 17712
+    },
+    {
+     "text": "点",
+     "start_ms": 17712,
+     "end_ms": 17918
+    },
+    {
+     "text": "辣",
+     "start_ms": 17918,
+     "end_ms": 18202
+    },
+    {
+     "text": "我们",
+     "start_ms": 18498,
+     "end_ms": 18691
+    },
+    {
+     "text": "可以",
+     "start_ms": 18704,
+     "end_ms": 18936
+    },
+    {
+     "text": "给",
+     "start_ms": 18949,
+     "end_ms": 19078
+    },
+    {
+     "text": "你",
+     "start_ms": 19078,
+     "end_ms": 19181
+    },
+    {
+     "text": "做",
+     "start_ms": 19194,
+     "end_ms": 19349
+    },
+    {
+     "text": "微辣",
+     "start_ms": 19349,
+     "end_ms": 19774
+    },
+    {
+     "text": "的",
+     "start_ms": 19774,
+     "end_ms": 19980
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "en",
+    "text": "It's a little spicy, but we can make it mild for you.",
+    "reading": null
+   }
+  },
+  {
+   "id": "b01.07",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "好，那就要一个微辣的麻婆豆腐，再来一碗米饭。",
+   "tokens": [
+    {
+     "text": "好",
+     "reading": "hǎo",
+     "tone": 3
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "那",
+     "reading": "nà",
+     "tone": 4
+    },
+    {
+     "text": "就",
+     "reading": "jiù",
+     "tone": 4
+    },
+    {
+     "text": "要",
+     "reading": "yào",
+     "tone": 4
+    },
+    {
+     "text": "一",
+     "reading": "yí",
+     "tone": 2
+    },
+    {
+     "text": "个",
+     "reading": "gè",
+     "tone": 4
+    },
+    {
+     "text": "微",
+     "reading": "wēi",
+     "tone": 1
+    },
+    {
+     "text": "辣",
+     "reading": "là",
+     "tone": 4
+    },
+    {
+     "text": "的",
+     "reading": "de",
+     "tone": 0
+    },
+    {
+     "text": "麻",
+     "reading": "má",
+     "tone": 2
+    },
+    {
+     "text": "婆",
+     "reading": "pó",
+     "tone": 2
+    },
+    {
+     "text": "豆",
+     "reading": "dòu",
+     "tone": 4
+    },
+    {
+     "text": "腐",
+     "reading": "fu",
+     "tone": 0
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "再",
+     "reading": "zài",
+     "tone": 4
+    },
+    {
+     "text": "来",
+     "reading": "lái",
+     "tone": 2
+    },
+    {
+     "text": "一",
+     "reading": "yì",
+     "tone": 4
+    },
+    {
+     "text": "碗",
+     "reading": "wǎn",
+     "tone": 3
+    },
+    {
+     "text": "米",
+     "reading": "mǐ",
+     "tone": 3
+    },
+    {
+     "text": "饭",
+     "reading": "fàn",
+     "tone": 4
+    },
+    {
+     "text": "。",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Được, vậy cho một đậu phụ Tứ Xuyên cay nhẹ, thêm một bát cơm.",
+   "start_ms": 20406,
+   "end_ms": 24084,
+   "words": [
+    {
+     "text": "好",
+     "start_ms": 20406,
+     "end_ms": 20911
+    },
+    {
+     "text": "那",
+     "start_ms": 21334,
+     "end_ms": 21511
+    },
+    {
+     "text": "就",
+     "start_ms": 21510,
+     "end_ms": 21611
+    },
+    {
+     "text": "要",
+     "start_ms": 21611,
+     "end_ms": 21687
+    },
+    {
+     "text": "一个",
+     "start_ms": 21700,
+     "end_ms": 21852
+    },
+    {
+     "text": "微辣",
+     "start_ms": 21877,
+     "end_ms": 22167
+    },
+    {
+     "text": "的",
+     "start_ms": 22167,
+     "end_ms": 22243
+    },
+    {
+     "text": "麻婆豆腐",
+     "start_ms": 22268,
+     "end_ms": 22975
+    },
+    {
+     "text": "再",
+     "start_ms": 23139,
+     "end_ms": 23328
+    },
+    {
+     "text": "来",
+     "start_ms": 23329,
+     "end_ms": 23417
+    },
+    {
+     "text": "一碗米饭",
+     "start_ms": 23430,
+     "end_ms": 24023
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [
+    "米饭"
+   ],
+   "parallel": {
+    "lang": "en",
+    "text": "Great, then one mild mapo tofu and a bowl of rice, please.",
+    "reading": null
+   }
+  },
+  {
+   "id": "b01.08",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "要喝点什么吗？",
+   "tokens": [
+    {
+     "text": "要",
+     "reading": "yào",
+     "tone": 4
+    },
+    {
+     "text": "喝",
+     "reading": "hē",
+     "tone": 1
+    },
+    {
+     "text": "点",
+     "reading": "diǎn",
+     "tone": 3
+    },
+    {
+     "text": "什",
+     "reading": "shén",
+     "tone": 2
+    },
+    {
+     "text": "么",
+     "reading": "me",
+     "tone": 0
+    },
+    {
+     "text": "吗",
+     "reading": "ma",
+     "tone": 0
+    },
+    {
+     "text": "？",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Anh có muốn uống gì không?",
+   "start_ms": 24434,
+   "end_ms": 25636,
+   "words": [
+    {
+     "text": "要",
+     "start_ms": 24434,
+     "end_ms": 24653
+    },
+    {
+     "text": "喝",
+     "start_ms": 24606,
+     "end_ms": 24799
+    },
+    {
+     "text": "点",
+     "start_ms": 24799,
+     "end_ms": 24979
+    },
+    {
+     "text": "什么",
+     "start_ms": 24992,
+     "end_ms": 25276
+    },
+    {
+     "text": "吗",
+     "start_ms": 25276,
+     "end_ms": 25585
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "en",
+    "text": "Anything to drink?",
+    "reading": null
+   }
+  },
+  {
+   "id": "b01.09",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "一杯热茶就好，谢谢。",
+   "tokens": [
+    {
+     "text": "一",
+     "reading": "yì",
+     "tone": 4
+    },
+    {
+     "text": "杯",
+     "reading": "bēi",
+     "tone": 1
+    },
+    {
+     "text": "热",
+     "reading": "rè",
+     "tone": 4
+    },
+    {
+     "text": "茶",
+     "reading": "chá",
+     "tone": 2
+    },
+    {
+     "text": "就",
+     "reading": "jiù",
+     "tone": 4
+    },
+    {
+     "text": "好",
+     "reading": "hǎo",
+     "tone": 3
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "谢",
+     "reading": "xiè",
+     "tone": 4
+    },
+    {
+     "text": "谢",
+     "reading": "xie",
+     "tone": 0
+    },
+    {
+     "text": "。",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Một cốc trà nóng là được, cảm ơn.",
+   "start_ms": 25986,
+   "end_ms": 27700,
+   "words": [
+    {
+     "text": "一",
+     "start_ms": 25986,
+     "end_ms": 26138
+    },
+    {
+     "text": "杯",
+     "start_ms": 26069,
+     "end_ms": 26183
+    },
+    {
+     "text": "热茶",
+     "start_ms": 26195,
+     "end_ms": 26473
+    },
+    {
+     "text": "就",
+     "start_ms": 26486,
+     "end_ms": 26600
+    },
+    {
+     "text": "好",
+     "start_ms": 26599,
+     "end_ms": 26864
+    },
+    {
+     "text": "谢谢",
+     "start_ms": 27231,
+     "end_ms": 27648
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "en",
+    "text": "Just a cup of hot tea, thanks.",
+    "reading": null
+   }
+  },
+  {
+   "id": "b01.10",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "好的，请稍等，菜马上就来。",
+   "tokens": [
+    {
+     "text": "好",
+     "reading": "hǎo",
+     "tone": 3
+    },
+    {
+     "text": "的",
+     "reading": "de",
+     "tone": 0
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "请",
+     "reading": "qǐng",
+     "tone": 3
+    },
+    {
+     "text": "稍",
+     "reading": "shāo",
+     "tone": 1
+    },
+    {
+     "text": "等",
+     "reading": "děng",
+     "tone": 3
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "菜",
+     "reading": "cài",
+     "tone": 4
+    },
+    {
+     "text": "马",
+     "reading": "mǎ",
+     "tone": 3
+    },
+    {
+     "text": "上",
+     "reading": "shàng",
+     "tone": 4
+    },
+    {
+     "text": "就",
+     "reading": "jiù",
+     "tone": 4
+    },
+    {
+     "text": "来",
+     "reading": "lái",
+     "tone": 2
+    },
+    {
+     "text": "。",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Vâng, xin chờ một chút, món sẽ lên ngay.",
+   "start_ms": 28050,
+   "end_ms": 30706,
+   "words": [
+    {
+     "text": "好",
+     "start_ms": 28050,
+     "end_ms": 28269
+    },
+    {
+     "text": "的",
+     "start_ms": 28216,
+     "end_ms": 28422
+    },
+    {
+     "text": "请",
+     "start_ms": 28731,
+     "end_ms": 28924
+    },
+    {
+     "text": "稍等",
+     "start_ms": 28924,
+     "end_ms": 29401
+    },
+    {
+     "text": "菜马",
+     "start_ms": 29646,
+     "end_ms": 30007
+    },
+    {
+     "text": "上",
+     "start_ms": 30007,
+     "end_ms": 30213
+    },
+    {
+     "text": "就",
+     "start_ms": 30226,
+     "end_ms": 30355
+    },
+    {
+     "text": "来",
+     "start_ms": 30355,
+     "end_ms": 30626
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "en",
+    "text": "Sure. One moment, your food will be right out.",
+    "reading": null
+   }
+  },
+  {
+   "id": "b02.00",
+   "section": "b02",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "麻婆豆腐辣吗？我不太能吃辣。",
+   "tokens": [
+    {
+     "text": "麻",
+     "reading": "má",
+     "tone": 2
+    },
+    {
+     "text": "婆",
+     "reading": "pó",
+     "tone": 2
+    },
+    {
+     "text": "豆",
+     "reading": "dòu",
+     "tone": 4
+    },
+    {
+     "text": "腐",
+     "reading": "fu",
+     "tone": 0
+    },
+    {
+     "text": "辣",
+     "reading": "là",
+     "tone": 4
+    },
+    {
+     "text": "吗",
+     "reading": "ma",
+     "tone": 0
+    },
+    {
+     "text": "？",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "我",
+     "reading": "wǒ",
+     "tone": 3
+    },
+    {
+     "text": "不",
+     "reading": "bú",
+     "tone": 2
+    },
+    {
+     "text": "太",
+     "reading": "tài",
+     "tone": 4
+    },
+    {
+     "text": "能",
+     "reading": "néng",
+     "tone": 2
+    },
+    {
+     "text": "吃",
+     "reading": "chī",
+     "tone": 1
+    },
+    {
+     "text": "辣",
+     "reading": "là",
+     "tone": 4
+    },
+    {
+     "text": "。",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Đậu phụ Tứ Xuyên có cay không? Tôi ăn cay kém lắm.",
+   "start_ms": 31606,
+   "end_ms": 35027,
+   "words": [
+    {
+     "text": "麻婆",
+     "start_ms": 31606,
+     "end_ms": 32071
+    },
+    {
+     "text": "豆腐辣",
+     "start_ms": 31987,
+     "end_ms": 32516
+    },
+    {
+     "text": "吗",
+     "start_ms": 32516,
+     "end_ms": 32965
+    },
+    {
+     "text": "我",
+     "start_ms": 33700,
+     "end_ms": 33956
+    },
+    {
+     "text": "不",
+     "start_ms": 33972,
+     "end_ms": 34084
+    },
+    {
+     "text": "太",
+     "start_ms": 34084,
+     "end_ms": 34260
+    },
+    {
+     "text": "能",
+     "start_ms": 34261,
+     "end_ms": 34421
+    },
+    {
+     "text": "吃",
+     "start_ms": 34437,
+     "end_ms": 34677
+    },
+    {
+     "text": "辣",
+     "start_ms": 34677,
+     "end_ms": 35027
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": true,
+   "pause_after_ms": 2000,
+   "targets": [
+    "吃辣"
+   ],
+   "parallel": {
+    "lang": "en",
+    "text": "Is the mapo tofu spicy? I can't handle much spice.",
+    "reading": null
+   }
+  },
+  {
+   "id": "b02.01",
+   "section": "b02",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "好，那就要一个微辣的麻婆豆腐，再来一碗米饭。",
+   "tokens": [
+    {
+     "text": "好",
+     "reading": "hǎo",
+     "tone": 3
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "那",
+     "reading": "nà",
+     "tone": 4
+    },
+    {
+     "text": "就",
+     "reading": "jiù",
+     "tone": 4
+    },
+    {
+     "text": "要",
+     "reading": "yào",
+     "tone": 4
+    },
+    {
+     "text": "一",
+     "reading": "yí",
+     "tone": 2
+    },
+    {
+     "text": "个",
+     "reading": "gè",
+     "tone": 4
+    },
+    {
+     "text": "微",
+     "reading": "wēi",
+     "tone": 1
+    },
+    {
+     "text": "辣",
+     "reading": "là",
+     "tone": 4
+    },
+    {
+     "text": "的",
+     "reading": "de",
+     "tone": 0
+    },
+    {
+     "text": "麻",
+     "reading": "má",
+     "tone": 2
+    },
+    {
+     "text": "婆",
+     "reading": "pó",
+     "tone": 2
+    },
+    {
+     "text": "豆",
+     "reading": "dòu",
+     "tone": 4
+    },
+    {
+     "text": "腐",
+     "reading": "fu",
+     "tone": 0
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "再",
+     "reading": "zài",
+     "tone": 4
+    },
+    {
+     "text": "来",
+     "reading": "lái",
+     "tone": 2
+    },
+    {
+     "text": "一",
+     "reading": "yì",
+     "tone": 4
+    },
+    {
+     "text": "碗",
+     "reading": "wǎn",
+     "tone": 3
+    },
+    {
+     "text": "米",
+     "reading": "mǐ",
+     "tone": 3
+    },
+    {
+     "text": "饭",
+     "reading": "fàn",
+     "tone": 4
+    },
+    {
+     "text": "。",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Được, vậy cho một đậu phụ Tứ Xuyên cay nhẹ, thêm một bát cơm.",
+   "start_ms": 37377,
+   "end_ms": 42009,
+   "words": [
+    {
+     "text": "好",
+     "start_ms": 37377,
+     "end_ms": 38018
+    },
+    {
+     "text": "那",
+     "start_ms": 38536,
+     "end_ms": 38760
+    },
+    {
+     "text": "就",
+     "start_ms": 38760,
+     "end_ms": 38888
+    },
+    {
+     "text": "要",
+     "start_ms": 38889,
+     "end_ms": 38985
+    },
+    {
+     "text": "一个",
+     "start_ms": 39001,
+     "end_ms": 39193
+    },
+    {
+     "text": "微辣",
+     "start_ms": 39225,
+     "end_ms": 39594
+    },
+    {
+     "text": "的",
+     "start_ms": 39594,
+     "end_ms": 39690
+    },
+    {
+     "text": "麻婆豆腐",
+     "start_ms": 39722,
+     "end_ms": 40619
+    },
+    {
+     "text": "再",
+     "start_ms": 40828,
+     "end_ms": 41068
+    },
+    {
+     "text": "来",
+     "start_ms": 41068,
+     "end_ms": 41180
+    },
+    {
+     "text": "一碗米饭",
+     "start_ms": 41196,
+     "end_ms": 41949
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": true,
+   "pause_after_ms": 2000,
+   "targets": [
+    "米饭"
+   ],
+   "parallel": {
+    "lang": "en",
+    "text": "Great, then one mild mapo tofu and a bowl of rice, please.",
+    "reading": null
+   }
+  }
+ ],
+ "vocab": [
+  {
+   "text": "菜单",
+   "reading": "cài dān",
+   "l1": "thực đơn",
+   "level": 2,
+   "cognate": null
+  },
+  {
+   "text": "辣",
+   "reading": "là",
+   "l1": "cay",
+   "level": 4,
+   "cognate": null
+  },
+  {
+   "text": "稍等",
+   "reading": "shāo děng",
+   "l1": "chờ một chút",
+   "level": null,
+   "cognate": null
+  }
+ ],
+ "cognate_reveal": null,
+ "errata": [],
+ "attribution": [
+  "pypinyin (MIT)",
+  "jieba (MIT)"
+ ],
+ "disclosure": {
+  "synthetic_voice": true
+ }
+}

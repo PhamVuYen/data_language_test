@@ -1,0 +1,1839 @@
+{
+ "schema": "episode/1",
+ "id": "doi-song-05-en",
+ "pair": "doi-song-05",
+ "lang": {
+  "target": "en",
+  "l1": "vi"
+ },
+ "level": {
+  "scheme": "CEFR",
+  "label": "A2"
+ },
+ "title": {
+  "target": "Seeing a Doctor",
+  "l1": "Đi khám bệnh"
+ },
+ "series": {
+  "id": "doi-song-en",
+  "name": "Đời sống",
+  "order": 5
+ },
+ "flags": [],
+ "audio": {
+  "mix": "audio/mix.m4a",
+  "duration_ms": 51079
+ },
+ "speakers": {
+  "A": {
+   "name": "Doctor",
+   "l1_name": "bác sĩ"
+  },
+  "B": {
+   "name": "Nam",
+   "l1_name": "Nam"
+  }
+ },
+ "sections": [
+  {
+   "id": "b01",
+   "type": "dialogue",
+   "label": "Hội thoại",
+   "start_ms": 300
+  },
+  {
+   "id": "b02",
+   "type": "recap_slow",
+   "label": "Nhắc lại chậm",
+   "start_ms": 39503
+  }
+ ],
+ "lines": [
+  {
+   "id": "b01.00",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "Hello, what seems to be the problem?",
+   "tokens": [
+    {
+     "text": "Hello",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ",",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "what",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "seems",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "to",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "be",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "the",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "problem",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "?",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Chào anh, anh thấy khó chịu ở đâu?",
+   "start_ms": 300,
+   "end_ms": 2425,
+   "words": [
+    {
+     "text": "Hello",
+     "start_ms": 300,
+     "end_ms": 792
+    },
+    {
+     "text": "what",
+     "start_ms": 933,
+     "end_ms": 1106
+    },
+    {
+     "text": "seems",
+     "start_ms": 1119,
+     "end_ms": 1412
+    },
+    {
+     "text": "to",
+     "start_ms": 1425,
+     "end_ms": 1518
+    },
+    {
+     "text": "be",
+     "start_ms": 1531,
+     "end_ms": 1651
+    },
+    {
+     "text": "the",
+     "start_ms": 1664,
+     "end_ms": 1770
+    },
+    {
+     "text": "problem",
+     "start_ms": 1784,
+     "end_ms": 2342
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "你好，哪里不舒服？",
+    "reading": "nǐ hǎo nǎ lǐ bù shū fu"
+   }
+  },
+  {
+   "id": "b01.01",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "I've had a headache since last night, and a bit of a fever.",
+   "tokens": [
+    {
+     "text": "I've",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "had",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "a",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "headache",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "since",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "last",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "night",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ",",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "and",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "a",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "bit",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "of",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "a",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "fever",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Từ tối qua tôi bắt đầu đau đầu, còn hơi sốt.",
+   "start_ms": 2775,
+   "end_ms": 5901,
+   "words": [
+    {
+     "text": "I've",
+     "start_ms": 2775,
+     "end_ms": 2974
+    },
+    {
+     "text": "had",
+     "start_ms": 2951,
+     "end_ms": 3124
+    },
+    {
+     "text": "a",
+     "start_ms": 3151,
+     "end_ms": 3191
+    },
+    {
+     "text": "headache",
+     "start_ms": 3204,
+     "end_ms": 3563
+    },
+    {
+     "text": "since",
+     "start_ms": 3576,
+     "end_ms": 3855
+    },
+    {
+     "text": "last",
+     "start_ms": 3869,
+     "end_ms": 4201
+    },
+    {
+     "text": "night",
+     "start_ms": 4215,
+     "end_ms": 4494
+    },
+    {
+     "text": "and",
+     "start_ms": 4707,
+     "end_ms": 4840
+    },
+    {
+     "text": "a",
+     "start_ms": 4866,
+     "end_ms": 4932
+    },
+    {
+     "text": "bit",
+     "start_ms": 4959,
+     "end_ms": 5132
+    },
+    {
+     "text": "of",
+     "start_ms": 5159,
+     "end_ms": 5239
+    },
+    {
+     "text": "a",
+     "start_ms": 5252,
+     "end_ms": 5332
+    },
+    {
+     "text": "fever",
+     "start_ms": 5345,
+     "end_ms": 5864
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [
+    "headache",
+    "fever"
+   ],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "我从昨天晚上开始头疼，还有点发烧。",
+    "reading": "wǒ cóng zuó tiān wǎn shang kāi shǐ tóu téng hái yǒu diǎn fā shāo"
+   }
+  },
+  {
+   "id": "b01.02",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "Are you coughing? Does your throat hurt?",
+   "tokens": [
+    {
+     "text": "Are",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "you",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "coughing",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "?",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "Does",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "your",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "throat",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "hurt",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "?",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Có ho không? Họng có đau không?",
+   "start_ms": 6251,
+   "end_ms": 9223,
+   "words": [
+    {
+     "text": "Are",
+     "start_ms": 6251,
+     "end_ms": 6437
+    },
+    {
+     "text": "you",
+     "start_ms": 6395,
+     "end_ms": 6528
+    },
+    {
+     "text": "coughing",
+     "start_ms": 6541,
+     "end_ms": 7113
+    },
+    {
+     "text": "Does",
+     "start_ms": 8034,
+     "end_ms": 8273
+    },
+    {
+     "text": "your",
+     "start_ms": 8286,
+     "end_ms": 8419
+    },
+    {
+     "text": "throat",
+     "start_ms": 8432,
+     "end_ms": 8711
+    },
+    {
+     "text": "hurt",
+     "start_ms": 8725,
+     "end_ms": 9190
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "咳嗽吗？嗓子疼不疼？",
+    "reading": "ké sou ma sǎng zi téng bù téng"
+   }
+  },
+  {
+   "id": "b01.03",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "I have a slight cough, and my throat really hurts.",
+   "tokens": [
+    {
+     "text": "I",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "have",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "a",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "slight",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "cough",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ",",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "and",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "my",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "throat",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "really",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "hurts",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Hơi ho một chút, họng cũng đau lắm.",
+   "start_ms": 9573,
+   "end_ms": 12280,
+   "words": [
+    {
+     "text": "I",
+     "start_ms": 9573,
+     "end_ms": 9759
+    },
+    {
+     "text": "have",
+     "start_ms": 9685,
+     "end_ms": 9831
+    },
+    {
+     "text": "a",
+     "start_ms": 9845,
+     "end_ms": 9911
+    },
+    {
+     "text": "slight",
+     "start_ms": 9924,
+     "end_ms": 10230
+    },
+    {
+     "text": "cough",
+     "start_ms": 10257,
+     "end_ms": 10603
+    },
+    {
+     "text": "and",
+     "start_ms": 10882,
+     "end_ms": 10962
+    },
+    {
+     "text": "my",
+     "start_ms": 10988,
+     "end_ms": 11108
+    },
+    {
+     "text": "throat",
+     "start_ms": 11134,
+     "end_ms": 11440
+    },
+    {
+     "text": "really",
+     "start_ms": 11454,
+     "end_ms": 11720
+    },
+    {
+     "text": "hurts",
+     "start_ms": 11746,
+     "end_ms": 12198
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "有一点咳嗽，嗓子也很疼。",
+    "reading": "yǒu yì diǎn ké sou sǎng zi yě hěn téng"
+   }
+  },
+  {
+   "id": "b01.04",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "Let me take a look. Open your mouth, please.",
+   "tokens": [
+    {
+     "text": "Let",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "me",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "take",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "a",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "look",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "Open",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "your",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "mouth",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ",",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "please",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Để tôi khám trước, anh há miệng ra nhé.",
+   "start_ms": 12630,
+   "end_ms": 16395,
+   "words": [
+    {
+     "text": "Let",
+     "start_ms": 12630,
+     "end_ms": 12909
+    },
+    {
+     "text": "me",
+     "start_ms": 12870,
+     "end_ms": 13003
+    },
+    {
+     "text": "take",
+     "start_ms": 13016,
+     "end_ms": 13269
+    },
+    {
+     "text": "a",
+     "start_ms": 13282,
+     "end_ms": 13335
+    },
+    {
+     "text": "look",
+     "start_ms": 13348,
+     "end_ms": 13800
+    },
+    {
+     "text": "Open",
+     "start_ms": 14721,
+     "end_ms": 15080
+    },
+    {
+     "text": "your",
+     "start_ms": 15094,
+     "end_ms": 15200
+    },
+    {
+     "text": "mouth",
+     "start_ms": 15213,
+     "end_ms": 15612
+    },
+    {
+     "text": "please",
+     "start_ms": 15772,
+     "end_ms": 16344
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "我先给你检查一下，请张开嘴。",
+    "reading": "wǒ xiān gěi nǐ jiǎn chá yí xià qǐng zhāng kāi zuǐ"
+   }
+  },
+  {
+   "id": "b01.05",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "You've caught a cold. It's not too serious.",
+   "tokens": [
+    {
+     "text": "You've",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "caught",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "a",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "cold",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "It's",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "not",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "too",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "serious",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Anh bị cảm rồi, không nghiêm trọng lắm.",
+   "start_ms": 16745,
+   "end_ms": 20358,
+   "words": [
+    {
+     "text": "You've",
+     "start_ms": 16745,
+     "end_ms": 17011
+    },
+    {
+     "text": "caught",
+     "start_ms": 16973,
+     "end_ms": 17226
+    },
+    {
+     "text": "a",
+     "start_ms": 17239,
+     "end_ms": 17305
+    },
+    {
+     "text": "cold",
+     "start_ms": 17319,
+     "end_ms": 17877
+    },
+    {
+     "text": "It's",
+     "start_ms": 18798,
+     "end_ms": 19024
+    },
+    {
+     "text": "not",
+     "start_ms": 19038,
+     "end_ms": 19344
+    },
+    {
+     "text": "too",
+     "start_ms": 19357,
+     "end_ms": 19570
+    },
+    {
+     "text": "serious",
+     "start_ms": 19583,
+     "end_ms": 20301
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "你是感冒了，不太严重。",
+    "reading": "nǐ shì gǎn mào le bú tài yán zhòng"
+   }
+  },
+  {
+   "id": "b01.06",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "Do I need a shot?",
+   "tokens": [
+    {
+     "text": "Do",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "I",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "need",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "a",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "shot",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "?",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Có cần tiêm không ạ?",
+   "start_ms": 20708,
+   "end_ms": 21870,
+   "words": [
+    {
+     "text": "Do",
+     "start_ms": 20708,
+     "end_ms": 20894
+    },
+    {
+     "text": "I",
+     "start_ms": 20859,
+     "end_ms": 20925
+    },
+    {
+     "text": "need",
+     "start_ms": 20952,
+     "end_ms": 21191
+    },
+    {
+     "text": "a",
+     "start_ms": 21218,
+     "end_ms": 21271
+    },
+    {
+     "text": "shot",
+     "start_ms": 21285,
+     "end_ms": 21804
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "需要打针吗？",
+    "reading": "xū yào dǎ zhēn ma"
+   }
+  },
+  {
+   "id": "b01.07",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "No, just take some medicine, drink plenty of water, and get some rest.",
+   "tokens": [
+    {
+     "text": "No",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ",",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "just",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "take",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "some",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "medicine",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ",",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "drink",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "plenty",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "of",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "water",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ",",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "and",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "get",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "some",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "rest",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Không cần, uống chút thuốc, uống nhiều nước, nghỉ ngơi cho tốt.",
+   "start_ms": 22220,
+   "end_ms": 26716,
+   "words": [
+    {
+     "text": "No",
+     "start_ms": 22220,
+     "end_ms": 22659
+    },
+    {
+     "text": "just",
+     "start_ms": 22793,
+     "end_ms": 23032
+    },
+    {
+     "text": "take",
+     "start_ms": 23046,
+     "end_ms": 23285
+    },
+    {
+     "text": "some",
+     "start_ms": 23299,
+     "end_ms": 23459
+    },
+    {
+     "text": "medicine",
+     "start_ms": 23471,
+     "end_ms": 24016
+    },
+    {
+     "text": "drink",
+     "start_ms": 24269,
+     "end_ms": 24562
+    },
+    {
+     "text": "plenty",
+     "start_ms": 24575,
+     "end_ms": 24921
+    },
+    {
+     "text": "of",
+     "start_ms": 24934,
+     "end_ms": 25027
+    },
+    {
+     "text": "water",
+     "start_ms": 25041,
+     "end_ms": 25453
+    },
+    {
+     "text": "and",
+     "start_ms": 25626,
+     "end_ms": 25732
+    },
+    {
+     "text": "get",
+     "start_ms": 25745,
+     "end_ms": 25958
+    },
+    {
+     "text": "some",
+     "start_ms": 25971,
+     "end_ms": 26144
+    },
+    {
+     "text": "rest",
+     "start_ms": 26158,
+     "end_ms": 26677
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "不用，吃点药，多喝水，好好休息。",
+    "reading": "bú yòng chī diǎn yào duō hē shuǐ hǎo hǎo xiū xi"
+   }
+  },
+  {
+   "id": "b01.08",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "How many times a day should I take this medicine?",
+   "tokens": [
+    {
+     "text": "How",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "many",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "times",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "a",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "day",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "should",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "I",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "take",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "this",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "medicine",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "?",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Thuốc này một ngày uống mấy lần ạ?",
+   "start_ms": 27066,
+   "end_ms": 29628,
+   "words": [
+    {
+     "text": "How",
+     "start_ms": 27066,
+     "end_ms": 27252
+    },
+    {
+     "text": "many",
+     "start_ms": 27198,
+     "end_ms": 27411
+    },
+    {
+     "text": "times",
+     "start_ms": 27437,
+     "end_ms": 27769
+    },
+    {
+     "text": "a",
+     "start_ms": 27796,
+     "end_ms": 27862
+    },
+    {
+     "text": "day",
+     "start_ms": 27876,
+     "end_ms": 28115
+    },
+    {
+     "text": "should",
+     "start_ms": 28142,
+     "end_ms": 28341
+    },
+    {
+     "text": "I",
+     "start_ms": 28368,
+     "end_ms": 28434
+    },
+    {
+     "text": "take",
+     "start_ms": 28461,
+     "end_ms": 28714
+    },
+    {
+     "text": "this",
+     "start_ms": 28740,
+     "end_ms": 28926
+    },
+    {
+     "text": "medicine",
+     "start_ms": 28953,
+     "end_ms": 29525
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [
+    "times a day"
+   ],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "这个药一天吃几次？",
+    "reading": "zhè ge yào yì tiān chī jǐ cì"
+   }
+  },
+  {
+   "id": "b01.09",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "Three times a day, after meals. If you're not better in three days, come back and see me.",
+   "tokens": [
+    {
+     "text": "Three",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "times",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "a",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "day",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ",",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "after",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "meals",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "If",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "you're",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "not",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "better",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "in",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "three",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "days",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ",",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "come",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "back",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "and",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "see",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "me",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Một ngày ba lần, uống sau bữa ăn. Nếu ba ngày vẫn chưa khỏi thì quay lại gặp tôi.",
+   "start_ms": 29978,
+   "end_ms": 36382,
+   "words": [
+    {
+     "text": "Three",
+     "start_ms": 29978,
+     "end_ms": 30244
+    },
+    {
+     "text": "times",
+     "start_ms": 30184,
+     "end_ms": 30570
+    },
+    {
+     "text": "a",
+     "start_ms": 30583,
+     "end_ms": 30663
+    },
+    {
+     "text": "day",
+     "start_ms": 30676,
+     "end_ms": 31022
+    },
+    {
+     "text": "after",
+     "start_ms": 31235,
+     "end_ms": 31581
+    },
+    {
+     "text": "meals",
+     "start_ms": 31594,
+     "end_ms": 32192
+    },
+    {
+     "text": "If",
+     "start_ms": 33113,
+     "end_ms": 33312
+    },
+    {
+     "text": "you're",
+     "start_ms": 33326,
+     "end_ms": 33459
+    },
+    {
+     "text": "not",
+     "start_ms": 33472,
+     "end_ms": 33738
+    },
+    {
+     "text": "better",
+     "start_ms": 33751,
+     "end_ms": 34030
+    },
+    {
+     "text": "in",
+     "start_ms": 34044,
+     "end_ms": 34164
+    },
+    {
+     "text": "three",
+     "start_ms": 34177,
+     "end_ms": 34443
+    },
+    {
+     "text": "days",
+     "start_ms": 34456,
+     "end_ms": 34921
+    },
+    {
+     "text": "come",
+     "start_ms": 35121,
+     "end_ms": 35334
+    },
+    {
+     "text": "back",
+     "start_ms": 35347,
+     "end_ms": 35613
+    },
+    {
+     "text": "and",
+     "start_ms": 35626,
+     "end_ms": 35746
+    },
+    {
+     "text": "see",
+     "start_ms": 35759,
+     "end_ms": 35958
+    },
+    {
+     "text": "me",
+     "start_ms": 35972,
+     "end_ms": 36291
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "一天三次，饭后吃。如果三天还不好，再来找我。",
+    "reading": "yì tiān sān cì fàn hòu chī rú guǒ sān tiān hái bù hǎo zài lái zhǎo wǒ"
+   }
+  },
+  {
+   "id": "b01.10",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "Okay, thank you, doctor.",
+   "tokens": [
+    {
+     "text": "Okay",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ",",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "thank",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "you",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ",",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "doctor",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Vâng, cảm ơn bác sĩ.",
+   "start_ms": 36732,
+   "end_ms": 38603,
+   "words": [
+    {
+     "text": "Okay",
+     "start_ms": 36732,
+     "end_ms": 37184
+    },
+    {
+     "text": "thank",
+     "start_ms": 37361,
+     "end_ms": 37627
+    },
+    {
+     "text": "you",
+     "start_ms": 37653,
+     "end_ms": 37826
+    },
+    {
+     "text": "doctor",
+     "start_ms": 38039,
+     "end_ms": 38544
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "好的，谢谢医生。",
+    "reading": "hǎo de xiè xie yī shēng"
+   }
+  },
+  {
+   "id": "b02.00",
+   "section": "b02",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "I've had a headache since last night, and a bit of a fever.",
+   "tokens": [
+    {
+     "text": "I've",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "had",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "a",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "headache",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "since",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "last",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "night",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ",",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "and",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "a",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "bit",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "of",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "a",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "fever",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Từ tối qua tôi bắt đầu đau đầu, còn hơi sốt.",
+   "start_ms": 39503,
+   "end_ms": 43145,
+   "words": [
+    {
+     "text": "I've",
+     "start_ms": 39503,
+     "end_ms": 39737
+    },
+    {
+     "text": "had",
+     "start_ms": 39698,
+     "end_ms": 39901
+    },
+    {
+     "text": "a",
+     "start_ms": 39932,
+     "end_ms": 39979
+    },
+    {
+     "text": "headache",
+     "start_ms": 39995,
+     "end_ms": 40417
+    },
+    {
+     "text": "since",
+     "start_ms": 40432,
+     "end_ms": 40760
+    },
+    {
+     "text": "last",
+     "start_ms": 40776,
+     "end_ms": 41167
+    },
+    {
+     "text": "night",
+     "start_ms": 41182,
+     "end_ms": 41510
+    },
+    {
+     "text": "and",
+     "start_ms": 41761,
+     "end_ms": 41917
+    },
+    {
+     "text": "a",
+     "start_ms": 41948,
+     "end_ms": 42026
+    },
+    {
+     "text": "bit",
+     "start_ms": 42058,
+     "end_ms": 42261
+    },
+    {
+     "text": "of",
+     "start_ms": 42292,
+     "end_ms": 42386
+    },
+    {
+     "text": "a",
+     "start_ms": 42401,
+     "end_ms": 42495
+    },
+    {
+     "text": "fever",
+     "start_ms": 42511,
+     "end_ms": 43120
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": true,
+   "pause_after_ms": 2000,
+   "targets": [
+    "headache",
+    "fever"
+   ],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "我从昨天晚上开始头疼，还有点发烧。",
+    "reading": "wǒ cóng zuó tiān wǎn shang kāi shǐ tóu téng hái yǒu diǎn fā shāo"
+   }
+  },
+  {
+   "id": "b02.01",
+   "section": "b02",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "How many times a day should I take this medicine?",
+   "tokens": [
+    {
+     "text": "How",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "many",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "times",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "a",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "day",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "should",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "I",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "take",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "this",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "medicine",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "?",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Thuốc này một ngày uống mấy lần ạ?",
+   "start_ms": 45495,
+   "end_ms": 48479,
+   "words": [
+    {
+     "text": "How",
+     "start_ms": 45495,
+     "end_ms": 45714
+    },
+    {
+     "text": "many",
+     "start_ms": 45643,
+     "end_ms": 45893
+    },
+    {
+     "text": "times",
+     "start_ms": 45925,
+     "end_ms": 46316
+    },
+    {
+     "text": "a",
+     "start_ms": 46347,
+     "end_ms": 46425
+    },
+    {
+     "text": "day",
+     "start_ms": 46440,
+     "end_ms": 46721
+    },
+    {
+     "text": "should",
+     "start_ms": 46753,
+     "end_ms": 46987
+    },
+    {
+     "text": "I",
+     "start_ms": 47019,
+     "end_ms": 47097
+    },
+    {
+     "text": "take",
+     "start_ms": 47128,
+     "end_ms": 47425
+    },
+    {
+     "text": "this",
+     "start_ms": 47456,
+     "end_ms": 47675
+    },
+    {
+     "text": "medicine",
+     "start_ms": 47706,
+     "end_ms": 48378
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": true,
+   "pause_after_ms": 2000,
+   "targets": [
+    "times a day"
+   ],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "这个药一天吃几次？",
+    "reading": "zhè ge yào yì tiān chī jǐ cì"
+   }
+  }
+ ],
+ "vocab": [
+  {
+   "text": "headache",
+   "reading": null,
+   "l1": "đau đầu",
+   "level": null,
+   "cognate": null
+  },
+  {
+   "text": "fever",
+   "reading": null,
+   "l1": "sốt",
+   "level": null,
+   "cognate": null
+  },
+  {
+   "text": "sore throat",
+   "reading": null,
+   "l1": "đau họng",
+   "level": null,
+   "cognate": null
+  },
+  {
+   "text": "a shot",
+   "reading": null,
+   "l1": "mũi tiêm",
+   "level": null,
+   "cognate": null
+  }
+ ],
+ "cognate_reveal": null,
+ "errata": [],
+ "attribution": [],
+ "disclosure": {
+  "synthetic_voice": true
+ }
+}

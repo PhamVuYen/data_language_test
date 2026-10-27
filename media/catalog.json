@@ -1,12 +1,24 @@
 {
  "schema": "catalog/1",
- "updated_at": "2026-10-13T12:00:00+07:00",
+ "updated_at": "2026-10-27T17:09:43+07:00",
  "series": [
   {
    "id": "di-cho",
    "lang": "zh-Hans",
    "title": "Đi chợ",
    "level": "HSK 3"
+  },
+  {
+   "id": "doi-song-zh",
+   "lang": "zh-Hans",
+   "title": "Đời sống",
+   "level": "HSK 3"
+  },
+  {
+   "id": "doi-song-en",
+   "lang": "en",
+   "title": "Đời sống",
+   "level": "A2"
   }
  ],
  "lessons": [
@@ -77,6 +89,686 @@
      "url": "v/thu-tai-ve-01/r1/audio/mix.m4a",
      "bytes": 787571,
      "sha256": "34439f54f72571583c5ea3c07bf303f9f1e05f13db9908f52660295eaa720584"
+    }
+   ]
+  },
+  {
+   "id": "doi-song-01-en",
+   "kind": "episode",
+   "lang": "en",
+   "series": "doi-song-en",
+   "order": 1,
+   "pair": "doi-song-01",
+   "title": {
+    "target": "Buying Fruit",
+    "l1": "Đi chợ mua hoa quả"
+   },
+   "level": {
+    "scheme": "CEFR",
+    "label": "A2"
+   },
+   "flags": [],
+   "duration_ms": 50303,
+   "line_count": 13,
+   "version": 1,
+   "text": {
+    "path": "episode.json",
+    "url": "v/doi-song-01-en/r1/episode.json",
+    "bytes": 25318,
+    "sha256": "567f01b9671393ee75ec66114b733a7afaefb36851a3cf037391c733d2987982"
+   },
+   "media": [
+    {
+     "path": "audio/mix.m4a",
+     "url": "v/doi-song-01-en/r1/audio/mix.m4a",
+     "bytes": 378100,
+     "sha256": "63e12c04e5c7861e8849f9a5daeaba34e4082c99174558ba5b56b006ab201bde"
+    }
+   ]
+  },
+  {
+   "id": "doi-song-02-en",
+   "kind": "episode",
+   "lang": "en",
+   "series": "doi-song-en",
+   "order": 2,
+   "pair": "doi-song-02",
+   "title": {
+    "target": "Ordering at a Restaurant",
+    "l1": "Gọi món ở quán ăn"
+   },
+   "level": {
+    "scheme": "CEFR",
+    "label": "A2"
+   },
+   "flags": [],
+   "duration_ms": 52877,
+   "line_count": 13,
+   "version": 1,
+   "text": {
+    "path": "episode.json",
+    "url": "v/doi-song-02-en/r1/episode.json",
+    "bytes": 27798,
+    "sha256": "9324b54dddd1391df070455bbcf2775e7ae3b73b7595a65d0cab345447e6ee89"
+   },
+   "media": [
+    {
+     "path": "audio/mix.m4a",
+     "url": "v/doi-song-02-en/r1/audio/mix.m4a",
+     "bytes": 402408,
+     "sha256": "afb25d26d3c77af595b413580029fef99cda5ef176989358aa321d4c9fb9b322"
+    }
+   ]
+  },
+  {
+   "id": "doi-song-03-en",
+   "kind": "episode",
+   "lang": "en",
+   "series": "doi-song-en",
+   "order": 3,
+   "pair": "doi-song-03",
+   "title": {
+    "target": "Asking for Directions",
+    "l1": "Hỏi đường"
+   },
+   "level": {
+    "scheme": "CEFR",
+    "label": "A2"
+   },
+   "flags": [],
+   "duration_ms": 43262,
+   "line_count": 12,
+   "version": 1,
+   "text": {
+    "path": "episode.json",
+    "url": "v/doi-song-03-en/r1/episode.json",
+    "bytes": 24289,
+    "sha256": "9f2b7fc1a94ab8a7509dee41704de0cf37f2923a9ac9f1f429ec1414b3eaf3a6"
+   },
+   "media": [
+    {
+     "path": "audio/mix.m4a",
+     "url": "v/doi-song-03-en/r1/audio/mix.m4a",
+     "bytes": 328181,
+     "sha256": "2f74a37608e8f27984a883cc1b871daae4a5fe028b1643e7a669af3b7025d71f"
+    }
+   ]
+  },
+  {
+   "id": "doi-song-04-en",
+   "kind": "episode",
+   "lang": "en",
+   "series": "doi-song-en",
+   "order": 4,
+   "pair": "doi-song-04",
+   "title": {
+    "target": "Taking a Taxi",
+    "l1": "Đi taxi"
+   },
+   "level": {
+    "scheme": "CEFR",
+    "label": "A2"
+   },
+   "flags": [],
+   "duration_ms": 57838,
+   "line_count": 12,
+   "version": 1,
+   "text": {
+    "path": "episode.json",
+    "url": "v/doi-song-04-en/r1/episode.json",
+    "bytes": 28025,
+    "sha256": "b31d1dda1033dca988265808c3372f99d89c32166991072b372ed5f35cb34601"
+   },
+   "media": [
+    {
+     "path": "audio/mix.m4a",
+     "url": "v/doi-song-04-en/r1/audio/mix.m4a",
+     "bytes": 423604,
+     "sha256": "97d7275fe71434c3cd276a105c1f7e76c21b83d5d600fe48a47754406b9cdfd6"
+    }
+   ]
+  },
+  {
+   "id": "doi-song-05-en",
+   "kind": "episode",
+   "lang": "en",
+   "series": "doi-song-en",
+   "order": 5,
+   "pair": "doi-song-05",
+   "title": {
+    "target": "Seeing a Doctor",
+    "l1": "Đi khám bệnh"
+   },
+   "level": {
+    "scheme": "CEFR",
+    "label": "A2"
+   },
+   "flags": [],
+   "duration_ms": 51079,
+   "line_count": 13,
+   "version": 1,
+   "text": {
+    "path": "episode.json",
+    "url": "v/doi-song-05-en/r1/episode.json",
+    "bytes": 30167,
+    "sha256": "56a45e21fa9b20f8b98d9cc1d8f16a3507d303dd17be02f2d99f29ecc7da1b15"
+   },
+   "media": [
+    {
+     "path": "audio/mix.m4a",
+     "url": "v/doi-song-05-en/r1/audio/mix.m4a",
+     "bytes": 398837,
+     "sha256": "86e40cd3ca0b43c7e05b9298c74adec99b20943523c088180913444b2f22a100"
+    }
+   ]
+  },
+  {
+   "id": "doi-song-06-en",
+   "kind": "episode",
+   "lang": "en",
+   "series": "doi-song-en",
+   "order": 6,
+   "pair": "doi-song-06",
+   "title": {
+    "target": "Renting an Apartment",
+    "l1": "Thuê nhà"
+   },
+   "level": {
+    "scheme": "CEFR",
+    "label": "A2"
+   },
+   "flags": [],
+   "duration_ms": 42108,
+   "line_count": 12,
+   "version": 1,
+   "text": {
+    "path": "episode.json",
+    "url": "v/doi-song-06-en/r1/episode.json",
+    "bytes": 23879,
+    "sha256": "912108ebf9868d3037154714aca7e75a96fc2f57b54a6bf8dbc359ec512d67af"
+   },
+   "media": [
+    {
+     "path": "audio/mix.m4a",
+     "url": "v/doi-song-06-en/r1/audio/mix.m4a",
+     "bytes": 324477,
+     "sha256": "0f2d6148e8195771f25b647faa65120f54176c72522c27e05ab7cb9cfec950f8"
+    }
+   ]
+  },
+  {
+   "id": "doi-song-07-en",
+   "kind": "episode",
+   "lang": "en",
+   "series": "doi-song-en",
+   "order": 7,
+   "pair": "doi-song-07",
+   "title": {
+    "target": "Opening a Bank Account",
+    "l1": "Mở tài khoản ngân hàng"
+   },
+   "level": {
+    "scheme": "CEFR",
+    "label": "A2"
+   },
+   "flags": [],
+   "duration_ms": 47318,
+   "line_count": 13,
+   "version": 1,
+   "text": {
+    "path": "episode.json",
+    "url": "v/doi-song-07-en/r1/episode.json",
+    "bytes": 26594,
+    "sha256": "fd33d81c5263c9b7acbe87fe15518ef1c7d15dd72253a6a29e06cc2e8111f294"
+   },
+   "media": [
+    {
+     "path": "audio/mix.m4a",
+     "url": "v/doi-song-07-en/r1/audio/mix.m4a",
+     "bytes": 365667,
+     "sha256": "b54a465f62b15821d1eb5259b8ca6c5d8f86ca4f1f3f1f9b063c01e19aa74a9b"
+    }
+   ]
+  },
+  {
+   "id": "doi-song-08-en",
+   "kind": "episode",
+   "lang": "en",
+   "series": "doi-song-en",
+   "order": 8,
+   "pair": "doi-song-08",
+   "title": {
+    "target": "Buying a Train Ticket",
+    "l1": "Mua vé tàu cao tốc"
+   },
+   "level": {
+    "scheme": "CEFR",
+    "label": "A2"
+   },
+   "flags": [],
+   "duration_ms": 45905,
+   "line_count": 13,
+   "version": 1,
+   "text": {
+    "path": "episode.json",
+    "url": "v/doi-song-08-en/r1/episode.json",
+    "bytes": 27280,
+    "sha256": "b00ae75f1dd944da784cdf7a4308669fa954d060f7f0b46adffa937f9a27346d"
+   },
+   "media": [
+    {
+     "path": "audio/mix.m4a",
+     "url": "v/doi-song-08-en/r1/audio/mix.m4a",
+     "bytes": 344723,
+     "sha256": "195026877e8c1fdc28c8ba4e40f0ac8b499fea290a7ac81e9a96f8daf7764ad5"
+    }
+   ]
+  },
+  {
+   "id": "doi-song-09-en",
+   "kind": "episode",
+   "lang": "en",
+   "series": "doi-song-en",
+   "order": 9,
+   "pair": "doi-song-09",
+   "title": {
+    "target": "Making Weekend Plans",
+    "l1": "Hẹn bạn cuối tuần"
+   },
+   "level": {
+    "scheme": "CEFR",
+    "label": "A2"
+   },
+   "flags": [],
+   "duration_ms": 50461,
+   "line_count": 12,
+   "version": 1,
+   "text": {
+    "path": "episode.json",
+    "url": "v/doi-song-09-en/r1/episode.json",
+    "bytes": 25549,
+    "sha256": "84f2dae91f05ea990e9cf5b70d0b49a52e3ba5fedc31214d3eb3e7e11f6e080e"
+   },
+   "media": [
+    {
+     "path": "audio/mix.m4a",
+     "url": "v/doi-song-09-en/r1/audio/mix.m4a",
+     "bytes": 385265,
+     "sha256": "e94d9e7567b00b2dccefe2dde59f986caf0bf20940576f2bc5f0506935cc38e0"
+    }
+   ]
+  },
+  {
+   "id": "doi-song-10-en",
+   "kind": "episode",
+   "lang": "en",
+   "series": "doi-song-en",
+   "order": 10,
+   "pair": "doi-song-10",
+   "title": {
+    "target": "First Day at Work",
+    "l1": "Ngày đầu đi làm"
+   },
+   "level": {
+    "scheme": "CEFR",
+    "label": "A2"
+   },
+   "flags": [],
+   "duration_ms": 55247,
+   "line_count": 12,
+   "version": 1,
+   "text": {
+    "path": "episode.json",
+    "url": "v/doi-song-10-en/r1/episode.json",
+    "bytes": 28756,
+    "sha256": "8b900255146d6d8684fbddf9ef2010a4d74686009ebe133eaae8484eb9ef8450"
+   },
+   "media": [
+    {
+     "path": "audio/mix.m4a",
+     "url": "v/doi-song-10-en/r1/audio/mix.m4a",
+     "bytes": 422948,
+     "sha256": "89b4e14618b066a4aa023ae17f0fe7fdf8d6fc0b02e134c3711ad7bd117c1345"
+    }
+   ]
+  },
+  {
+   "id": "doi-song-01-zh",
+   "kind": "episode",
+   "lang": "zh-Hans",
+   "series": "doi-song-zh",
+   "order": 1,
+   "pair": "doi-song-01",
+   "title": {
+    "target": "买水果",
+    "l1": "Đi chợ mua hoa quả"
+   },
+   "level": {
+    "scheme": "HSK3.0",
+    "label": "HSK 3"
+   },
+   "flags": [],
+   "duration_ms": 41377,
+   "line_count": 13,
+   "version": 1,
+   "text": {
+    "path": "episode.json",
+    "url": "v/doi-song-01-zh/r1/episode.json",
+    "bytes": 25925,
+    "sha256": "ab1c008e3dad73fc90940240c694ee076c6bcc417da005eb4b54ee9fa1aba71c"
+   },
+   "media": [
+    {
+     "path": "audio/mix.m4a",
+     "url": "v/doi-song-01-zh/r1/audio/mix.m4a",
+     "bytes": 308523,
+     "sha256": "4346c9bf3e4e7cad4ff9f550c6b1cf60017d63083f11939a19c4fd687694ea24"
+    }
+   ]
+  },
+  {
+   "id": "doi-song-02-zh",
+   "kind": "episode",
+   "lang": "zh-Hans",
+   "series": "doi-song-zh",
+   "order": 2,
+   "pair": "doi-song-02",
+   "title": {
+    "target": "在饭馆点菜",
+    "l1": "Gọi món ở quán ăn"
+   },
+   "level": {
+    "scheme": "HSK3.0",
+    "label": "HSK 3"
+   },
+   "flags": [],
+   "duration_ms": 44609,
+   "line_count": 13,
+   "version": 1,
+   "text": {
+    "path": "episode.json",
+    "url": "v/doi-song-02-zh/r1/episode.json",
+    "bytes": 28907,
+    "sha256": "c97c7b6ee7eb3565712a5cfa86b7353109698cf0d36649753c17aa38abbe96b1"
+   },
+   "media": [
+    {
+     "path": "audio/mix.m4a",
+     "url": "v/doi-song-02-zh/r1/audio/mix.m4a",
+     "bytes": 325819,
+     "sha256": "914d3a32792e71d42c292817455f878bccf9c3d933b8f7de0e03cbd4c28cb1d8"
+    }
+   ]
+  },
+  {
+   "id": "doi-song-03-zh",
+   "kind": "episode",
+   "lang": "zh-Hans",
+   "series": "doi-song-zh",
+   "order": 3,
+   "pair": "doi-song-03",
+   "title": {
+    "target": "问路",
+    "l1": "Hỏi đường"
+   },
+   "level": {
+    "scheme": "HSK3.0",
+    "label": "HSK 3"
+   },
+   "flags": [],
+   "duration_ms": 38387,
+   "line_count": 12,
+   "version": 1,
+   "text": {
+    "path": "episode.json",
+    "url": "v/doi-song-03-zh/r1/episode.json",
+    "bytes": 24168,
+    "sha256": "e2286c4eeff02a2342c78b412e1a264cbac36f7ad152a36b76424caf572a5a11"
+   },
+   "media": [
+    {
+     "path": "audio/mix.m4a",
+     "url": "v/doi-song-03-zh/r1/audio/mix.m4a",
+     "bytes": 286680,
+     "sha256": "190e80e2e38f9b28f266758f1c367b1abda1806e37ad2933588704f8a54ab81c"
+    }
+   ]
+  },
+  {
+   "id": "doi-song-04-zh",
+   "kind": "episode",
+   "lang": "zh-Hans",
+   "series": "doi-song-zh",
+   "order": 4,
+   "pair": "doi-song-04",
+   "title": {
+    "target": "坐出租车",
+    "l1": "Đi taxi"
+   },
+   "level": {
+    "scheme": "HSK3.0",
+    "label": "HSK 3"
+   },
+   "flags": [],
+   "duration_ms": 44986,
+   "line_count": 12,
+   "version": 1,
+   "text": {
+    "path": "episode.json",
+    "url": "v/doi-song-04-zh/r1/episode.json",
+    "bytes": 29043,
+    "sha256": "a84ae83ce7374dc33834ac25e8513da9b598fd89fe84c6a5d7d4b9002c9958be"
+   },
+   "media": [
+    {
+     "path": "audio/mix.m4a",
+     "url": "v/doi-song-04-zh/r1/audio/mix.m4a",
+     "bytes": 351214,
+     "sha256": "c41abf2694908739b3eda98f3880cd28d889baa205b272233e5e626962dc0df9"
+    }
+   ]
+  },
+  {
+   "id": "doi-song-05-zh",
+   "kind": "episode",
+   "lang": "zh-Hans",
+   "series": "doi-song-zh",
+   "order": 5,
+   "pair": "doi-song-05",
+   "title": {
+    "target": "去医院看病",
+    "l1": "Đi khám bệnh"
+   },
+   "level": {
+    "scheme": "HSK3.0",
+    "label": "HSK 3"
+   },
+   "flags": [],
+   "duration_ms": 40512,
+   "line_count": 13,
+   "version": 1,
+   "text": {
+    "path": "episode.json",
+    "url": "v/doi-song-05-zh/r1/episode.json",
+    "bytes": 26920,
+    "sha256": "81dffea684e6ee220afa71888e39bb8adb7c380053c62b982328676fa48a7767"
+   },
+   "media": [
+    {
+     "path": "audio/mix.m4a",
+     "url": "v/doi-song-05-zh/r1/audio/mix.m4a",
+     "bytes": 304619,
+     "sha256": "d4a2b9c5960f64daf0f34b24c61fcb00600e5f25ac01d148865518f1033fffcd"
+    }
+   ]
+  },
+  {
+   "id": "doi-song-06-zh",
+   "kind": "episode",
+   "lang": "zh-Hans",
+   "series": "doi-song-zh",
+   "order": 6,
+   "pair": "doi-song-06",
+   "title": {
+    "target": "租房子",
+    "l1": "Thuê nhà"
+   },
+   "level": {
+    "scheme": "HSK3.0",
+    "label": "HSK 3"
+   },
+   "flags": [],
+   "duration_ms": 34181,
+   "line_count": 12,
+   "version": 1,
+   "text": {
+    "path": "episode.json",
+    "url": "v/doi-song-06-zh/r1/episode.json",
+    "bytes": 23487,
+    "sha256": "8a7281bdbbcb843b85ee7aa4f8e31a3ce1d6e7b5439b4788789fd00a0c846004"
+   },
+   "media": [
+    {
+     "path": "audio/mix.m4a",
+     "url": "v/doi-song-06-zh/r1/audio/mix.m4a",
+     "bytes": 244912,
+     "sha256": "cc9fe5603744eef0699455c0c727a0ae62d572e0eeaf1ae2561e59fcb1288f48"
+    }
+   ]
+  },
+  {
+   "id": "doi-song-07-zh",
+   "kind": "episode",
+   "lang": "zh-Hans",
+   "series": "doi-song-zh",
+   "order": 7,
+   "pair": "doi-song-07",
+   "title": {
+    "target": "在银行开户",
+    "l1": "Mở tài khoản ngân hàng"
+   },
+   "level": {
+    "scheme": "HSK3.0",
+    "label": "HSK 3"
+   },
+   "flags": [],
+   "duration_ms": 44007,
+   "line_count": 13,
+   "version": 1,
+   "text": {
+    "path": "episode.json",
+    "url": "v/doi-song-07-zh/r1/episode.json",
+    "bytes": 29758,
+    "sha256": "ff6c3070093932ca91855c30c73fe83d734e724929e97c8a0b99896f96ce8b15"
+   },
+   "media": [
+    {
+     "path": "audio/mix.m4a",
+     "url": "v/doi-song-07-zh/r1/audio/mix.m4a",
+     "bytes": 328495,
+     "sha256": "f1c0a7810956d2fdcbf121e1a7feabe1de6bbc4e4c27cb47d58e89dd0a2c8e27"
+    }
+   ]
+  },
+  {
+   "id": "doi-song-08-zh",
+   "kind": "episode",
+   "lang": "zh-Hans",
+   "series": "doi-song-zh",
+   "order": 8,
+   "pair": "doi-song-08",
+   "title": {
+    "target": "买高铁票",
+    "l1": "Mua vé tàu cao tốc"
+   },
+   "level": {
+    "scheme": "HSK3.0",
+    "label": "HSK 3"
+   },
+   "flags": [],
+   "duration_ms": 39092,
+   "line_count": 13,
+   "version": 1,
+   "text": {
+    "path": "episode.json",
+    "url": "v/doi-song-08-zh/r1/episode.json",
+    "bytes": 27198,
+    "sha256": "95317e1614d218bfbf68e8f5d20a3a16c7b720f1b505c09f9220df7bf40f1d5e"
+   },
+   "media": [
+    {
+     "path": "audio/mix.m4a",
+     "url": "v/doi-song-08-zh/r1/audio/mix.m4a",
+     "bytes": 294500,
+     "sha256": "1d431cf470ca7fe07c8e1641e55d87145c2a2411f69aa58235adad7f37c1f573"
+    }
+   ]
+  },
+  {
+   "id": "doi-song-09-zh",
+   "kind": "episode",
+   "lang": "zh-Hans",
+   "series": "doi-song-zh",
+   "order": 9,
+   "pair": "doi-song-09",
+   "title": {
+    "target": "约朋友看电影",
+    "l1": "Hẹn bạn cuối tuần"
+   },
+   "level": {
+    "scheme": "HSK3.0",
+    "label": "HSK 3"
+   },
+   "flags": [],
+   "duration_ms": 42468,
+   "line_count": 12,
+   "version": 1,
+   "text": {
+    "path": "episode.json",
+    "url": "v/doi-song-09-zh/r1/episode.json",
+    "bytes": 26099,
+    "sha256": "e9561c2d3acb6d039cc8e9ffd7c71f4583440bebbfb03aff4d01a6c8d44d0c44"
+   },
+   "media": [
+    {
+     "path": "audio/mix.m4a",
+     "url": "v/doi-song-09-zh/r1/audio/mix.m4a",
+     "bytes": 316458,
+     "sha256": "ab7cbc3f1da6746888032b657b047200df792c7f2c171cbc4064a644c7902e43"
+    }
+   ]
+  },
+  {
+   "id": "doi-song-10-zh",
+   "kind": "episode",
+   "lang": "zh-Hans",
+   "series": "doi-song-zh",
+   "order": 10,
+   "pair": "doi-song-10",
+   "title": {
+    "target": "第一天上班",
+    "l1": "Ngày đầu đi làm"
+   },
+   "level": {
+    "scheme": "HSK3.0",
+    "label": "HSK 3"
+   },
+   "flags": [],
+   "duration_ms": 42289,
+   "line_count": 12,
+   "version": 1,
+   "text": {
+    "path": "episode.json",
+    "url": "v/doi-song-10-zh/r1/episode.json",
+    "bytes": 27958,
+    "sha256": "d90d5009ca3743e1a96ca8ba78d16005152bfd70d09c6147087d7c5aceb0d761"
+   },
+   "media": [
+    {
+     "path": "audio/mix.m4a",
+     "url": "v/doi-song-10-zh/r1/audio/mix.m4a",
+     "bytes": 329506,
+     "sha256": "e493884dae53bba858592c17f2688ae3c89d535f272f3a5f7245933e5994335a"
     }
    ]
   }

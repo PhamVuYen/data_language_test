@@ -1,0 +1,1685 @@
+{
+ "schema": "episode/1",
+ "id": "doi-song-04-en",
+ "pair": "doi-song-04",
+ "lang": {
+  "target": "en",
+  "l1": "vi"
+ },
+ "level": {
+  "scheme": "CEFR",
+  "label": "A2"
+ },
+ "title": {
+  "target": "Taking a Taxi",
+  "l1": "Đi taxi"
+ },
+ "series": {
+  "id": "doi-song-en",
+  "name": "Đời sống",
+  "order": 4
+ },
+ "flags": [],
+ "audio": {
+  "mix": "audio/mix.m4a",
+  "duration_ms": 57838
+ },
+ "speakers": {
+  "A": {
+   "name": "Driver",
+   "l1_name": "tài xế"
+  },
+  "B": {
+   "name": "Nam",
+   "l1_name": "Nam"
+  }
+ },
+ "sections": [
+  {
+   "id": "b01",
+   "type": "dialogue",
+   "label": "Hội thoại",
+   "start_ms": 300
+  },
+  {
+   "id": "b02",
+   "type": "recap_slow",
+   "label": "Nhắc lại chậm",
+   "start_ms": 41020
+  }
+ ],
+ "lines": [
+  {
+   "id": "b01.00",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "Hi, where to?",
+   "tokens": [
+    {
+     "text": "Hi",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ",",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "where",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "to",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "?",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Chào anh, anh đi đâu ạ?",
+   "start_ms": 300,
+   "end_ms": 1536,
+   "words": [
+    {
+     "text": "Hi",
+     "start_ms": 300,
+     "end_ms": 672
+    },
+    {
+     "text": "where",
+     "start_ms": 902,
+     "end_ms": 1128
+    },
+    {
+     "text": "to",
+     "start_ms": 1141,
+     "end_ms": 1407
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "你好，请问去哪里？",
+    "reading": "nǐ hǎo qǐng wèn qù nǎ lǐ"
+   }
+  },
+  {
+   "id": "b01.01",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "The Beijing Hotel, please. Could you hurry a bit? I'm in a rush.",
+   "tokens": [
+    {
+     "text": "The",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "Beijing",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "Hotel",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ",",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "please",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "Could",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "you",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "hurry",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "a",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "bit",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "?",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "I'm",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "in",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "a",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "rush",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Đến khách sạn Bắc Kinh. Phiền anh đi nhanh một chút, tôi hơi vội.",
+   "start_ms": 1886,
+   "end_ms": 7890,
+   "words": [
+    {
+     "text": "The",
+     "start_ms": 1886,
+     "end_ms": 2032
+    },
+    {
+     "text": "Beijing",
+     "start_ms": 1993,
+     "end_ms": 2445
+    },
+    {
+     "text": "Hotel",
+     "start_ms": 2472,
+     "end_ms": 3044
+    },
+    {
+     "text": "please",
+     "start_ms": 3216,
+     "end_ms": 3721
+    },
+    {
+     "text": "Could",
+     "start_ms": 4656,
+     "end_ms": 4895
+    },
+    {
+     "text": "you",
+     "start_ms": 4909,
+     "end_ms": 5055
+    },
+    {
+     "text": "hurry",
+     "start_ms": 5081,
+     "end_ms": 5400
+    },
+    {
+     "text": "a",
+     "start_ms": 5427,
+     "end_ms": 5493
+    },
+    {
+     "text": "bit",
+     "start_ms": 5507,
+     "end_ms": 5853
+    },
+    {
+     "text": "I'm",
+     "start_ms": 6783,
+     "end_ms": 7049
+    },
+    {
+     "text": "in",
+     "start_ms": 7076,
+     "end_ms": 7182
+    },
+    {
+     "text": "a",
+     "start_ms": 7209,
+     "end_ms": 7262
+    },
+    {
+     "text": "rush",
+     "start_ms": 7275,
+     "end_ms": 7820
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [
+    "rush"
+   ],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "去北京饭店。麻烦你开快一点，我有点着急。",
+    "reading": "qù běi jīng fàn diàn má fan nǐ kāi kuài yì diǎn wǒ yǒu diǎn zháo jí"
+   }
+  },
+  {
+   "id": "b01.02",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "Sure. It's rush hour, so there's a lot of traffic.",
+   "tokens": [
+    {
+     "text": "Sure",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "It's",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "rush",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "hour",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ",",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "so",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "there's",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "a",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "lot",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "of",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "traffic",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Được. Giờ đang tan tầm, đường đông xe lắm.",
+   "start_ms": 8240,
+   "end_ms": 12307,
+   "words": [
+    {
+     "text": "Sure",
+     "start_ms": 8240,
+     "end_ms": 8852
+    },
+    {
+     "text": "It's",
+     "start_ms": 9703,
+     "end_ms": 9956
+    },
+    {
+     "text": "rush",
+     "start_ms": 9969,
+     "end_ms": 10275
+    },
+    {
+     "text": "hour",
+     "start_ms": 10288,
+     "end_ms": 10647
+    },
+    {
+     "text": "so",
+     "start_ms": 10887,
+     "end_ms": 11047
+    },
+    {
+     "text": "there's",
+     "start_ms": 11060,
+     "end_ms": 11259
+    },
+    {
+     "text": "a",
+     "start_ms": 11273,
+     "end_ms": 11339
+    },
+    {
+     "text": "lot",
+     "start_ms": 11352,
+     "end_ms": 11591
+    },
+    {
+     "text": "of",
+     "start_ms": 11605,
+     "end_ms": 11698
+    },
+    {
+     "text": "traffic",
+     "start_ms": 11711,
+     "end_ms": 12307
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "好的。现在是下班时间，路上车很多。",
+    "reading": "hǎo de xiàn zài shì xià bān shí jiān lù shàng chē hěn duō"
+   }
+  },
+  {
+   "id": "b01.03",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "About how long will it take?",
+   "tokens": [
+    {
+     "text": "About",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "how",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "long",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "will",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "it",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "take",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "?",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Khoảng bao lâu thì tới ạ?",
+   "start_ms": 12657,
+   "end_ms": 14204,
+   "words": [
+    {
+     "text": "About",
+     "start_ms": 12657,
+     "end_ms": 13003
+    },
+    {
+     "text": "how",
+     "start_ms": 12963,
+     "end_ms": 13096
+    },
+    {
+     "text": "long",
+     "start_ms": 13109,
+     "end_ms": 13441
+    },
+    {
+     "text": "will",
+     "start_ms": 13455,
+     "end_ms": 13588
+    },
+    {
+     "text": "it",
+     "start_ms": 13614,
+     "end_ms": 13707
+    },
+    {
+     "text": "take",
+     "start_ms": 13734,
+     "end_ms": 14146
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "大概要多久能到？",
+    "reading": "dà gài yào duō jiǔ néng dào"
+   }
+  },
+  {
+   "id": "b01.04",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "Twenty minutes without traffic, but it might take half an hour now.",
+   "tokens": [
+    {
+     "text": "Twenty",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "minutes",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "without",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "traffic",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ",",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "but",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "it",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "might",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "take",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "half",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "an",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "hour",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "now",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Không tắc thì hai mươi phút, giờ có lẽ mất nửa tiếng.",
+   "start_ms": 14554,
+   "end_ms": 18330,
+   "words": [
+    {
+     "text": "Twenty",
+     "start_ms": 14554,
+     "end_ms": 14900
+    },
+    {
+     "text": "minutes",
+     "start_ms": 14861,
+     "end_ms": 15233
+    },
+    {
+     "text": "without",
+     "start_ms": 15247,
+     "end_ms": 15606
+    },
+    {
+     "text": "traffic",
+     "start_ms": 15619,
+     "end_ms": 16217
+    },
+    {
+     "text": "but",
+     "start_ms": 16430,
+     "end_ms": 16550
+    },
+    {
+     "text": "it",
+     "start_ms": 16563,
+     "end_ms": 16656
+    },
+    {
+     "text": "might",
+     "start_ms": 16670,
+     "end_ms": 16936
+    },
+    {
+     "text": "take",
+     "start_ms": 16949,
+     "end_ms": 17215
+    },
+    {
+     "text": "half",
+     "start_ms": 17228,
+     "end_ms": 17507
+    },
+    {
+     "text": "an",
+     "start_ms": 17521,
+     "end_ms": 17627
+    },
+    {
+     "text": "hour",
+     "start_ms": 17641,
+     "end_ms": 17894
+    },
+    {
+     "text": "now",
+     "start_ms": 17906,
+     "end_ms": 18292
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "不堵车的话二十分钟，现在可能要半个小时。",
+    "reading": "bù dǔ chē de huà èr shí fēn zhōng xiàn zài kě néng yào bàn gè xiǎo shí"
+   }
+  },
+  {
+   "id": "b01.05",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "That's fine. Take whichever road is fastest.",
+   "tokens": [
+    {
+     "text": "That's",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "fine",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "Take",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "whichever",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "road",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "is",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "fastest",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Không sao, anh thấy đường nào nhanh thì đi đường đó.",
+   "start_ms": 18680,
+   "end_ms": 22321,
+   "words": [
+    {
+     "text": "That's",
+     "start_ms": 18680,
+     "end_ms": 19039
+    },
+    {
+     "text": "fine",
+     "start_ms": 18985,
+     "end_ms": 19437
+    },
+    {
+     "text": "Take",
+     "start_ms": 20357,
+     "end_ms": 20623
+    },
+    {
+     "text": "whichever",
+     "start_ms": 20650,
+     "end_ms": 21155
+    },
+    {
+     "text": "road",
+     "start_ms": 21182,
+     "end_ms": 21448
+    },
+    {
+     "text": "is",
+     "start_ms": 21474,
+     "end_ms": 21607
+    },
+    {
+     "text": "fastest",
+     "start_ms": 21621,
+     "end_ms": 22259
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "没关系，你看哪条路快就走哪条。",
+    "reading": "méi guān xi nǐ kàn nǎ tiáo lù kuài jiù zǒu nǎ tiáo"
+   }
+  },
+  {
+   "id": "b01.06",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "Okay, let's take the highway. There may be a small toll.",
+   "tokens": [
+    {
+     "text": "Okay",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ",",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "let's",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "take",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "the",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "highway",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "There",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "may",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "be",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "a",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "small",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "toll",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Được, mình đi cao tốc nhé, có thể phải trả thêm chút phí đường.",
+   "start_ms": 22671,
+   "end_ms": 27046,
+   "words": [
+    {
+     "text": "Okay",
+     "start_ms": 22671,
+     "end_ms": 23110
+    },
+    {
+     "text": "let's",
+     "start_ms": 23293,
+     "end_ms": 23532
+    },
+    {
+     "text": "take",
+     "start_ms": 23546,
+     "end_ms": 23772
+    },
+    {
+     "text": "the",
+     "start_ms": 23785,
+     "end_ms": 23865
+    },
+    {
+     "text": "highway",
+     "start_ms": 23878,
+     "end_ms": 24450
+    },
+    {
+     "text": "There",
+     "start_ms": 25371,
+     "end_ms": 25584
+    },
+    {
+     "text": "may",
+     "start_ms": 25597,
+     "end_ms": 25796
+    },
+    {
+     "text": "be",
+     "start_ms": 25810,
+     "end_ms": 25983
+    },
+    {
+     "text": "a",
+     "start_ms": 25996,
+     "end_ms": 26062
+    },
+    {
+     "text": "small",
+     "start_ms": 26076,
+     "end_ms": 26502
+    },
+    {
+     "text": "toll",
+     "start_ms": 26515,
+     "end_ms": 27007
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "好，我们走高速吧，可能要多付一点过路费。",
+    "reading": "hǎo wǒ men zǒu gāo sù ba kě néng yào duō fù yì diǎn guò lù fèi"
+   }
+  },
+  {
+   "id": "b01.07",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "No problem. Could you give me a receipt when we get there?",
+   "tokens": [
+    {
+     "text": "No",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "problem",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "Could",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "you",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "give",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "me",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "a",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "receipt",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "when",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "we",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "get",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "there",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "?",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Được. Đến nơi anh xuất cho tôi hóa đơn được không?",
+   "start_ms": 27396,
+   "end_ms": 31530,
+   "words": [
+    {
+     "text": "No",
+     "start_ms": 27396,
+     "end_ms": 27728
+    },
+    {
+     "text": "problem",
+     "start_ms": 27667,
+     "end_ms": 28292
+    },
+    {
+     "text": "Could",
+     "start_ms": 29213,
+     "end_ms": 29439
+    },
+    {
+     "text": "you",
+     "start_ms": 29452,
+     "end_ms": 29572
+    },
+    {
+     "text": "give",
+     "start_ms": 29598,
+     "end_ms": 29784
+    },
+    {
+     "text": "me",
+     "start_ms": 29811,
+     "end_ms": 29944
+    },
+    {
+     "text": "a",
+     "start_ms": 29971,
+     "end_ms": 30037
+    },
+    {
+     "text": "receipt",
+     "start_ms": 30050,
+     "end_ms": 30529
+    },
+    {
+     "text": "when",
+     "start_ms": 30556,
+     "end_ms": 30716
+    },
+    {
+     "text": "we",
+     "start_ms": 30742,
+     "end_ms": 30875
+    },
+    {
+     "text": "get",
+     "start_ms": 30902,
+     "end_ms": 31101
+    },
+    {
+     "text": "there",
+     "start_ms": 31128,
+     "end_ms": 31460
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [
+    "receipt"
+   ],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "可以。到了以后能给我开张发票吗？",
+    "reading": "kě yǐ dào le yǐ hòu néng gěi wǒ kāi zhāng fā piào ma"
+   }
+  },
+  {
+   "id": "b01.08",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "Sure thing. Here we are. That's fifty-six yuan in total.",
+   "tokens": [
+    {
+     "text": "Sure",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "thing",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "Here",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "we",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "are",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "That's",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "fifty",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "-",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "six",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "yuan",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "in",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "total",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Không vấn đề. Tới rồi, tổng cộng năm mươi sáu tệ.",
+   "start_ms": 31880,
+   "end_ms": 37389,
+   "words": [
+    {
+     "text": "Sure",
+     "start_ms": 31880,
+     "end_ms": 32226
+    },
+    {
+     "text": "thing",
+     "start_ms": 32186,
+     "end_ms": 32612
+    },
+    {
+     "text": "Here",
+     "start_ms": 33532,
+     "end_ms": 33785
+    },
+    {
+     "text": "we",
+     "start_ms": 33798,
+     "end_ms": 33984
+    },
+    {
+     "text": "are",
+     "start_ms": 33998,
+     "end_ms": 34384
+    },
+    {
+     "text": "That's",
+     "start_ms": 35301,
+     "end_ms": 35633
+    },
+    {
+     "text": "fifty",
+     "start_ms": 35647,
+     "end_ms": 36063
+    },
+    {
+     "text": "six",
+     "start_ms": 36063,
+     "end_ms": 36312
+    },
+    {
+     "text": "yuan",
+     "start_ms": 36325,
+     "end_ms": 36697
+    },
+    {
+     "text": "in",
+     "start_ms": 36711,
+     "end_ms": 36831
+    },
+    {
+     "text": "total",
+     "start_ms": 36844,
+     "end_ms": 37349
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "没问题。到了，一共五十六块。",
+    "reading": "méi wèn tí dào le yí gòng wǔ shí liù kuài"
+   }
+  },
+  {
+   "id": "b01.09",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "Here you go. Thanks!",
+   "tokens": [
+    {
+     "text": "Here",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "you",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "go",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "Thanks",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "!",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Gửi anh, cảm ơn bác tài!",
+   "start_ms": 37739,
+   "end_ms": 40120,
+   "words": [
+    {
+     "text": "Here",
+     "start_ms": 37739,
+     "end_ms": 38032
+    },
+    {
+     "text": "you",
+     "start_ms": 37947,
+     "end_ms": 38067
+    },
+    {
+     "text": "go",
+     "start_ms": 38094,
+     "end_ms": 38480
+    },
+    {
+     "text": "Thanks",
+     "start_ms": 39413,
+     "end_ms": 40065
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "给你，谢谢师傅！",
+    "reading": "gěi nǐ xiè xie shī fu"
+   }
+  },
+  {
+   "id": "b02.00",
+   "section": "b02",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "The Beijing Hotel, please. Could you hurry a bit? I'm in a rush.",
+   "tokens": [
+    {
+     "text": "The",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "Beijing",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "Hotel",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ",",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "please",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "Could",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "you",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "hurry",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "a",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "bit",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "?",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "I'm",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "in",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "a",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "rush",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Đến khách sạn Bắc Kinh. Phiền anh đi nhanh một chút, tôi hơi vội.",
+   "start_ms": 41020,
+   "end_ms": 48054,
+   "words": [
+    {
+     "text": "The",
+     "start_ms": 41020,
+     "end_ms": 41192
+    },
+    {
+     "text": "Beijing",
+     "start_ms": 41136,
+     "end_ms": 41667
+    },
+    {
+     "text": "Hotel",
+     "start_ms": 41698,
+     "end_ms": 42370
+    },
+    {
+     "text": "please",
+     "start_ms": 42573,
+     "end_ms": 43167
+    },
+    {
+     "text": "Could",
+     "start_ms": 44273,
+     "end_ms": 44554
+    },
+    {
+     "text": "you",
+     "start_ms": 44570,
+     "end_ms": 44742
+    },
+    {
+     "text": "hurry",
+     "start_ms": 44773,
+     "end_ms": 45148
+    },
+    {
+     "text": "a",
+     "start_ms": 45179,
+     "end_ms": 45257
+    },
+    {
+     "text": "bit",
+     "start_ms": 45273,
+     "end_ms": 45679
+    },
+    {
+     "text": "I'm",
+     "start_ms": 46773,
+     "end_ms": 47085
+    },
+    {
+     "text": "in",
+     "start_ms": 47117,
+     "end_ms": 47242
+    },
+    {
+     "text": "a",
+     "start_ms": 47273,
+     "end_ms": 47335
+    },
+    {
+     "text": "rush",
+     "start_ms": 47351,
+     "end_ms": 47992
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": true,
+   "pause_after_ms": 2000,
+   "targets": [
+    "rush"
+   ],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "去北京饭店。麻烦你开快一点，我有点着急。",
+    "reading": "qù běi jīng fàn diàn má fan nǐ kāi kuài yì diǎn wǒ yǒu diǎn zháo jí"
+   }
+  },
+  {
+   "id": "b02.01",
+   "section": "b02",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "No problem. Could you give me a receipt when we get there?",
+   "tokens": [
+    {
+     "text": "No",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "problem",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "Could",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "you",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "give",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "me",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "a",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "receipt",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "when",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "we",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "get",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "there",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "?",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Được. Đến nơi anh xuất cho tôi hóa đơn được không?",
+   "start_ms": 50404,
+   "end_ms": 55238,
+   "words": [
+    {
+     "text": "No",
+     "start_ms": 50404,
+     "end_ms": 50795
+    },
+    {
+     "text": "problem",
+     "start_ms": 50715,
+     "end_ms": 51449
+    },
+    {
+     "text": "Could",
+     "start_ms": 52540,
+     "end_ms": 52806
+    },
+    {
+     "text": "you",
+     "start_ms": 52821,
+     "end_ms": 52962
+    },
+    {
+     "text": "give",
+     "start_ms": 52993,
+     "end_ms": 53212
+    },
+    {
+     "text": "me",
+     "start_ms": 53243,
+     "end_ms": 53399
+    },
+    {
+     "text": "a",
+     "start_ms": 53430,
+     "end_ms": 53508
+    },
+    {
+     "text": "receipt",
+     "start_ms": 53524,
+     "end_ms": 54086
+    },
+    {
+     "text": "when",
+     "start_ms": 54118,
+     "end_ms": 54306
+    },
+    {
+     "text": "we",
+     "start_ms": 54337,
+     "end_ms": 54493
+    },
+    {
+     "text": "get",
+     "start_ms": 54524,
+     "end_ms": 54758
+    },
+    {
+     "text": "there",
+     "start_ms": 54790,
+     "end_ms": 55181
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": true,
+   "pause_after_ms": 2000,
+   "targets": [
+    "receipt"
+   ],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "可以。到了以后能给我开张发票吗？",
+    "reading": "kě yǐ dào le yǐ hòu néng gěi wǒ kāi zhāng fā piào ma"
+   }
+  }
+ ],
+ "vocab": [
+  {
+   "text": "rush hour",
+   "reading": null,
+   "l1": "giờ cao điểm",
+   "level": null,
+   "cognate": null
+  },
+  {
+   "text": "toll",
+   "reading": null,
+   "l1": "phí cầu đường",
+   "level": null,
+   "cognate": null
+  },
+  {
+   "text": "receipt",
+   "reading": null,
+   "l1": "hóa đơn",
+   "level": null,
+   "cognate": null
+  }
+ ],
+ "cognate_reveal": null,
+ "errata": [],
+ "attribution": [],
+ "disclosure": {
+  "synthetic_voice": true
+ }
+}

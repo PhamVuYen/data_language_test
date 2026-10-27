@@ -1,0 +1,1475 @@
+{
+ "schema": "episode/1",
+ "id": "doi-song-06-zh",
+ "pair": "doi-song-06",
+ "lang": {
+  "target": "zh-Hans",
+  "l1": "vi"
+ },
+ "level": {
+  "scheme": "HSK3.0",
+  "label": "HSK 3"
+ },
+ "title": {
+  "target": "租房子",
+  "l1": "Thuê nhà"
+ },
+ "series": {
+  "id": "doi-song-zh",
+  "name": "Đời sống",
+  "order": 6
+ },
+ "flags": [],
+ "audio": {
+  "mix": "audio/mix.m4a",
+  "duration_ms": 34181
+ },
+ "speakers": {
+  "A": {
+   "name": "房东",
+   "l1_name": "chủ nhà"
+  },
+  "B": {
+   "name": "阿南",
+   "l1_name": "Nam"
+  }
+ },
+ "sections": [
+  {
+   "id": "b01",
+   "type": "dialogue",
+   "label": "Hội thoại",
+   "start_ms": 300
+  },
+  {
+   "id": "b02",
+   "type": "recap_slow",
+   "label": "Nhắc lại chậm",
+   "start_ms": 25984
+  }
+ ],
+ "lines": [
+  {
+   "id": "b01.00",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "你好，我在网上看到你的房子要出租。",
+   "tokens": [
+    {
+     "text": "你",
+     "reading": "nǐ",
+     "tone": 3
+    },
+    {
+     "text": "好",
+     "reading": "hǎo",
+     "tone": 3
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "我",
+     "reading": "wǒ",
+     "tone": 3
+    },
+    {
+     "text": "在",
+     "reading": "zài",
+     "tone": 4
+    },
+    {
+     "text": "网",
+     "reading": "wǎng",
+     "tone": 3
+    },
+    {
+     "text": "上",
+     "reading": "shàng",
+     "tone": 4
+    },
+    {
+     "text": "看",
+     "reading": "kàn",
+     "tone": 4
+    },
+    {
+     "text": "到",
+     "reading": "dào",
+     "tone": 4
+    },
+    {
+     "text": "你",
+     "reading": "nǐ",
+     "tone": 3
+    },
+    {
+     "text": "的",
+     "reading": "de",
+     "tone": 0
+    },
+    {
+     "text": "房",
+     "reading": "fáng",
+     "tone": 2
+    },
+    {
+     "text": "子",
+     "reading": "zi",
+     "tone": 0
+    },
+    {
+     "text": "要",
+     "reading": "yào",
+     "tone": 4
+    },
+    {
+     "text": "出",
+     "reading": "chū",
+     "tone": 1
+    },
+    {
+     "text": "租",
+     "reading": "zū",
+     "tone": 1
+    },
+    {
+     "text": "。",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Chào chị, tôi thấy trên mạng chị cho thuê nhà.",
+   "start_ms": 300,
+   "end_ms": 3422,
+   "words": [
+    {
+     "text": "你好",
+     "start_ms": 300,
+     "end_ms": 805
+    },
+    {
+     "text": "我",
+     "start_ms": 1210,
+     "end_ms": 1336
+    },
+    {
+     "text": "在",
+     "start_ms": 1337,
+     "end_ms": 1438
+    },
+    {
+     "text": "网上",
+     "start_ms": 1450,
+     "end_ms": 2031
+    },
+    {
+     "text": "看到",
+     "start_ms": 2132,
+     "end_ms": 2410
+    },
+    {
+     "text": "你",
+     "start_ms": 2422,
+     "end_ms": 2498
+    },
+    {
+     "text": "的",
+     "start_ms": 2498,
+     "end_ms": 2561
+    },
+    {
+     "text": "房子",
+     "start_ms": 2574,
+     "end_ms": 2839
+    },
+    {
+     "text": "要",
+     "start_ms": 2864,
+     "end_ms": 2940
+    },
+    {
+     "text": "出租",
+     "start_ms": 2953,
+     "end_ms": 3344
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "en",
+    "text": "Hi, I saw online that your apartment is for rent.",
+    "reading": null
+   }
+  },
+  {
+   "id": "b01.01",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "对，是一室一厅，有厨房和卫生间。",
+   "tokens": [
+    {
+     "text": "对",
+     "reading": "duì",
+     "tone": 4
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "是",
+     "reading": "shì",
+     "tone": 4
+    },
+    {
+     "text": "一",
+     "reading": "yí",
+     "tone": 2
+    },
+    {
+     "text": "室",
+     "reading": "shì",
+     "tone": 4
+    },
+    {
+     "text": "一",
+     "reading": "yì",
+     "tone": 4
+    },
+    {
+     "text": "厅",
+     "reading": "tīng",
+     "tone": 1
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "有",
+     "reading": "yǒu",
+     "tone": 3
+    },
+    {
+     "text": "厨",
+     "reading": "chú",
+     "tone": 2
+    },
+    {
+     "text": "房",
+     "reading": "fáng",
+     "tone": 2
+    },
+    {
+     "text": "和",
+     "reading": "hé",
+     "tone": 2
+    },
+    {
+     "text": "卫",
+     "reading": "wèi",
+     "tone": 4
+    },
+    {
+     "text": "生",
+     "reading": "shēng",
+     "tone": 1
+    },
+    {
+     "text": "间",
+     "reading": "jiān",
+     "tone": 1
+    },
+    {
+     "text": "。",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Đúng vậy, một phòng ngủ một phòng khách, có bếp và nhà vệ sinh.",
+   "start_ms": 3772,
+   "end_ms": 7078,
+   "words": [
+    {
+     "text": "对",
+     "start_ms": 3772,
+     "end_ms": 4068
+    },
+    {
+     "text": "是",
+     "start_ms": 4302,
+     "end_ms": 4482
+    },
+    {
+     "text": "一",
+     "start_ms": 4495,
+     "end_ms": 4663
+    },
+    {
+     "text": "室",
+     "start_ms": 4662,
+     "end_ms": 4830
+    },
+    {
+     "text": "一",
+     "start_ms": 4843,
+     "end_ms": 4998
+    },
+    {
+     "text": "厅",
+     "start_ms": 4997,
+     "end_ms": 5306
+    },
+    {
+     "text": "有",
+     "start_ms": 5539,
+     "end_ms": 5694
+    },
+    {
+     "text": "厨房",
+     "start_ms": 5693,
+     "end_ms": 6170
+    },
+    {
+     "text": "和",
+     "start_ms": 6196,
+     "end_ms": 6312
+    },
+    {
+     "text": "卫生间",
+     "start_ms": 6325,
+     "end_ms": 6995
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "en",
+    "text": "Yes, it has one bedroom, a living room, a kitchen, and a bathroom.",
+    "reading": null
+   }
+  },
+  {
+   "id": "b01.02",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "房租一个月多少钱？",
+   "tokens": [
+    {
+     "text": "房",
+     "reading": "fáng",
+     "tone": 2
+    },
+    {
+     "text": "租",
+     "reading": "zū",
+     "tone": 1
+    },
+    {
+     "text": "一",
+     "reading": "yí",
+     "tone": 2
+    },
+    {
+     "text": "个",
+     "reading": "gè",
+     "tone": 4
+    },
+    {
+     "text": "月",
+     "reading": "yuè",
+     "tone": 4
+    },
+    {
+     "text": "多",
+     "reading": "duō",
+     "tone": 1
+    },
+    {
+     "text": "少",
+     "reading": "shao",
+     "tone": 0
+    },
+    {
+     "text": "钱",
+     "reading": "qián",
+     "tone": 2
+    },
+    {
+     "text": "？",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Tiền thuê một tháng bao nhiêu?",
+   "start_ms": 7428,
+   "end_ms": 8696,
+   "words": [
+    {
+     "text": "房租",
+     "start_ms": 7428,
+     "end_ms": 7870
+    },
+    {
+     "text": "一个",
+     "start_ms": 7761,
+     "end_ms": 7963
+    },
+    {
+     "text": "月",
+     "start_ms": 7963,
+     "end_ms": 8064
+    },
+    {
+     "text": "多少",
+     "start_ms": 8089,
+     "end_ms": 8329
+    },
+    {
+     "text": "钱",
+     "start_ms": 8329,
+     "end_ms": 8696
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [
+    "房租"
+   ],
+   "parallel": {
+    "lang": "en",
+    "text": "How much is the rent per month?",
+    "reading": null
+   }
+  },
+  {
+   "id": "b01.03",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "三千五，水电费另外算。",
+   "tokens": [
+    {
+     "text": "三",
+     "reading": "sān",
+     "tone": 1
+    },
+    {
+     "text": "千",
+     "reading": "qiān",
+     "tone": 1
+    },
+    {
+     "text": "五",
+     "reading": "wǔ",
+     "tone": 3
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "水",
+     "reading": "shuǐ",
+     "tone": 3
+    },
+    {
+     "text": "电",
+     "reading": "diàn",
+     "tone": 4
+    },
+    {
+     "text": "费",
+     "reading": "fèi",
+     "tone": 4
+    },
+    {
+     "text": "另",
+     "reading": "lìng",
+     "tone": 4
+    },
+    {
+     "text": "外",
+     "reading": "wài",
+     "tone": 4
+    },
+    {
+     "text": "算",
+     "reading": "suàn",
+     "tone": 4
+    },
+    {
+     "text": "。",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Ba nghìn rưỡi, tiền điện nước tính riêng.",
+   "start_ms": 9046,
+   "end_ms": 11445,
+   "words": [
+    {
+     "text": "三千五",
+     "start_ms": 9046,
+     "end_ms": 9845
+    },
+    {
+     "text": "水",
+     "start_ms": 10058,
+     "end_ms": 10264
+    },
+    {
+     "text": "电费",
+     "start_ms": 10264,
+     "end_ms": 10676
+    },
+    {
+     "text": "另外",
+     "start_ms": 10703,
+     "end_ms": 11051
+    },
+    {
+     "text": "算",
+     "start_ms": 11050,
+     "end_ms": 11359
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "en",
+    "text": "Three thousand five hundred, utilities not included.",
+    "reading": null
+   }
+  },
+  {
+   "id": "b01.04",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "离地铁站远不远？",
+   "tokens": [
+    {
+     "text": "离",
+     "reading": "lí",
+     "tone": 2
+    },
+    {
+     "text": "地",
+     "reading": "dì",
+     "tone": 4
+    },
+    {
+     "text": "铁",
+     "reading": "tiě",
+     "tone": 3
+    },
+    {
+     "text": "站",
+     "reading": "zhàn",
+     "tone": 4
+    },
+    {
+     "text": "远",
+     "reading": "yuǎn",
+     "tone": 3
+    },
+    {
+     "text": "不",
+     "reading": "bù",
+     "tone": 4
+    },
+    {
+     "text": "远",
+     "reading": "yuǎn",
+     "tone": 3
+    },
+    {
+     "text": "？",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Có xa ga tàu điện ngầm không?",
+   "start_ms": 11795,
+   "end_ms": 13093,
+   "words": [
+    {
+     "text": "离",
+     "start_ms": 11795,
+     "end_ms": 11997
+    },
+    {
+     "text": "地铁",
+     "start_ms": 11953,
+     "end_ms": 12332
+    },
+    {
+     "text": "站远",
+     "start_ms": 12345,
+     "end_ms": 12699
+    },
+    {
+     "text": "不",
+     "start_ms": 12711,
+     "end_ms": 12863
+    },
+    {
+     "text": "远",
+     "start_ms": 12862,
+     "end_ms": 13093
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "en",
+    "text": "Is it far from the subway?",
+    "reading": null
+   }
+  },
+  {
+   "id": "b01.05",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "很近，走路五分钟就到。",
+   "tokens": [
+    {
+     "text": "很",
+     "reading": "hěn",
+     "tone": 3
+    },
+    {
+     "text": "近",
+     "reading": "jìn",
+     "tone": 4
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "走",
+     "reading": "zǒu",
+     "tone": 3
+    },
+    {
+     "text": "路",
+     "reading": "lù",
+     "tone": 4
+    },
+    {
+     "text": "五",
+     "reading": "wǔ",
+     "tone": 3
+    },
+    {
+     "text": "分",
+     "reading": "fēn",
+     "tone": 1
+    },
+    {
+     "text": "钟",
+     "reading": "zhōng",
+     "tone": 1
+    },
+    {
+     "text": "就",
+     "reading": "jiù",
+     "tone": 4
+    },
+    {
+     "text": "到",
+     "reading": "dào",
+     "tone": 4
+    },
+    {
+     "text": "。",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Rất gần, đi bộ năm phút là tới.",
+   "start_ms": 13443,
+   "end_ms": 15580,
+   "words": [
+    {
+     "text": "很",
+     "start_ms": 13443,
+     "end_ms": 13727
+    },
+    {
+     "text": "近",
+     "start_ms": 13672,
+     "end_ms": 13956
+    },
+    {
+     "text": "走路",
+     "start_ms": 14226,
+     "end_ms": 14574
+    },
+    {
+     "text": "五分钟",
+     "start_ms": 14600,
+     "end_ms": 15090
+    },
+    {
+     "text": "就",
+     "start_ms": 15102,
+     "end_ms": 15270
+    },
+    {
+     "text": "到",
+     "start_ms": 15270,
+     "end_ms": 15515
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "en",
+    "text": "It's very close, just a five-minute walk.",
+    "reading": null
+   }
+  },
+  {
+   "id": "b01.06",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "我可以先去看看房子吗？",
+   "tokens": [
+    {
+     "text": "我",
+     "reading": "wǒ",
+     "tone": 3
+    },
+    {
+     "text": "可",
+     "reading": "kě",
+     "tone": 3
+    },
+    {
+     "text": "以",
+     "reading": "yǐ",
+     "tone": 3
+    },
+    {
+     "text": "先",
+     "reading": "xiān",
+     "tone": 1
+    },
+    {
+     "text": "去",
+     "reading": "qù",
+     "tone": 4
+    },
+    {
+     "text": "看",
+     "reading": "kàn",
+     "tone": 4
+    },
+    {
+     "text": "看",
+     "reading": "kan",
+     "tone": 0
+    },
+    {
+     "text": "房",
+     "reading": "fáng",
+     "tone": 2
+    },
+    {
+     "text": "子",
+     "reading": "zi",
+     "tone": 0
+    },
+    {
+     "text": "吗",
+     "reading": "ma",
+     "tone": 0
+    },
+    {
+     "text": "？",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Tôi có thể đến xem nhà trước không?",
+   "start_ms": 15930,
+   "end_ms": 17273,
+   "words": [
+    {
+     "text": "我",
+     "start_ms": 15930,
+     "end_ms": 16220
+    },
+    {
+     "text": "可以",
+     "start_ms": 16044,
+     "end_ms": 16233
+    },
+    {
+     "text": "先",
+     "start_ms": 16246,
+     "end_ms": 16398
+    },
+    {
+     "text": "去",
+     "start_ms": 16397,
+     "end_ms": 16460
+    },
+    {
+     "text": "看看",
+     "start_ms": 16473,
+     "end_ms": 16700
+    },
+    {
+     "text": "房子",
+     "start_ms": 16713,
+     "end_ms": 17029
+    },
+    {
+     "text": "吗",
+     "start_ms": 17028,
+     "end_ms": 17273
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [
+    "看看"
+   ],
+   "parallel": {
+    "lang": "en",
+    "text": "Could I come and see the place first?",
+    "reading": null
+   }
+  },
+  {
+   "id": "b01.07",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "当然可以，你明天下午有空吗？",
+   "tokens": [
+    {
+     "text": "当",
+     "reading": "dāng",
+     "tone": 1
+    },
+    {
+     "text": "然",
+     "reading": "rán",
+     "tone": 2
+    },
+    {
+     "text": "可",
+     "reading": "kě",
+     "tone": 3
+    },
+    {
+     "text": "以",
+     "reading": "yǐ",
+     "tone": 3
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "你",
+     "reading": "nǐ",
+     "tone": 3
+    },
+    {
+     "text": "明",
+     "reading": "míng",
+     "tone": 2
+    },
+    {
+     "text": "天",
+     "reading": "tiān",
+     "tone": 1
+    },
+    {
+     "text": "下",
+     "reading": "xià",
+     "tone": 4
+    },
+    {
+     "text": "午",
+     "reading": "wǔ",
+     "tone": 3
+    },
+    {
+     "text": "有",
+     "reading": "yǒu",
+     "tone": 3
+    },
+    {
+     "text": "空",
+     "reading": "kòng",
+     "tone": 4
+    },
+    {
+     "text": "吗",
+     "reading": "ma",
+     "tone": 0
+    },
+    {
+     "text": "？",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Tất nhiên rồi, chiều mai anh có rảnh không?",
+   "start_ms": 17623,
+   "end_ms": 20246,
+   "words": [
+    {
+     "text": "当然",
+     "start_ms": 17623,
+     "end_ms": 17971
+    },
+    {
+     "text": "可以",
+     "start_ms": 17949,
+     "end_ms": 18413
+    },
+    {
+     "text": "你",
+     "start_ms": 18723,
+     "end_ms": 18813
+    },
+    {
+     "text": "明天",
+     "start_ms": 18826,
+     "end_ms": 19161
+    },
+    {
+     "text": "下午",
+     "start_ms": 19174,
+     "end_ms": 19470
+    },
+    {
+     "text": "有空",
+     "start_ms": 19496,
+     "end_ms": 19908
+    },
+    {
+     "text": "吗",
+     "start_ms": 19908,
+     "end_ms": 20166
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "en",
+    "text": "Of course. Are you free tomorrow afternoon?",
+    "reading": null
+   }
+  },
+  {
+   "id": "b01.08",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "有空，三点怎么样？",
+   "tokens": [
+    {
+     "text": "有",
+     "reading": "yǒu",
+     "tone": 3
+    },
+    {
+     "text": "空",
+     "reading": "kòng",
+     "tone": 4
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "三",
+     "reading": "sān",
+     "tone": 1
+    },
+    {
+     "text": "点",
+     "reading": "diǎn",
+     "tone": 3
+    },
+    {
+     "text": "怎",
+     "reading": "zěn",
+     "tone": 3
+    },
+    {
+     "text": "么",
+     "reading": "me",
+     "tone": 0
+    },
+    {
+     "text": "样",
+     "reading": "yàng",
+     "tone": 4
+    },
+    {
+     "text": "？",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Rảnh, ba giờ được không?",
+   "start_ms": 20596,
+   "end_ms": 22345,
+   "words": [
+    {
+     "text": "有空",
+     "start_ms": 20596,
+     "end_ms": 21152
+    },
+    {
+     "text": "三点",
+     "start_ms": 21457,
+     "end_ms": 21886
+    },
+    {
+     "text": "怎么样",
+     "start_ms": 21899,
+     "end_ms": 22303
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "en",
+    "text": "Yes. How about three o'clock?",
+    "reading": null
+   }
+  },
+  {
+   "id": "b01.09",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "好，到时候我在楼下等你。",
+   "tokens": [
+    {
+     "text": "好",
+     "reading": "hǎo",
+     "tone": 3
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "到",
+     "reading": "dào",
+     "tone": 4
+    },
+    {
+     "text": "时",
+     "reading": "shí",
+     "tone": 2
+    },
+    {
+     "text": "候",
+     "reading": "hou",
+     "tone": 0
+    },
+    {
+     "text": "我",
+     "reading": "wǒ",
+     "tone": 3
+    },
+    {
+     "text": "在",
+     "reading": "zài",
+     "tone": 4
+    },
+    {
+     "text": "楼",
+     "reading": "lóu",
+     "tone": 2
+    },
+    {
+     "text": "下",
+     "reading": "xià",
+     "tone": 4
+    },
+    {
+     "text": "等",
+     "reading": "děng",
+     "tone": 3
+    },
+    {
+     "text": "你",
+     "reading": "nǐ",
+     "tone": 3
+    },
+    {
+     "text": "。",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Được, lúc đó tôi đợi anh ở dưới nhà.",
+   "start_ms": 22695,
+   "end_ms": 25084,
+   "words": [
+    {
+     "text": "好",
+     "start_ms": 22695,
+     "end_ms": 23056
+    },
+    {
+     "text": "到时候",
+     "start_ms": 23340,
+     "end_ms": 23920
+    },
+    {
+     "text": "我",
+     "start_ms": 23946,
+     "end_ms": 24062
+    },
+    {
+     "text": "在",
+     "start_ms": 24062,
+     "end_ms": 24191
+    },
+    {
+     "text": "楼下",
+     "start_ms": 24204,
+     "end_ms": 24526
+    },
+    {
+     "text": "等",
+     "start_ms": 24526,
+     "end_ms": 24784
+    },
+    {
+     "text": "你",
+     "start_ms": 24784,
+     "end_ms": 25003
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "en",
+    "text": "Sounds good. I'll wait for you downstairs then.",
+    "reading": null
+   }
+  },
+  {
+   "id": "b02.00",
+   "section": "b02",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "房租一个月多少钱？",
+   "tokens": [
+    {
+     "text": "房",
+     "reading": "fáng",
+     "tone": 2
+    },
+    {
+     "text": "租",
+     "reading": "zū",
+     "tone": 1
+    },
+    {
+     "text": "一",
+     "reading": "yí",
+     "tone": 2
+    },
+    {
+     "text": "个",
+     "reading": "gè",
+     "tone": 4
+    },
+    {
+     "text": "月",
+     "reading": "yuè",
+     "tone": 4
+    },
+    {
+     "text": "多",
+     "reading": "duō",
+     "tone": 1
+    },
+    {
+     "text": "少",
+     "reading": "shao",
+     "tone": 0
+    },
+    {
+     "text": "钱",
+     "reading": "qián",
+     "tone": 2
+    },
+    {
+     "text": "？",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Tiền thuê một tháng bao nhiêu?",
+   "start_ms": 25984,
+   "end_ms": 27556,
+   "words": [
+    {
+     "text": "房租",
+     "start_ms": 25984,
+     "end_ms": 26545
+    },
+    {
+     "text": "一个",
+     "start_ms": 26388,
+     "end_ms": 26644
+    },
+    {
+     "text": "月",
+     "start_ms": 26644,
+     "end_ms": 26772
+    },
+    {
+     "text": "多少",
+     "start_ms": 26805,
+     "end_ms": 27109
+    },
+    {
+     "text": "钱",
+     "start_ms": 27109,
+     "end_ms": 27556
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": true,
+   "pause_after_ms": 2000,
+   "targets": [
+    "房租"
+   ],
+   "parallel": {
+    "lang": "en",
+    "text": "How much is the rent per month?",
+    "reading": null
+   }
+  },
+  {
+   "id": "b02.01",
+   "section": "b02",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "我可以先去看看房子吗？",
+   "tokens": [
+    {
+     "text": "我",
+     "reading": "wǒ",
+     "tone": 3
+    },
+    {
+     "text": "可",
+     "reading": "kě",
+     "tone": 3
+    },
+    {
+     "text": "以",
+     "reading": "yǐ",
+     "tone": 3
+    },
+    {
+     "text": "先",
+     "reading": "xiān",
+     "tone": 1
+    },
+    {
+     "text": "去",
+     "reading": "qù",
+     "tone": 4
+    },
+    {
+     "text": "看",
+     "reading": "kàn",
+     "tone": 4
+    },
+    {
+     "text": "看",
+     "reading": "kan",
+     "tone": 0
+    },
+    {
+     "text": "房",
+     "reading": "fáng",
+     "tone": 2
+    },
+    {
+     "text": "子",
+     "reading": "zi",
+     "tone": 0
+    },
+    {
+     "text": "吗",
+     "reading": "ma",
+     "tone": 0
+    },
+    {
+     "text": "？",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Tôi có thể đến xem nhà trước không?",
+   "start_ms": 29906,
+   "end_ms": 31581,
+   "words": [
+    {
+     "text": "我",
+     "start_ms": 29906,
+     "end_ms": 30275
+    },
+    {
+     "text": "可以",
+     "start_ms": 30042,
+     "end_ms": 30282
+    },
+    {
+     "text": "先",
+     "start_ms": 30298,
+     "end_ms": 30490
+    },
+    {
+     "text": "去",
+     "start_ms": 30490,
+     "end_ms": 30570
+    },
+    {
+     "text": "看看",
+     "start_ms": 30587,
+     "end_ms": 30875
+    },
+    {
+     "text": "房子",
+     "start_ms": 30891,
+     "end_ms": 31292
+    },
+    {
+     "text": "吗",
+     "start_ms": 31292,
+     "end_ms": 31581
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": true,
+   "pause_after_ms": 2000,
+   "targets": [
+    "看看"
+   ],
+   "parallel": {
+    "lang": "en",
+    "text": "Could I come and see the place first?",
+    "reading": null
+   }
+  }
+ ],
+ "vocab": [
+  {
+   "text": "出租",
+   "reading": "chū zū",
+   "l1": "cho thuê",
+   "level": 2,
+   "cognate": null
+  },
+  {
+   "text": "房租",
+   "reading": "fáng zū",
+   "l1": "tiền thuê nhà",
+   "level": 3,
+   "cognate": null
+  },
+  {
+   "text": "水电费",
+   "reading": "shuǐ diàn fèi",
+   "l1": "tiền điện nước",
+   "level": null,
+   "cognate": null
+  },
+  {
+   "text": "有空",
+   "reading": "yǒu kòng",
+   "l1": "rảnh",
+   "level": null,
+   "cognate": null
+  }
+ ],
+ "cognate_reveal": null,
+ "errata": [],
+ "attribution": [
+  "pypinyin (MIT)",
+  "jieba (MIT)"
+ ],
+ "disclosure": {
+  "synthetic_voice": true
+ }
+}

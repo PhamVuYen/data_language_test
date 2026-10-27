@@ -1,0 +1,1445 @@
+{
+ "schema": "episode/1",
+ "id": "doi-song-06-en",
+ "pair": "doi-song-06",
+ "lang": {
+  "target": "en",
+  "l1": "vi"
+ },
+ "level": {
+  "scheme": "CEFR",
+  "label": "A2"
+ },
+ "title": {
+  "target": "Renting an Apartment",
+  "l1": "Thuê nhà"
+ },
+ "series": {
+  "id": "doi-song-en",
+  "name": "Đời sống",
+  "order": 6
+ },
+ "flags": [],
+ "audio": {
+  "mix": "audio/mix.m4a",
+  "duration_ms": 42108
+ },
+ "speakers": {
+  "A": {
+   "name": "Landlord",
+   "l1_name": "chủ nhà"
+  },
+  "B": {
+   "name": "Nam",
+   "l1_name": "Nam"
+  }
+ },
+ "sections": [
+  {
+   "id": "b01",
+   "type": "dialogue",
+   "label": "Hội thoại",
+   "start_ms": 300
+  },
+  {
+   "id": "b02",
+   "type": "recap_slow",
+   "label": "Nhắc lại chậm",
+   "start_ms": 33078
+  }
+ ],
+ "lines": [
+  {
+   "id": "b01.00",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "Hi, I saw online that your apartment is for rent.",
+   "tokens": [
+    {
+     "text": "Hi",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ",",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "I",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "saw",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "online",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "that",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "your",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "apartment",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "is",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "for",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "rent",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Chào chị, tôi thấy trên mạng chị cho thuê nhà.",
+   "start_ms": 300,
+   "end_ms": 3337,
+   "words": [
+    {
+     "text": "Hi",
+     "start_ms": 300,
+     "end_ms": 699
+    },
+    {
+     "text": "I",
+     "start_ms": 803,
+     "end_ms": 923
+    },
+    {
+     "text": "saw",
+     "start_ms": 936,
+     "end_ms": 1202
+    },
+    {
+     "text": "online",
+     "start_ms": 1216,
+     "end_ms": 1681
+    },
+    {
+     "text": "that",
+     "start_ms": 1708,
+     "end_ms": 1854
+    },
+    {
+     "text": "your",
+     "start_ms": 1880,
+     "end_ms": 2040
+    },
+    {
+     "text": "apartment",
+     "start_ms": 2067,
+     "end_ms": 2572
+    },
+    {
+     "text": "is",
+     "start_ms": 2599,
+     "end_ms": 2705
+    },
+    {
+     "text": "for",
+     "start_ms": 2718,
+     "end_ms": 2878
+    },
+    {
+     "text": "rent",
+     "start_ms": 2904,
+     "end_ms": 3263
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "你好，我在网上看到你的房子要出租。",
+    "reading": "nǐ hǎo wǒ zài wǎng shàng kàn dào nǐ de fáng zi yào chū zū"
+   }
+  },
+  {
+   "id": "b01.01",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "Yes, it has one bedroom, a living room, a kitchen, and a bathroom.",
+   "tokens": [
+    {
+     "text": "Yes",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ",",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "it",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "has",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "one",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "bedroom",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ",",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "a",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "living",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "room",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ",",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "a",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "kitchen",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ",",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "and",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "a",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "bathroom",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Đúng vậy, một phòng ngủ một phòng khách, có bếp và nhà vệ sinh.",
+   "start_ms": 3687,
+   "end_ms": 8090,
+   "words": [
+    {
+     "text": "Yes",
+     "start_ms": 3687,
+     "end_ms": 4166
+    },
+    {
+     "text": "it",
+     "start_ms": 4245,
+     "end_ms": 4325
+    },
+    {
+     "text": "has",
+     "start_ms": 4338,
+     "end_ms": 4551
+    },
+    {
+     "text": "one",
+     "start_ms": 4564,
+     "end_ms": 4830
+    },
+    {
+     "text": "bedroom",
+     "start_ms": 4843,
+     "end_ms": 5335
+    },
+    {
+     "text": "a",
+     "start_ms": 5535,
+     "end_ms": 5575
+    },
+    {
+     "text": "living",
+     "start_ms": 5588,
+     "end_ms": 5947
+    },
+    {
+     "text": "room",
+     "start_ms": 5960,
+     "end_ms": 6239
+    },
+    {
+     "text": "a",
+     "start_ms": 6426,
+     "end_ms": 6492
+    },
+    {
+     "text": "kitchen",
+     "start_ms": 6506,
+     "end_ms": 6985
+    },
+    {
+     "text": "and",
+     "start_ms": 7170,
+     "end_ms": 7343
+    },
+    {
+     "text": "a",
+     "start_ms": 7357,
+     "end_ms": 7410
+    },
+    {
+     "text": "bathroom",
+     "start_ms": 7423,
+     "end_ms": 8021
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "对，是一室一厅，有厨房和卫生间。",
+    "reading": "duì shì yí shì yì tīng yǒu chú fáng hé wèi shēng jiān"
+   }
+  },
+  {
+   "id": "b01.02",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "How much is the rent per month?",
+   "tokens": [
+    {
+     "text": "How",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "much",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "is",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "the",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "rent",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "per",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "month",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "?",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Tiền thuê một tháng bao nhiêu?",
+   "start_ms": 8440,
+   "end_ms": 10030,
+   "words": [
+    {
+     "text": "How",
+     "start_ms": 8440,
+     "end_ms": 8613
+    },
+    {
+     "text": "much",
+     "start_ms": 8567,
+     "end_ms": 8806
+    },
+    {
+     "text": "is",
+     "start_ms": 8833,
+     "end_ms": 8966
+    },
+    {
+     "text": "the",
+     "start_ms": 8993,
+     "end_ms": 9113
+    },
+    {
+     "text": "rent",
+     "start_ms": 9139,
+     "end_ms": 9405
+    },
+    {
+     "text": "per",
+     "start_ms": 9418,
+     "end_ms": 9591
+    },
+    {
+     "text": "month",
+     "start_ms": 9618,
+     "end_ms": 10030
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [
+    "rent"
+   ],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "房租一个月多少钱？",
+    "reading": "fáng zū yí gè yuè duō shao qián"
+   }
+  },
+  {
+   "id": "b01.03",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "Three thousand five hundred, utilities not included.",
+   "tokens": [
+    {
+     "text": "Three",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "thousand",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "five",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "hundred",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ",",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "utilities",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "not",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "included",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Ba nghìn rưỡi, tiền điện nước tính riêng.",
+   "start_ms": 10380,
+   "end_ms": 13626,
+   "words": [
+    {
+     "text": "Three",
+     "start_ms": 10380,
+     "end_ms": 10633
+    },
+    {
+     "text": "thousand",
+     "start_ms": 10583,
+     "end_ms": 11088
+    },
+    {
+     "text": "five",
+     "start_ms": 11102,
+     "end_ms": 11368
+    },
+    {
+     "text": "hundred",
+     "start_ms": 11381,
+     "end_ms": 11780
+    },
+    {
+     "text": "utilities",
+     "start_ms": 12019,
+     "end_ms": 12644
+    },
+    {
+     "text": "not",
+     "start_ms": 12658,
+     "end_ms": 12897
+    },
+    {
+     "text": "included",
+     "start_ms": 12910,
+     "end_ms": 13602
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "三千五，水电费另外算。",
+    "reading": "sān qiān wǔ shuǐ diàn fèi lìng wài suàn"
+   }
+  },
+  {
+   "id": "b01.04",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "Is it far from the subway?",
+   "tokens": [
+    {
+     "text": "Is",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "it",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "far",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "from",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "the",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "subway",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "?",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Có xa ga tàu điện ngầm không?",
+   "start_ms": 13976,
+   "end_ms": 15659,
+   "words": [
+    {
+     "text": "Is",
+     "start_ms": 13976,
+     "end_ms": 14162
+    },
+    {
+     "text": "it",
+     "start_ms": 14138,
+     "end_ms": 14258
+    },
+    {
+     "text": "far",
+     "start_ms": 14284,
+     "end_ms": 14643
+    },
+    {
+     "text": "from",
+     "start_ms": 14670,
+     "end_ms": 14830
+    },
+    {
+     "text": "the",
+     "start_ms": 14856,
+     "end_ms": 14962
+    },
+    {
+     "text": "subway",
+     "start_ms": 14989,
+     "end_ms": 15574
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "离地铁站远不远？",
+    "reading": "lí dì tiě zhàn yuǎn bù yuǎn"
+   }
+  },
+  {
+   "id": "b01.05",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "It's very close, just a five-minute walk.",
+   "tokens": [
+    {
+     "text": "It's",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "very",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "close",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ",",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "just",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "a",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "five",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "-",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "minute",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "walk",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Rất gần, đi bộ năm phút là tới.",
+   "start_ms": 16009,
+   "end_ms": 18680,
+   "words": [
+    {
+     "text": "It's",
+     "start_ms": 16009,
+     "end_ms": 16248
+    },
+    {
+     "text": "very",
+     "start_ms": 16206,
+     "end_ms": 16552
+    },
+    {
+     "text": "close",
+     "start_ms": 16565,
+     "end_ms": 17030
+    },
+    {
+     "text": "just",
+     "start_ms": 17190,
+     "end_ms": 17443
+    },
+    {
+     "text": "a",
+     "start_ms": 17456,
+     "end_ms": 17522
+    },
+    {
+     "text": "five",
+     "start_ms": 17536,
+     "end_ms": 17775
+    },
+    {
+     "text": "minute",
+     "start_ms": 17775,
+     "end_ms": 18134
+    },
+    {
+     "text": "walk",
+     "start_ms": 18147,
+     "end_ms": 18639
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "很近，走路五分钟就到。",
+    "reading": "hěn jìn zǒu lù wǔ fēn zhōng jiù dào"
+   }
+  },
+  {
+   "id": "b01.06",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "Could I come and see the place first?",
+   "tokens": [
+    {
+     "text": "Could",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "I",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "come",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "and",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "see",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "the",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "place",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "first",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "?",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Tôi có thể đến xem nhà trước không?",
+   "start_ms": 19030,
+   "end_ms": 20948,
+   "words": [
+    {
+     "text": "Could",
+     "start_ms": 19030,
+     "end_ms": 19229
+    },
+    {
+     "text": "I",
+     "start_ms": 19195,
+     "end_ms": 19261
+    },
+    {
+     "text": "come",
+     "start_ms": 19288,
+     "end_ms": 19527
+    },
+    {
+     "text": "and",
+     "start_ms": 19554,
+     "end_ms": 19660
+    },
+    {
+     "text": "see",
+     "start_ms": 19687,
+     "end_ms": 19900
+    },
+    {
+     "text": "the",
+     "start_ms": 19927,
+     "end_ms": 20060
+    },
+    {
+     "text": "place",
+     "start_ms": 20073,
+     "end_ms": 20379
+    },
+    {
+     "text": "first",
+     "start_ms": 20405,
+     "end_ms": 20897
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [
+    "see the place"
+   ],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "我可以先去看看房子吗？",
+    "reading": "wǒ kě yǐ xiān qù kàn kan fáng zi ma"
+   }
+  },
+  {
+   "id": "b01.07",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "Of course. Are you free tomorrow afternoon?",
+   "tokens": [
+    {
+     "text": "Of",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "course",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "Are",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "you",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "free",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "tomorrow",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "afternoon",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "?",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Tất nhiên rồi, chiều mai anh có rảnh không?",
+   "start_ms": 21298,
+   "end_ms": 24818,
+   "words": [
+    {
+     "text": "Of",
+     "start_ms": 21298,
+     "end_ms": 21497
+    },
+    {
+     "text": "course",
+     "start_ms": 21451,
+     "end_ms": 22063
+    },
+    {
+     "text": "Are",
+     "start_ms": 22983,
+     "end_ms": 23169
+    },
+    {
+     "text": "you",
+     "start_ms": 23183,
+     "end_ms": 23329
+    },
+    {
+     "text": "free",
+     "start_ms": 23342,
+     "end_ms": 23581
+    },
+    {
+     "text": "tomorrow",
+     "start_ms": 23595,
+     "end_ms": 24047
+    },
+    {
+     "text": "afternoon",
+     "start_ms": 24061,
+     "end_ms": 24739
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "当然可以，你明天下午有空吗？",
+    "reading": "dāng rán kě yǐ nǐ míng tiān xià wǔ yǒu kòng ma"
+   }
+  },
+  {
+   "id": "b01.08",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "Yes. How about three o'clock?",
+   "tokens": [
+    {
+     "text": "Yes",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "How",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "about",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "three",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "o'clock",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "?",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Rảnh, ba giờ được không?",
+   "start_ms": 25168,
+   "end_ms": 28105,
+   "words": [
+    {
+     "text": "Yes",
+     "start_ms": 25168,
+     "end_ms": 25793
+    },
+    {
+     "text": "How",
+     "start_ms": 26635,
+     "end_ms": 26874
+    },
+    {
+     "text": "about",
+     "start_ms": 26888,
+     "end_ms": 27181
+    },
+    {
+     "text": "three",
+     "start_ms": 27193,
+     "end_ms": 27459
+    },
+    {
+     "text": "o'clock",
+     "start_ms": 27486,
+     "end_ms": 28071
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "有空，三点怎么样？",
+    "reading": "yǒu kòng sān diǎn zěn me yàng"
+   }
+  },
+  {
+   "id": "b01.09",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "Sounds good. I'll wait for you downstairs then.",
+   "tokens": [
+    {
+     "text": "Sounds",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "good",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "I'll",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "wait",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "for",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "you",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "downstairs",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "then",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Được, lúc đó tôi đợi anh ở dưới nhà.",
+   "start_ms": 28455,
+   "end_ms": 32178,
+   "words": [
+    {
+     "text": "Sounds",
+     "start_ms": 28455,
+     "end_ms": 28907
+    },
+    {
+     "text": "good",
+     "start_ms": 28853,
+     "end_ms": 29305
+    },
+    {
+     "text": "I'll",
+     "start_ms": 30239,
+     "end_ms": 30452
+    },
+    {
+     "text": "wait",
+     "start_ms": 30465,
+     "end_ms": 30718
+    },
+    {
+     "text": "for",
+     "start_ms": 30731,
+     "end_ms": 30864
+    },
+    {
+     "text": "you",
+     "start_ms": 30877,
+     "end_ms": 30997
+    },
+    {
+     "text": "downstairs",
+     "start_ms": 31010,
+     "end_ms": 31702
+    },
+    {
+     "text": "then",
+     "start_ms": 31715,
+     "end_ms": 32087
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "好，到时候我在楼下等你。",
+    "reading": "hǎo dào shí hou wǒ zài lóu xià děng nǐ"
+   }
+  },
+  {
+   "id": "b02.00",
+   "section": "b02",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "How much is the rent per month?",
+   "tokens": [
+    {
+     "text": "How",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "much",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "is",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "the",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "rent",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "per",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "month",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "?",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Tiền thuê một tháng bao nhiêu?",
+   "start_ms": 33078,
+   "end_ms": 34926,
+   "words": [
+    {
+     "text": "How",
+     "start_ms": 33078,
+     "end_ms": 33281
+    },
+    {
+     "text": "much",
+     "start_ms": 33219,
+     "end_ms": 33500
+    },
+    {
+     "text": "is",
+     "start_ms": 33532,
+     "end_ms": 33688
+    },
+    {
+     "text": "the",
+     "start_ms": 33719,
+     "end_ms": 33860
+    },
+    {
+     "text": "rent",
+     "start_ms": 33891,
+     "end_ms": 34203
+    },
+    {
+     "text": "per",
+     "start_ms": 34219,
+     "end_ms": 34422
+    },
+    {
+     "text": "month",
+     "start_ms": 34454,
+     "end_ms": 34926
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": true,
+   "pause_after_ms": 2000,
+   "targets": [
+    "rent"
+   ],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "房租一个月多少钱？",
+    "reading": "fáng zū yí gè yuè duō shao qián"
+   }
+  },
+  {
+   "id": "b02.01",
+   "section": "b02",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "Could I come and see the place first?",
+   "tokens": [
+    {
+     "text": "Could",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "I",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "come",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "and",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "see",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "the",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "place",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "first",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "?",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Tôi có thể đến xem nhà trước không?",
+   "start_ms": 37276,
+   "end_ms": 39508,
+   "words": [
+    {
+     "text": "Could",
+     "start_ms": 37276,
+     "end_ms": 37510
+    },
+    {
+     "text": "I",
+     "start_ms": 37459,
+     "end_ms": 37537
+    },
+    {
+     "text": "come",
+     "start_ms": 37569,
+     "end_ms": 37850
+    },
+    {
+     "text": "and",
+     "start_ms": 37881,
+     "end_ms": 38006
+    },
+    {
+     "text": "see",
+     "start_ms": 38037,
+     "end_ms": 38287
+    },
+    {
+     "text": "the",
+     "start_ms": 38319,
+     "end_ms": 38475
+    },
+    {
+     "text": "place",
+     "start_ms": 38490,
+     "end_ms": 38849
+    },
+    {
+     "text": "first",
+     "start_ms": 38881,
+     "end_ms": 39459
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": true,
+   "pause_after_ms": 2000,
+   "targets": [
+    "see the place"
+   ],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "我可以先去看看房子吗？",
+    "reading": "wǒ kě yǐ xiān qù kàn kan fáng zi ma"
+   }
+  }
+ ],
+ "vocab": [
+  {
+   "text": "for rent",
+   "reading": null,
+   "l1": "cho thuê",
+   "level": null,
+   "cognate": null
+  },
+  {
+   "text": "utilities",
+   "reading": null,
+   "l1": "tiền điện nước",
+   "level": null,
+   "cognate": null
+  },
+  {
+   "text": "downstairs",
+   "reading": null,
+   "l1": "dưới nhà",
+   "level": null,
+   "cognate": null
+  }
+ ],
+ "cognate_reveal": null,
+ "errata": [],
+ "attribution": [],
+ "disclosure": {
+  "synthetic_voice": true
+ }
+}

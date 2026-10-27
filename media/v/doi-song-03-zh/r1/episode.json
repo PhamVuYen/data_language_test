@@ -1,0 +1,1518 @@
+{
+ "schema": "episode/1",
+ "id": "doi-song-03-zh",
+ "pair": "doi-song-03",
+ "lang": {
+  "target": "zh-Hans",
+  "l1": "vi"
+ },
+ "level": {
+  "scheme": "HSK3.0",
+  "label": "HSK 3"
+ },
+ "title": {
+  "target": "问路",
+  "l1": "Hỏi đường"
+ },
+ "series": {
+  "id": "doi-song-zh",
+  "name": "Đời sống",
+  "order": 3
+ },
+ "flags": [],
+ "audio": {
+  "mix": "audio/mix.m4a",
+  "duration_ms": 38387
+ },
+ "speakers": {
+  "A": {
+   "name": "路人",
+   "l1_name": "người đi đường"
+  },
+  "B": {
+   "name": "阿南",
+   "l1_name": "Nam"
+  }
+ },
+ "sections": [
+  {
+   "id": "b01",
+   "type": "dialogue",
+   "label": "Hội thoại",
+   "start_ms": 300
+  },
+  {
+   "id": "b02",
+   "type": "recap_slow",
+   "label": "Nhắc lại chậm",
+   "start_ms": 26677
+  }
+ ],
+ "lines": [
+  {
+   "id": "b01.00",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "不好意思，请问地铁站怎么走？",
+   "tokens": [
+    {
+     "text": "不",
+     "reading": "bù",
+     "tone": 4
+    },
+    {
+     "text": "好",
+     "reading": "hǎo",
+     "tone": 3
+    },
+    {
+     "text": "意",
+     "reading": "yì",
+     "tone": 4
+    },
+    {
+     "text": "思",
+     "reading": "si",
+     "tone": 0
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "请",
+     "reading": "qǐng",
+     "tone": 3
+    },
+    {
+     "text": "问",
+     "reading": "wèn",
+     "tone": 4
+    },
+    {
+     "text": "地",
+     "reading": "dì",
+     "tone": 4
+    },
+    {
+     "text": "铁",
+     "reading": "tiě",
+     "tone": 3
+    },
+    {
+     "text": "站",
+     "reading": "zhàn",
+     "tone": 4
+    },
+    {
+     "text": "怎",
+     "reading": "zěn",
+     "tone": 3
+    },
+    {
+     "text": "么",
+     "reading": "me",
+     "tone": 0
+    },
+    {
+     "text": "走",
+     "reading": "zǒu",
+     "tone": 3
+    },
+    {
+     "text": "？",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Xin lỗi, cho hỏi ga tàu điện ngầm đi thế nào?",
+   "start_ms": 300,
+   "end_ms": 2667,
+   "words": [
+    {
+     "text": "不好意思",
+     "start_ms": 300,
+     "end_ms": 982
+    },
+    {
+     "text": "请问",
+     "start_ms": 1313,
+     "end_ms": 1667
+    },
+    {
+     "text": "地铁站",
+     "start_ms": 1692,
+     "end_ms": 2172
+    },
+    {
+     "text": "怎么",
+     "start_ms": 2197,
+     "end_ms": 2374
+    },
+    {
+     "text": "走",
+     "start_ms": 2374,
+     "end_ms": 2664
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [
+    "怎么走"
+   ],
+   "parallel": {
+    "lang": "en",
+    "text": "Excuse me, how do I get to the subway station?",
+    "reading": null
+   }
+  },
+  {
+   "id": "b01.01",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "你一直往前走，到第二个路口往左拐。",
+   "tokens": [
+    {
+     "text": "你",
+     "reading": "nǐ",
+     "tone": 3
+    },
+    {
+     "text": "一",
+     "reading": "yì",
+     "tone": 4
+    },
+    {
+     "text": "直",
+     "reading": "zhí",
+     "tone": 2
+    },
+    {
+     "text": "往",
+     "reading": "wǎng",
+     "tone": 3
+    },
+    {
+     "text": "前",
+     "reading": "qián",
+     "tone": 2
+    },
+    {
+     "text": "走",
+     "reading": "zǒu",
+     "tone": 3
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "到",
+     "reading": "dào",
+     "tone": 4
+    },
+    {
+     "text": "第",
+     "reading": "dì",
+     "tone": 4
+    },
+    {
+     "text": "二",
+     "reading": "èr",
+     "tone": 4
+    },
+    {
+     "text": "个",
+     "reading": "gè",
+     "tone": 4
+    },
+    {
+     "text": "路",
+     "reading": "lù",
+     "tone": 4
+    },
+    {
+     "text": "口",
+     "reading": "kǒu",
+     "tone": 3
+    },
+    {
+     "text": "往",
+     "reading": "wǎng",
+     "tone": 3
+    },
+    {
+     "text": "左",
+     "reading": "zuǒ",
+     "tone": 3
+    },
+    {
+     "text": "拐",
+     "reading": "guǎi",
+     "tone": 3
+    },
+    {
+     "text": "。",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Bạn cứ đi thẳng, đến ngã tư thứ hai thì rẽ trái.",
+   "start_ms": 3017,
+   "end_ms": 6095,
+   "words": [
+    {
+     "text": "你",
+     "start_ms": 3017,
+     "end_ms": 3146
+    },
+    {
+     "text": "一直往前走",
+     "start_ms": 3146,
+     "end_ms": 4177
+    },
+    {
+     "text": "到",
+     "start_ms": 4422,
+     "end_ms": 4577
+    },
+    {
+     "text": "第二个",
+     "start_ms": 4590,
+     "end_ms": 4951
+    },
+    {
+     "text": "路口",
+     "start_ms": 4963,
+     "end_ms": 5298
+    },
+    {
+     "text": "往",
+     "start_ms": 5324,
+     "end_ms": 5517
+    },
+    {
+     "text": "左",
+     "start_ms": 5517,
+     "end_ms": 5723
+    },
+    {
+     "text": "拐",
+     "start_ms": 5724,
+     "end_ms": 6020
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [
+    "往左拐"
+   ],
+   "parallel": {
+    "lang": "en",
+    "text": "Go straight ahead and turn left at the second intersection.",
+    "reading": null
+   }
+  },
+  {
+   "id": "b01.02",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "第二个路口往左拐，对吗？",
+   "tokens": [
+    {
+     "text": "第",
+     "reading": "dì",
+     "tone": 4
+    },
+    {
+     "text": "二",
+     "reading": "èr",
+     "tone": 4
+    },
+    {
+     "text": "个",
+     "reading": "gè",
+     "tone": 4
+    },
+    {
+     "text": "路",
+     "reading": "lù",
+     "tone": 4
+    },
+    {
+     "text": "口",
+     "reading": "kǒu",
+     "tone": 3
+    },
+    {
+     "text": "往",
+     "reading": "wǎng",
+     "tone": 3
+    },
+    {
+     "text": "左",
+     "reading": "zuǒ",
+     "tone": 3
+    },
+    {
+     "text": "拐",
+     "reading": "guǎi",
+     "tone": 3
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "对",
+     "reading": "duì",
+     "tone": 4
+    },
+    {
+     "text": "吗",
+     "reading": "ma",
+     "tone": 0
+    },
+    {
+     "text": "？",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Rẽ trái ở ngã tư thứ hai, đúng không ạ?",
+   "start_ms": 6445,
+   "end_ms": 8684,
+   "words": [
+    {
+     "text": "第二个",
+     "start_ms": 6445,
+     "end_ms": 6773
+    },
+    {
+     "text": "路口",
+     "start_ms": 6737,
+     "end_ms": 7103
+    },
+    {
+     "text": "往",
+     "start_ms": 7129,
+     "end_ms": 7306
+    },
+    {
+     "text": "左",
+     "start_ms": 7306,
+     "end_ms": 7521
+    },
+    {
+     "text": "拐",
+     "start_ms": 7520,
+     "end_ms": 7823
+    },
+    {
+     "text": "对",
+     "start_ms": 8240,
+     "end_ms": 8417
+    },
+    {
+     "text": "吗",
+     "start_ms": 8417,
+     "end_ms": 8684
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "en",
+    "text": "Left at the second intersection, right?",
+    "reading": null
+   }
+  },
+  {
+   "id": "b01.03",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "对。拐过去以后，你会看到一家银行。",
+   "tokens": [
+    {
+     "text": "对",
+     "reading": "duì",
+     "tone": 4
+    },
+    {
+     "text": "。",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "拐",
+     "reading": "guǎi",
+     "tone": 3
+    },
+    {
+     "text": "过",
+     "reading": "guò",
+     "tone": 4
+    },
+    {
+     "text": "去",
+     "reading": "qù",
+     "tone": 4
+    },
+    {
+     "text": "以",
+     "reading": "yǐ",
+     "tone": 3
+    },
+    {
+     "text": "后",
+     "reading": "hòu",
+     "tone": 4
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "你",
+     "reading": "nǐ",
+     "tone": 3
+    },
+    {
+     "text": "会",
+     "reading": "huì",
+     "tone": 4
+    },
+    {
+     "text": "看",
+     "reading": "kàn",
+     "tone": 4
+    },
+    {
+     "text": "到",
+     "reading": "dào",
+     "tone": 4
+    },
+    {
+     "text": "一",
+     "reading": "yì",
+     "tone": 4
+    },
+    {
+     "text": "家",
+     "reading": "jiā",
+     "tone": 1
+    },
+    {
+     "text": "银",
+     "reading": "yín",
+     "tone": 2
+    },
+    {
+     "text": "行",
+     "reading": "háng",
+     "tone": 2
+    },
+    {
+     "text": "。",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Đúng rồi. Rẽ qua rồi bạn sẽ thấy một ngân hàng.",
+   "start_ms": 9034,
+   "end_ms": 12784,
+   "words": [
+    {
+     "text": "对",
+     "start_ms": 9034,
+     "end_ms": 9434
+    },
+    {
+     "text": "拐",
+     "start_ms": 9962,
+     "end_ms": 10181
+    },
+    {
+     "text": "过去",
+     "start_ms": 10181,
+     "end_ms": 10477
+    },
+    {
+     "text": "以后",
+     "start_ms": 10490,
+     "end_ms": 10954
+    },
+    {
+     "text": "你",
+     "start_ms": 11186,
+     "end_ms": 11289
+    },
+    {
+     "text": "会",
+     "start_ms": 11289,
+     "end_ms": 11431
+    },
+    {
+     "text": "看到",
+     "start_ms": 11444,
+     "end_ms": 11740
+    },
+    {
+     "text": "一家",
+     "start_ms": 11766,
+     "end_ms": 12101
+    },
+    {
+     "text": "银行",
+     "start_ms": 12114,
+     "end_ms": 12694
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "en",
+    "text": "Right. After you turn, you'll see a bank.",
+    "reading": null
+   }
+  },
+  {
+   "id": "b01.04",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "地铁站在银行旁边吗？",
+   "tokens": [
+    {
+     "text": "地",
+     "reading": "dì",
+     "tone": 4
+    },
+    {
+     "text": "铁",
+     "reading": "tiě",
+     "tone": 3
+    },
+    {
+     "text": "站",
+     "reading": "zhàn",
+     "tone": 4
+    },
+    {
+     "text": "在",
+     "reading": "zài",
+     "tone": 4
+    },
+    {
+     "text": "银",
+     "reading": "yín",
+     "tone": 2
+    },
+    {
+     "text": "行",
+     "reading": "háng",
+     "tone": 2
+    },
+    {
+     "text": "旁",
+     "reading": "páng",
+     "tone": 2
+    },
+    {
+     "text": "边",
+     "reading": "biān",
+     "tone": 1
+    },
+    {
+     "text": "吗",
+     "reading": "ma",
+     "tone": 0
+    },
+    {
+     "text": "？",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Ga tàu ở cạnh ngân hàng à?",
+   "start_ms": 13134,
+   "end_ms": 14861,
+   "words": [
+    {
+     "text": "地铁站",
+     "start_ms": 13134,
+     "end_ms": 13828
+    },
+    {
+     "text": "在",
+     "start_ms": 13879,
+     "end_ms": 14043
+    },
+    {
+     "text": "银行",
+     "start_ms": 14056,
+     "end_ms": 14296
+    },
+    {
+     "text": "旁边",
+     "start_ms": 14308,
+     "end_ms": 14624
+    },
+    {
+     "text": "吗",
+     "start_ms": 14624,
+     "end_ms": 14861
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "en",
+    "text": "Is the station next to the bank?",
+    "reading": null
+   }
+  },
+  {
+   "id": "b01.05",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "在银行对面，过了马路就是。",
+   "tokens": [
+    {
+     "text": "在",
+     "reading": "zài",
+     "tone": 4
+    },
+    {
+     "text": "银",
+     "reading": "yín",
+     "tone": 2
+    },
+    {
+     "text": "行",
+     "reading": "háng",
+     "tone": 2
+    },
+    {
+     "text": "对",
+     "reading": "duì",
+     "tone": 4
+    },
+    {
+     "text": "面",
+     "reading": "miàn",
+     "tone": 4
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "过",
+     "reading": "guò",
+     "tone": 4
+    },
+    {
+     "text": "了",
+     "reading": "le",
+     "tone": 0
+    },
+    {
+     "text": "马",
+     "reading": "mǎ",
+     "tone": 3
+    },
+    {
+     "text": "路",
+     "reading": "lù",
+     "tone": 4
+    },
+    {
+     "text": "就",
+     "reading": "jiù",
+     "tone": 4
+    },
+    {
+     "text": "是",
+     "reading": "shì",
+     "tone": 4
+    },
+    {
+     "text": "。",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Ở đối diện ngân hàng, qua đường là tới.",
+   "start_ms": 15211,
+   "end_ms": 17763,
+   "words": [
+    {
+     "text": "在",
+     "start_ms": 15211,
+     "end_ms": 15391
+    },
+    {
+     "text": "银行",
+     "start_ms": 15371,
+     "end_ms": 15758
+    },
+    {
+     "text": "对面",
+     "start_ms": 15770,
+     "end_ms": 16260
+    },
+    {
+     "text": "过",
+     "start_ms": 16505,
+     "end_ms": 16685
+    },
+    {
+     "text": "了",
+     "start_ms": 16685,
+     "end_ms": 16775
+    },
+    {
+     "text": "马路",
+     "start_ms": 16788,
+     "end_ms": 17188
+    },
+    {
+     "text": "就",
+     "start_ms": 17201,
+     "end_ms": 17381
+    },
+    {
+     "text": "是",
+     "start_ms": 17381,
+     "end_ms": 17690
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "en",
+    "text": "It's across from the bank, just on the other side of the street.",
+    "reading": null
+   }
+  },
+  {
+   "id": "b01.06",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "走路要多长时间？",
+   "tokens": [
+    {
+     "text": "走",
+     "reading": "zǒu",
+     "tone": 3
+    },
+    {
+     "text": "路",
+     "reading": "lù",
+     "tone": 4
+    },
+    {
+     "text": "要",
+     "reading": "yào",
+     "tone": 4
+    },
+    {
+     "text": "多",
+     "reading": "duō",
+     "tone": 1
+    },
+    {
+     "text": "长",
+     "reading": "cháng",
+     "tone": 2
+    },
+    {
+     "text": "时",
+     "reading": "shí",
+     "tone": 2
+    },
+    {
+     "text": "间",
+     "reading": "jiān",
+     "tone": 1
+    },
+    {
+     "text": "？",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Đi bộ mất bao lâu ạ?",
+   "start_ms": 18113,
+   "end_ms": 19339,
+   "words": [
+    {
+     "text": "走路",
+     "start_ms": 18113,
+     "end_ms": 18605
+    },
+    {
+     "text": "要",
+     "start_ms": 18421,
+     "end_ms": 18522
+    },
+    {
+     "text": "多",
+     "start_ms": 18535,
+     "end_ms": 18687
+    },
+    {
+     "text": "长",
+     "start_ms": 18686,
+     "end_ms": 18850
+    },
+    {
+     "text": "时间",
+     "start_ms": 18863,
+     "end_ms": 19339
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "en",
+    "text": "How long does it take on foot?",
+    "reading": null
+   }
+  },
+  {
+   "id": "b01.07",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "大概十分钟吧，不太远。",
+   "tokens": [
+    {
+     "text": "大",
+     "reading": "dà",
+     "tone": 4
+    },
+    {
+     "text": "概",
+     "reading": "gài",
+     "tone": 4
+    },
+    {
+     "text": "十",
+     "reading": "shí",
+     "tone": 2
+    },
+    {
+     "text": "分",
+     "reading": "fēn",
+     "tone": 1
+    },
+    {
+     "text": "钟",
+     "reading": "zhōng",
+     "tone": 1
+    },
+    {
+     "text": "吧",
+     "reading": "ba",
+     "tone": 0
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "不",
+     "reading": "bú",
+     "tone": 2
+    },
+    {
+     "text": "太",
+     "reading": "tài",
+     "tone": 4
+    },
+    {
+     "text": "远",
+     "reading": "yuǎn",
+     "tone": 3
+    },
+    {
+     "text": "。",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Khoảng mười phút, không xa lắm.",
+   "start_ms": 19689,
+   "end_ms": 21914,
+   "words": [
+    {
+     "text": "大概",
+     "start_ms": 19689,
+     "end_ms": 20037
+    },
+    {
+     "text": "十分钟",
+     "start_ms": 20028,
+     "end_ms": 20634
+    },
+    {
+     "text": "吧",
+     "start_ms": 20634,
+     "end_ms": 20892
+    },
+    {
+     "text": "不",
+     "start_ms": 21124,
+     "end_ms": 21240
+    },
+    {
+     "text": "太",
+     "start_ms": 21240,
+     "end_ms": 21485
+    },
+    {
+     "text": "远",
+     "start_ms": 21484,
+     "end_ms": 21832
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "en",
+    "text": "About ten minutes. It's not too far.",
+    "reading": null
+   }
+  },
+  {
+   "id": "b01.08",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "太好了，谢谢你！",
+   "tokens": [
+    {
+     "text": "太",
+     "reading": "tài",
+     "tone": 4
+    },
+    {
+     "text": "好",
+     "reading": "hǎo",
+     "tone": 3
+    },
+    {
+     "text": "了",
+     "reading": "le",
+     "tone": 0
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "谢",
+     "reading": "xiè",
+     "tone": 4
+    },
+    {
+     "text": "谢",
+     "reading": "xie",
+     "tone": 0
+    },
+    {
+     "text": "你",
+     "reading": "nǐ",
+     "tone": 3
+    },
+    {
+     "text": "！",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Tốt quá, cảm ơn bạn!",
+   "start_ms": 22264,
+   "end_ms": 23558,
+   "words": [
+    {
+     "text": "太",
+     "start_ms": 22264,
+     "end_ms": 22466
+    },
+    {
+     "text": "好",
+     "start_ms": 22410,
+     "end_ms": 22524
+    },
+    {
+     "text": "了",
+     "start_ms": 22523,
+     "end_ms": 22738
+    },
+    {
+     "text": "谢谢",
+     "start_ms": 22990,
+     "end_ms": 23280
+    },
+    {
+     "text": "你",
+     "start_ms": 23281,
+     "end_ms": 23508
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "en",
+    "text": "Great, thank you so much!",
+    "reading": null
+   }
+  },
+  {
+   "id": "b01.09",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "不用谢，路上小心。",
+   "tokens": [
+    {
+     "text": "不",
+     "reading": "bú",
+     "tone": 2
+    },
+    {
+     "text": "用",
+     "reading": "yòng",
+     "tone": 4
+    },
+    {
+     "text": "谢",
+     "reading": "xiè",
+     "tone": 4
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "路",
+     "reading": "lù",
+     "tone": 4
+    },
+    {
+     "text": "上",
+     "reading": "shàng",
+     "tone": 4
+    },
+    {
+     "text": "小",
+     "reading": "xiǎo",
+     "tone": 3
+    },
+    {
+     "text": "心",
+     "reading": "xīn",
+     "tone": 1
+    },
+    {
+     "text": "。",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Không có gì, đi cẩn thận nhé.",
+   "start_ms": 23908,
+   "end_ms": 25777,
+   "words": [
+    {
+     "text": "不用",
+     "start_ms": 23908,
+     "end_ms": 24256
+    },
+    {
+     "text": "谢",
+     "start_ms": 24232,
+     "end_ms": 24541
+    },
+    {
+     "text": "路上",
+     "start_ms": 24851,
+     "end_ms": 25160
+    },
+    {
+     "text": "小心",
+     "start_ms": 25173,
+     "end_ms": 25688
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "en",
+    "text": "No problem. Take care.",
+    "reading": null
+   }
+  },
+  {
+   "id": "b02.00",
+   "section": "b02",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "不好意思，请问地铁站怎么走？",
+   "tokens": [
+    {
+     "text": "不",
+     "reading": "bù",
+     "tone": 4
+    },
+    {
+     "text": "好",
+     "reading": "hǎo",
+     "tone": 3
+    },
+    {
+     "text": "意",
+     "reading": "yì",
+     "tone": 4
+    },
+    {
+     "text": "思",
+     "reading": "si",
+     "tone": 0
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "请",
+     "reading": "qǐng",
+     "tone": 3
+    },
+    {
+     "text": "问",
+     "reading": "wèn",
+     "tone": 4
+    },
+    {
+     "text": "地",
+     "reading": "dì",
+     "tone": 4
+    },
+    {
+     "text": "铁",
+     "reading": "tiě",
+     "tone": 3
+    },
+    {
+     "text": "站",
+     "reading": "zhàn",
+     "tone": 4
+    },
+    {
+     "text": "怎",
+     "reading": "zěn",
+     "tone": 3
+    },
+    {
+     "text": "么",
+     "reading": "me",
+     "tone": 0
+    },
+    {
+     "text": "走",
+     "reading": "zǒu",
+     "tone": 3
+    },
+    {
+     "text": "？",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Xin lỗi, cho hỏi ga tàu điện ngầm đi thế nào?",
+   "start_ms": 26677,
+   "end_ms": 29643,
+   "words": [
+    {
+     "text": "不好意思",
+     "start_ms": 26677,
+     "end_ms": 27542
+    },
+    {
+     "text": "请问",
+     "start_ms": 27947,
+     "end_ms": 28396
+    },
+    {
+     "text": "地铁站",
+     "start_ms": 28428,
+     "end_ms": 29037
+    },
+    {
+     "text": "怎么",
+     "start_ms": 29069,
+     "end_ms": 29293
+    },
+    {
+     "text": "走",
+     "start_ms": 29293,
+     "end_ms": 29643
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": true,
+   "pause_after_ms": 2000,
+   "targets": [
+    "怎么走"
+   ],
+   "parallel": {
+    "lang": "en",
+    "text": "Excuse me, how do I get to the subway station?",
+    "reading": null
+   }
+  },
+  {
+   "id": "b02.01",
+   "section": "b02",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "你一直往前走，到第二个路口往左拐。",
+   "tokens": [
+    {
+     "text": "你",
+     "reading": "nǐ",
+     "tone": 3
+    },
+    {
+     "text": "一",
+     "reading": "yì",
+     "tone": 4
+    },
+    {
+     "text": "直",
+     "reading": "zhí",
+     "tone": 2
+    },
+    {
+     "text": "往",
+     "reading": "wǎng",
+     "tone": 3
+    },
+    {
+     "text": "前",
+     "reading": "qián",
+     "tone": 2
+    },
+    {
+     "text": "走",
+     "reading": "zǒu",
+     "tone": 3
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "到",
+     "reading": "dào",
+     "tone": 4
+    },
+    {
+     "text": "第",
+     "reading": "dì",
+     "tone": 4
+    },
+    {
+     "text": "二",
+     "reading": "èr",
+     "tone": 4
+    },
+    {
+     "text": "个",
+     "reading": "gè",
+     "tone": 4
+    },
+    {
+     "text": "路",
+     "reading": "lù",
+     "tone": 4
+    },
+    {
+     "text": "口",
+     "reading": "kǒu",
+     "tone": 3
+    },
+    {
+     "text": "往",
+     "reading": "wǎng",
+     "tone": 3
+    },
+    {
+     "text": "左",
+     "reading": "zuǒ",
+     "tone": 3
+    },
+    {
+     "text": "拐",
+     "reading": "guǎi",
+     "tone": 3
+    },
+    {
+     "text": "。",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Bạn cứ đi thẳng, đến ngã tư thứ hai thì rẽ trái.",
+   "start_ms": 31993,
+   "end_ms": 35787,
+   "words": [
+    {
+     "text": "你",
+     "start_ms": 31993,
+     "end_ms": 32153
+    },
+    {
+     "text": "一直往前走",
+     "start_ms": 32141,
+     "end_ms": 33423
+    },
+    {
+     "text": "到",
+     "start_ms": 33728,
+     "end_ms": 33920
+    },
+    {
+     "text": "第二个",
+     "start_ms": 33936,
+     "end_ms": 34385
+    },
+    {
+     "text": "路口",
+     "start_ms": 34401,
+     "end_ms": 34818
+    },
+    {
+     "text": "往",
+     "start_ms": 34850,
+     "end_ms": 35090
+    },
+    {
+     "text": "左",
+     "start_ms": 35090,
+     "end_ms": 35346
+    },
+    {
+     "text": "拐",
+     "start_ms": 35347,
+     "end_ms": 35716
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": true,
+   "pause_after_ms": 2000,
+   "targets": [
+    "往左拐"
+   ],
+   "parallel": {
+    "lang": "en",
+    "text": "Go straight ahead and turn left at the second intersection.",
+    "reading": null
+   }
+  }
+ ],
+ "vocab": [
+  {
+   "text": "路口",
+   "reading": "lù kǒu",
+   "l1": "ngã tư, giao lộ",
+   "level": 1,
+   "cognate": null
+  },
+  {
+   "text": "拐",
+   "reading": "guǎi",
+   "l1": "rẽ",
+   "level": 6,
+   "cognate": null
+  },
+  {
+   "text": "对面",
+   "reading": "duì miàn",
+   "l1": "đối diện",
+   "level": 2,
+   "cognate": null
+  }
+ ],
+ "cognate_reveal": null,
+ "errata": [],
+ "attribution": [
+  "pypinyin (MIT)",
+  "jieba (MIT)"
+ ],
+ "disclosure": {
+  "synthetic_voice": true
+ }
+}

@@ -1,0 +1,1687 @@
+{
+ "schema": "episode/1",
+ "id": "doi-song-05-zh",
+ "pair": "doi-song-05",
+ "lang": {
+  "target": "zh-Hans",
+  "l1": "vi"
+ },
+ "level": {
+  "scheme": "HSK3.0",
+  "label": "HSK 3"
+ },
+ "title": {
+  "target": "去医院看病",
+  "l1": "Đi khám bệnh"
+ },
+ "series": {
+  "id": "doi-song-zh",
+  "name": "Đời sống",
+  "order": 5
+ },
+ "flags": [],
+ "audio": {
+  "mix": "audio/mix.m4a",
+  "duration_ms": 40512
+ },
+ "speakers": {
+  "A": {
+   "name": "医生",
+   "l1_name": "bác sĩ"
+  },
+  "B": {
+   "name": "阿南",
+   "l1_name": "Nam"
+  }
+ },
+ "sections": [
+  {
+   "id": "b01",
+   "type": "dialogue",
+   "label": "Hội thoại",
+   "start_ms": 300
+  },
+  {
+   "id": "b02",
+   "type": "recap_slow",
+   "label": "Nhắc lại chậm",
+   "start_ms": 30568
+  }
+ ],
+ "lines": [
+  {
+   "id": "b01.00",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "你好，哪里不舒服？",
+   "tokens": [
+    {
+     "text": "你",
+     "reading": "nǐ",
+     "tone": 3
+    },
+    {
+     "text": "好",
+     "reading": "hǎo",
+     "tone": 3
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "哪",
+     "reading": "nǎ",
+     "tone": 3
+    },
+    {
+     "text": "里",
+     "reading": "lǐ",
+     "tone": 3
+    },
+    {
+     "text": "不",
+     "reading": "bù",
+     "tone": 4
+    },
+    {
+     "text": "舒",
+     "reading": "shū",
+     "tone": 1
+    },
+    {
+     "text": "服",
+     "reading": "fu",
+     "tone": 0
+    },
+    {
+     "text": "？",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Chào anh, anh thấy khó chịu ở đâu?",
+   "start_ms": 300,
+   "end_ms": 2015,
+   "words": [
+    {
+     "text": "你好",
+     "start_ms": 300,
+     "end_ms": 777
+    },
+    {
+     "text": "哪里",
+     "start_ms": 1022,
+     "end_ms": 1306
+    },
+    {
+     "text": "不",
+     "start_ms": 1318,
+     "end_ms": 1421
+    },
+    {
+     "text": "舒服",
+     "start_ms": 1422,
+     "end_ms": 1937
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "en",
+    "text": "Hello, what seems to be the problem?",
+    "reading": null
+   }
+  },
+  {
+   "id": "b01.01",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "我从昨天晚上开始头疼，还有点发烧。",
+   "tokens": [
+    {
+     "text": "我",
+     "reading": "wǒ",
+     "tone": 3
+    },
+    {
+     "text": "从",
+     "reading": "cóng",
+     "tone": 2
+    },
+    {
+     "text": "昨",
+     "reading": "zuó",
+     "tone": 2
+    },
+    {
+     "text": "天",
+     "reading": "tiān",
+     "tone": 1
+    },
+    {
+     "text": "晚",
+     "reading": "wǎn",
+     "tone": 3
+    },
+    {
+     "text": "上",
+     "reading": "shang",
+     "tone": 0
+    },
+    {
+     "text": "开",
+     "reading": "kāi",
+     "tone": 1
+    },
+    {
+     "text": "始",
+     "reading": "shǐ",
+     "tone": 3
+    },
+    {
+     "text": "头",
+     "reading": "tóu",
+     "tone": 2
+    },
+    {
+     "text": "疼",
+     "reading": "téng",
+     "tone": 2
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "还",
+     "reading": "hái",
+     "tone": 2
+    },
+    {
+     "text": "有",
+     "reading": "yǒu",
+     "tone": 3
+    },
+    {
+     "text": "点",
+     "reading": "diǎn",
+     "tone": 3
+    },
+    {
+     "text": "发",
+     "reading": "fā",
+     "tone": 1
+    },
+    {
+     "text": "烧",
+     "reading": "shāo",
+     "tone": 1
+    },
+    {
+     "text": "。",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Từ tối qua tôi bắt đầu đau đầu, còn hơi sốt.",
+   "start_ms": 2365,
+   "end_ms": 5210,
+   "words": [
+    {
+     "text": "我",
+     "start_ms": 2365,
+     "end_ms": 2529
+    },
+    {
+     "text": "从",
+     "start_ms": 2464,
+     "end_ms": 2628
+    },
+    {
+     "text": "昨天",
+     "start_ms": 2653,
+     "end_ms": 2893
+    },
+    {
+     "text": "晚上",
+     "start_ms": 2906,
+     "end_ms": 3222
+    },
+    {
+     "text": "开始",
+     "start_ms": 3246,
+     "end_ms": 3461
+    },
+    {
+     "text": "头疼",
+     "start_ms": 3474,
+     "end_ms": 3954
+    },
+    {
+     "text": "还",
+     "start_ms": 4282,
+     "end_ms": 4446
+    },
+    {
+     "text": "有点",
+     "start_ms": 4446,
+     "end_ms": 4648
+    },
+    {
+     "text": "发烧",
+     "start_ms": 4661,
+     "end_ms": 5128
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [
+    "头疼",
+    "发烧"
+   ],
+   "parallel": {
+    "lang": "en",
+    "text": "I've had a headache since last night, and a bit of a fever.",
+    "reading": null
+   }
+  },
+  {
+   "id": "b01.02",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "咳嗽吗？嗓子疼不疼？",
+   "tokens": [
+    {
+     "text": "咳",
+     "reading": "ké",
+     "tone": 2
+    },
+    {
+     "text": "嗽",
+     "reading": "sou",
+     "tone": 0
+    },
+    {
+     "text": "吗",
+     "reading": "ma",
+     "tone": 0
+    },
+    {
+     "text": "？",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "嗓",
+     "reading": "sǎng",
+     "tone": 3
+    },
+    {
+     "text": "子",
+     "reading": "zi",
+     "tone": 0
+    },
+    {
+     "text": "疼",
+     "reading": "téng",
+     "tone": 2
+    },
+    {
+     "text": "不",
+     "reading": "bù",
+     "tone": 4
+    },
+    {
+     "text": "疼",
+     "reading": "téng",
+     "tone": 2
+    },
+    {
+     "text": "？",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Có ho không? Họng có đau không?",
+   "start_ms": 5560,
+   "end_ms": 8096,
+   "words": [
+    {
+     "text": "咳嗽",
+     "start_ms": 5560,
+     "end_ms": 6024
+    },
+    {
+     "text": "吗",
+     "start_ms": 5987,
+     "end_ms": 6283
+    },
+    {
+     "text": "嗓子",
+     "start_ms": 6865,
+     "end_ms": 7290
+    },
+    {
+     "text": "疼",
+     "start_ms": 7303,
+     "end_ms": 7509
+    },
+    {
+     "text": "不",
+     "start_ms": 7522,
+     "end_ms": 7625
+    },
+    {
+     "text": "疼",
+     "start_ms": 7626,
+     "end_ms": 8013
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "en",
+    "text": "Are you coughing? Does your throat hurt?",
+    "reading": null
+   }
+  },
+  {
+   "id": "b01.03",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "有一点咳嗽，嗓子也很疼。",
+   "tokens": [
+    {
+     "text": "有",
+     "reading": "yǒu",
+     "tone": 3
+    },
+    {
+     "text": "一",
+     "reading": "yì",
+     "tone": 4
+    },
+    {
+     "text": "点",
+     "reading": "diǎn",
+     "tone": 3
+    },
+    {
+     "text": "咳",
+     "reading": "ké",
+     "tone": 2
+    },
+    {
+     "text": "嗽",
+     "reading": "sou",
+     "tone": 0
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "嗓",
+     "reading": "sǎng",
+     "tone": 3
+    },
+    {
+     "text": "子",
+     "reading": "zi",
+     "tone": 0
+    },
+    {
+     "text": "也",
+     "reading": "yě",
+     "tone": 3
+    },
+    {
+     "text": "很",
+     "reading": "hěn",
+     "tone": 3
+    },
+    {
+     "text": "疼",
+     "reading": "téng",
+     "tone": 2
+    },
+    {
+     "text": "。",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Hơi ho một chút, họng cũng đau lắm.",
+   "start_ms": 8446,
+   "end_ms": 10578,
+   "words": [
+    {
+     "text": "有",
+     "start_ms": 8446,
+     "end_ms": 8610
+    },
+    {
+     "text": "一点",
+     "start_ms": 8544,
+     "end_ms": 8746
+    },
+    {
+     "text": "咳嗽",
+     "start_ms": 8759,
+     "end_ms": 9340
+    },
+    {
+     "text": "嗓子",
+     "start_ms": 9617,
+     "end_ms": 10008
+    },
+    {
+     "text": "也",
+     "start_ms": 10022,
+     "end_ms": 10098
+    },
+    {
+     "text": "很",
+     "start_ms": 10110,
+     "end_ms": 10236
+    },
+    {
+     "text": "疼",
+     "start_ms": 10236,
+     "end_ms": 10526
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "en",
+    "text": "I have a slight cough, and my throat really hurts.",
+    "reading": null
+   }
+  },
+  {
+   "id": "b01.04",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "我先给你检查一下，请张开嘴。",
+   "tokens": [
+    {
+     "text": "我",
+     "reading": "wǒ",
+     "tone": 3
+    },
+    {
+     "text": "先",
+     "reading": "xiān",
+     "tone": 1
+    },
+    {
+     "text": "给",
+     "reading": "gěi",
+     "tone": 3
+    },
+    {
+     "text": "你",
+     "reading": "nǐ",
+     "tone": 3
+    },
+    {
+     "text": "检",
+     "reading": "jiǎn",
+     "tone": 3
+    },
+    {
+     "text": "查",
+     "reading": "chá",
+     "tone": 2
+    },
+    {
+     "text": "一",
+     "reading": "yí",
+     "tone": 2
+    },
+    {
+     "text": "下",
+     "reading": "xià",
+     "tone": 4
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "请",
+     "reading": "qǐng",
+     "tone": 3
+    },
+    {
+     "text": "张",
+     "reading": "zhāng",
+     "tone": 1
+    },
+    {
+     "text": "开",
+     "reading": "kāi",
+     "tone": 1
+    },
+    {
+     "text": "嘴",
+     "reading": "zuǐ",
+     "tone": 3
+    },
+    {
+     "text": "。",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Để tôi khám trước, anh há miệng ra nhé.",
+   "start_ms": 10928,
+   "end_ms": 13598,
+   "words": [
+    {
+     "text": "我",
+     "start_ms": 10928,
+     "end_ms": 11057
+    },
+    {
+     "text": "先",
+     "start_ms": 11018,
+     "end_ms": 11224
+    },
+    {
+     "text": "给",
+     "start_ms": 11238,
+     "end_ms": 11367
+    },
+    {
+     "text": "你",
+     "start_ms": 11366,
+     "end_ms": 11495
+    },
+    {
+     "text": "检查",
+     "start_ms": 11521,
+     "end_ms": 11959
+    },
+    {
+     "text": "一下",
+     "start_ms": 11972,
+     "end_ms": 12359
+    },
+    {
+     "text": "请",
+     "start_ms": 12603,
+     "end_ms": 12796
+    },
+    {
+     "text": "张",
+     "start_ms": 12810,
+     "end_ms": 12978
+    },
+    {
+     "text": "开嘴",
+     "start_ms": 12977,
+     "end_ms": 13531
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "en",
+    "text": "Let me take a look. Open your mouth, please.",
+    "reading": null
+   }
+  },
+  {
+   "id": "b01.05",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "你是感冒了，不太严重。",
+   "tokens": [
+    {
+     "text": "你",
+     "reading": "nǐ",
+     "tone": 3
+    },
+    {
+     "text": "是",
+     "reading": "shì",
+     "tone": 4
+    },
+    {
+     "text": "感",
+     "reading": "gǎn",
+     "tone": 3
+    },
+    {
+     "text": "冒",
+     "reading": "mào",
+     "tone": 4
+    },
+    {
+     "text": "了",
+     "reading": "le",
+     "tone": 0
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "不",
+     "reading": "bú",
+     "tone": 2
+    },
+    {
+     "text": "太",
+     "reading": "tài",
+     "tone": 4
+    },
+    {
+     "text": "严",
+     "reading": "yán",
+     "tone": 2
+    },
+    {
+     "text": "重",
+     "reading": "zhòng",
+     "tone": 4
+    },
+    {
+     "text": "。",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Anh bị cảm rồi, không nghiêm trọng lắm.",
+   "start_ms": 13948,
+   "end_ms": 16052,
+   "words": [
+    {
+     "text": "你",
+     "start_ms": 13948,
+     "end_ms": 14090
+    },
+    {
+     "text": "是",
+     "start_ms": 14071,
+     "end_ms": 14187
+    },
+    {
+     "text": "感冒",
+     "start_ms": 14200,
+     "end_ms": 14690
+    },
+    {
+     "text": "了",
+     "start_ms": 14690,
+     "end_ms": 14909
+    },
+    {
+     "text": "不",
+     "start_ms": 15154,
+     "end_ms": 15270
+    },
+    {
+     "text": "太",
+     "start_ms": 15270,
+     "end_ms": 15438
+    },
+    {
+     "text": "严重",
+     "start_ms": 15450,
+     "end_ms": 15965
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "en",
+    "text": "You've caught a cold. It's not too serious.",
+    "reading": null
+   }
+  },
+  {
+   "id": "b01.06",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "需要打针吗？",
+   "tokens": [
+    {
+     "text": "需",
+     "reading": "xū",
+     "tone": 1
+    },
+    {
+     "text": "要",
+     "reading": "yào",
+     "tone": 4
+    },
+    {
+     "text": "打",
+     "reading": "dǎ",
+     "tone": 3
+    },
+    {
+     "text": "针",
+     "reading": "zhēn",
+     "tone": 1
+    },
+    {
+     "text": "吗",
+     "reading": "ma",
+     "tone": 0
+    },
+    {
+     "text": "？",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Có cần tiêm không ạ?",
+   "start_ms": 16402,
+   "end_ms": 17245,
+   "words": [
+    {
+     "text": "需要",
+     "start_ms": 16402,
+     "end_ms": 16743
+    },
+    {
+     "text": "打针",
+     "start_ms": 16658,
+     "end_ms": 16948
+    },
+    {
+     "text": "吗",
+     "start_ms": 16948,
+     "end_ms": 17245
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "en",
+    "text": "Do I need a shot?",
+    "reading": null
+   }
+  },
+  {
+   "id": "b01.07",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "不用，吃点药，多喝水，好好休息。",
+   "tokens": [
+    {
+     "text": "不",
+     "reading": "bú",
+     "tone": 2
+    },
+    {
+     "text": "用",
+     "reading": "yòng",
+     "tone": 4
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "吃",
+     "reading": "chī",
+     "tone": 1
+    },
+    {
+     "text": "点",
+     "reading": "diǎn",
+     "tone": 3
+    },
+    {
+     "text": "药",
+     "reading": "yào",
+     "tone": 4
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "多",
+     "reading": "duō",
+     "tone": 1
+    },
+    {
+     "text": "喝",
+     "reading": "hē",
+     "tone": 1
+    },
+    {
+     "text": "水",
+     "reading": "shuǐ",
+     "tone": 3
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "好",
+     "reading": "hǎo",
+     "tone": 3
+    },
+    {
+     "text": "好",
+     "reading": "hǎo",
+     "tone": 3
+    },
+    {
+     "text": "休",
+     "reading": "xiū",
+     "tone": 1
+    },
+    {
+     "text": "息",
+     "reading": "xi",
+     "tone": 0
+    },
+    {
+     "text": "。",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Không cần, uống chút thuốc, uống nhiều nước, nghỉ ngơi cho tốt.",
+   "start_ms": 17595,
+   "end_ms": 20981,
+   "words": [
+    {
+     "text": "不用",
+     "start_ms": 17595,
+     "end_ms": 18033
+    },
+    {
+     "text": "吃",
+     "start_ms": 18218,
+     "end_ms": 18398
+    },
+    {
+     "text": "点",
+     "start_ms": 18398,
+     "end_ms": 18604
+    },
+    {
+     "text": "药",
+     "start_ms": 18604,
+     "end_ms": 18875
+    },
+    {
+     "text": "多",
+     "start_ms": 19120,
+     "end_ms": 19288
+    },
+    {
+     "text": "喝水",
+     "start_ms": 19287,
+     "end_ms": 19841
+    },
+    {
+     "text": "好好",
+     "start_ms": 20086,
+     "end_ms": 20370
+    },
+    {
+     "text": "休息",
+     "start_ms": 20383,
+     "end_ms": 20886
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "en",
+    "text": "No, just take some medicine, drink plenty of water, and get some rest.",
+    "reading": null
+   }
+  },
+  {
+   "id": "b01.08",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "这个药一天吃几次？",
+   "tokens": [
+    {
+     "text": "这",
+     "reading": "zhè",
+     "tone": 4
+    },
+    {
+     "text": "个",
+     "reading": "ge",
+     "tone": 0
+    },
+    {
+     "text": "药",
+     "reading": "yào",
+     "tone": 4
+    },
+    {
+     "text": "一",
+     "reading": "yì",
+     "tone": 4
+    },
+    {
+     "text": "天",
+     "reading": "tiān",
+     "tone": 1
+    },
+    {
+     "text": "吃",
+     "reading": "chī",
+     "tone": 1
+    },
+    {
+     "text": "几",
+     "reading": "jǐ",
+     "tone": 3
+    },
+    {
+     "text": "次",
+     "reading": "cì",
+     "tone": 4
+    },
+    {
+     "text": "？",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Thuốc này một ngày uống mấy lần ạ?",
+   "start_ms": 21331,
+   "end_ms": 22492,
+   "words": [
+    {
+     "text": "这个",
+     "start_ms": 21331,
+     "end_ms": 21647
+    },
+    {
+     "text": "药",
+     "start_ms": 21576,
+     "end_ms": 21664
+    },
+    {
+     "text": "一天",
+     "start_ms": 21664,
+     "end_ms": 21879
+    },
+    {
+     "text": "吃",
+     "start_ms": 21891,
+     "end_ms": 22043
+    },
+    {
+     "text": "几",
+     "start_ms": 22043,
+     "end_ms": 22169
+    },
+    {
+     "text": "次",
+     "start_ms": 22169,
+     "end_ms": 22492
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [
+    "几次"
+   ],
+   "parallel": {
+    "lang": "en",
+    "text": "How many times a day should I take this medicine?",
+    "reading": null
+   }
+  },
+  {
+   "id": "b01.09",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "一天三次，饭后吃。如果三天还不好，再来找我。",
+   "tokens": [
+    {
+     "text": "一",
+     "reading": "yì",
+     "tone": 4
+    },
+    {
+     "text": "天",
+     "reading": "tiān",
+     "tone": 1
+    },
+    {
+     "text": "三",
+     "reading": "sān",
+     "tone": 1
+    },
+    {
+     "text": "次",
+     "reading": "cì",
+     "tone": 4
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "饭",
+     "reading": "fàn",
+     "tone": 4
+    },
+    {
+     "text": "后",
+     "reading": "hòu",
+     "tone": 4
+    },
+    {
+     "text": "吃",
+     "reading": "chī",
+     "tone": 1
+    },
+    {
+     "text": "。",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "如",
+     "reading": "rú",
+     "tone": 2
+    },
+    {
+     "text": "果",
+     "reading": "guǒ",
+     "tone": 3
+    },
+    {
+     "text": "三",
+     "reading": "sān",
+     "tone": 1
+    },
+    {
+     "text": "天",
+     "reading": "tiān",
+     "tone": 1
+    },
+    {
+     "text": "还",
+     "reading": "hái",
+     "tone": 2
+    },
+    {
+     "text": "不",
+     "reading": "bù",
+     "tone": 4
+    },
+    {
+     "text": "好",
+     "reading": "hǎo",
+     "tone": 3
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "再",
+     "reading": "zài",
+     "tone": 4
+    },
+    {
+     "text": "来",
+     "reading": "lái",
+     "tone": 2
+    },
+    {
+     "text": "找",
+     "reading": "zhǎo",
+     "tone": 3
+    },
+    {
+     "text": "我",
+     "reading": "wǒ",
+     "tone": 3
+    },
+    {
+     "text": "。",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Một ngày ba lần, uống sau bữa ăn. Nếu ba ngày vẫn chưa khỏi thì quay lại gặp tôi.",
+   "start_ms": 22842,
+   "end_ms": 27760,
+   "words": [
+    {
+     "text": "一天",
+     "start_ms": 22842,
+     "end_ms": 23190
+    },
+    {
+     "text": "三",
+     "start_ms": 23170,
+     "end_ms": 23441
+    },
+    {
+     "text": "次",
+     "start_ms": 23441,
+     "end_ms": 23737
+    },
+    {
+     "text": "饭后",
+     "start_ms": 24021,
+     "end_ms": 24408
+    },
+    {
+     "text": "吃",
+     "start_ms": 24408,
+     "end_ms": 24743
+    },
+    {
+     "text": "如果",
+     "start_ms": 25324,
+     "end_ms": 25608
+    },
+    {
+     "text": "三",
+     "start_ms": 25633,
+     "end_ms": 25852
+    },
+    {
+     "text": "天",
+     "start_ms": 25852,
+     "end_ms": 25994
+    },
+    {
+     "text": "还",
+     "start_ms": 26007,
+     "end_ms": 26175
+    },
+    {
+     "text": "不好",
+     "start_ms": 26174,
+     "end_ms": 26638
+    },
+    {
+     "text": "再",
+     "start_ms": 26858,
+     "end_ms": 27000
+    },
+    {
+     "text": "来",
+     "start_ms": 26999,
+     "end_ms": 27128
+    },
+    {
+     "text": "找",
+     "start_ms": 27141,
+     "end_ms": 27425
+    },
+    {
+     "text": "我",
+     "start_ms": 27424,
+     "end_ms": 27695
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "en",
+    "text": "Three times a day, after meals. If you're not better in three days, come back and see me.",
+    "reading": null
+   }
+  },
+  {
+   "id": "b01.10",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "好的，谢谢医生。",
+   "tokens": [
+    {
+     "text": "好",
+     "reading": "hǎo",
+     "tone": 3
+    },
+    {
+     "text": "的",
+     "reading": "de",
+     "tone": 0
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "谢",
+     "reading": "xiè",
+     "tone": 4
+    },
+    {
+     "text": "谢",
+     "reading": "xie",
+     "tone": 0
+    },
+    {
+     "text": "医",
+     "reading": "yī",
+     "tone": 1
+    },
+    {
+     "text": "生",
+     "reading": "shēng",
+     "tone": 1
+    },
+    {
+     "text": "。",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Vâng, cảm ơn bác sĩ.",
+   "start_ms": 28110,
+   "end_ms": 29668,
+   "words": [
+    {
+     "text": "好",
+     "start_ms": 28110,
+     "end_ms": 28312
+    },
+    {
+     "text": "的",
+     "start_ms": 28231,
+     "end_ms": 28509
+    },
+    {
+     "text": "谢谢",
+     "start_ms": 28925,
+     "end_ms": 29228
+    },
+    {
+     "text": "医生",
+     "start_ms": 29241,
+     "end_ms": 29632
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "en",
+    "text": "Okay, thank you, doctor.",
+    "reading": null
+   }
+  },
+  {
+   "id": "b02.00",
+   "section": "b02",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "我从昨天晚上开始头疼，还有点发烧。",
+   "tokens": [
+    {
+     "text": "我",
+     "reading": "wǒ",
+     "tone": 3
+    },
+    {
+     "text": "从",
+     "reading": "cóng",
+     "tone": 2
+    },
+    {
+     "text": "昨",
+     "reading": "zuó",
+     "tone": 2
+    },
+    {
+     "text": "天",
+     "reading": "tiān",
+     "tone": 1
+    },
+    {
+     "text": "晚",
+     "reading": "wǎn",
+     "tone": 3
+    },
+    {
+     "text": "上",
+     "reading": "shang",
+     "tone": 0
+    },
+    {
+     "text": "开",
+     "reading": "kāi",
+     "tone": 1
+    },
+    {
+     "text": "始",
+     "reading": "shǐ",
+     "tone": 3
+    },
+    {
+     "text": "头",
+     "reading": "tóu",
+     "tone": 2
+    },
+    {
+     "text": "疼",
+     "reading": "téng",
+     "tone": 2
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "还",
+     "reading": "hái",
+     "tone": 2
+    },
+    {
+     "text": "有",
+     "reading": "yǒu",
+     "tone": 3
+    },
+    {
+     "text": "点",
+     "reading": "diǎn",
+     "tone": 3
+    },
+    {
+     "text": "发",
+     "reading": "fā",
+     "tone": 1
+    },
+    {
+     "text": "烧",
+     "reading": "shāo",
+     "tone": 1
+    },
+    {
+     "text": "。",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Từ tối qua tôi bắt đầu đau đầu, còn hơi sốt.",
+   "start_ms": 30568,
+   "end_ms": 34142,
+   "words": [
+    {
+     "text": "我",
+     "start_ms": 30568,
+     "end_ms": 30776
+    },
+    {
+     "text": "从",
+     "start_ms": 30676,
+     "end_ms": 30884
+    },
+    {
+     "text": "昨天",
+     "start_ms": 30917,
+     "end_ms": 31221
+    },
+    {
+     "text": "晚上",
+     "start_ms": 31237,
+     "end_ms": 31638
+    },
+    {
+     "text": "开始",
+     "start_ms": 31670,
+     "end_ms": 31942
+    },
+    {
+     "text": "头疼",
+     "start_ms": 31958,
+     "end_ms": 32567
+    },
+    {
+     "text": "还",
+     "start_ms": 32984,
+     "end_ms": 33192
+    },
+    {
+     "text": "有点",
+     "start_ms": 33192,
+     "end_ms": 33448
+    },
+    {
+     "text": "发烧",
+     "start_ms": 33465,
+     "end_ms": 34058
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": true,
+   "pause_after_ms": 2000,
+   "targets": [
+    "头疼",
+    "发烧"
+   ],
+   "parallel": {
+    "lang": "en",
+    "text": "I've had a headache since last night, and a bit of a fever.",
+    "reading": null
+   }
+  },
+  {
+   "id": "b02.01",
+   "section": "b02",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "这个药一天吃几次？",
+   "tokens": [
+    {
+     "text": "这",
+     "reading": "zhè",
+     "tone": 4
+    },
+    {
+     "text": "个",
+     "reading": "ge",
+     "tone": 0
+    },
+    {
+     "text": "药",
+     "reading": "yào",
+     "tone": 4
+    },
+    {
+     "text": "一",
+     "reading": "yì",
+     "tone": 4
+    },
+    {
+     "text": "天",
+     "reading": "tiān",
+     "tone": 1
+    },
+    {
+     "text": "吃",
+     "reading": "chī",
+     "tone": 1
+    },
+    {
+     "text": "几",
+     "reading": "jǐ",
+     "tone": 3
+    },
+    {
+     "text": "次",
+     "reading": "cì",
+     "tone": 4
+    },
+    {
+     "text": "？",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Thuốc này một ngày uống mấy lần ạ?",
+   "start_ms": 36492,
+   "end_ms": 37912,
+   "words": [
+    {
+     "text": "这个",
+     "start_ms": 36492,
+     "end_ms": 36893
+    },
+    {
+     "text": "药",
+     "start_ms": 36781,
+     "end_ms": 36893
+    },
+    {
+     "text": "一天",
+     "start_ms": 36893,
+     "end_ms": 37165
+    },
+    {
+     "text": "吃",
+     "start_ms": 37181,
+     "end_ms": 37373
+    },
+    {
+     "text": "几",
+     "start_ms": 37374,
+     "end_ms": 37534
+    },
+    {
+     "text": "次",
+     "start_ms": 37534,
+     "end_ms": 37912
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": true,
+   "pause_after_ms": 2000,
+   "targets": [
+    "几次"
+   ],
+   "parallel": {
+    "lang": "en",
+    "text": "How many times a day should I take this medicine?",
+    "reading": null
+   }
+  }
+ ],
+ "vocab": [
+  {
+   "text": "发烧",
+   "reading": "fā shāo",
+   "l1": "sốt",
+   "level": 3,
+   "cognate": null
+  },
+  {
+   "text": "咳嗽",
+   "reading": "ké sou",
+   "l1": "ho",
+   "level": 4,
+   "cognate": null
+  },
+  {
+   "text": "感冒",
+   "reading": "gǎn mào",
+   "l1": "cảm",
+   "level": 3,
+   "cognate": null
+  },
+  {
+   "text": "打针",
+   "reading": "dǎ zhēn",
+   "l1": "tiêm",
+   "level": 4,
+   "cognate": null
+  }
+ ],
+ "cognate_reveal": null,
+ "errata": [],
+ "attribution": [
+  "pypinyin (MIT)",
+  "jieba (MIT)"
+ ],
+ "disclosure": {
+  "synthetic_voice": true
+ }
+}

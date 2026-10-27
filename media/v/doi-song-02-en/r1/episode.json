@@ -1,0 +1,1675 @@
+{
+ "schema": "episode/1",
+ "id": "doi-song-02-en",
+ "pair": "doi-song-02",
+ "lang": {
+  "target": "en",
+  "l1": "vi"
+ },
+ "level": {
+  "scheme": "CEFR",
+  "label": "A2"
+ },
+ "title": {
+  "target": "Ordering at a Restaurant",
+  "l1": "Gọi món ở quán ăn"
+ },
+ "series": {
+  "id": "doi-song-en",
+  "name": "Đời sống",
+  "order": 2
+ },
+ "flags": [],
+ "audio": {
+  "mix": "audio/mix.m4a",
+  "duration_ms": 52877
+ },
+ "speakers": {
+  "A": {
+   "name": "Server",
+   "l1_name": "phục vụ"
+  },
+  "B": {
+   "name": "Nam",
+   "l1_name": "Nam"
+  }
+ },
+ "sections": [
+  {
+   "id": "b01",
+   "type": "dialogue",
+   "label": "Hội thoại",
+   "start_ms": 300
+  },
+  {
+   "id": "b02",
+   "type": "recap_slow",
+   "label": "Nhắc lại chậm",
+   "start_ms": 38334
+  }
+ ],
+ "lines": [
+  {
+   "id": "b01.00",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "Welcome! How many in your party?",
+   "tokens": [
+    {
+     "text": "Welcome",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "!",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "How",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "many",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "in",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "your",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "party",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "?",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Xin chào quý khách! Mấy người ạ?",
+   "start_ms": 300,
+   "end_ms": 3238,
+   "words": [
+    {
+     "text": "Welcome",
+     "start_ms": 300,
+     "end_ms": 992
+    },
+    {
+     "text": "How",
+     "start_ms": 1849,
+     "end_ms": 2088
+    },
+    {
+     "text": "many",
+     "start_ms": 2102,
+     "end_ms": 2381
+    },
+    {
+     "text": "in",
+     "start_ms": 2394,
+     "end_ms": 2514
+    },
+    {
+     "text": "your",
+     "start_ms": 2527,
+     "end_ms": 2647
+    },
+    {
+     "text": "party",
+     "start_ms": 2660,
+     "end_ms": 3165
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "欢迎光临！请问几位？",
+    "reading": "huān yíng guāng lín qǐng wèn jǐ wèi"
+   }
+  },
+  {
+   "id": "b01.01",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "Two. Do you have a table by the window?",
+   "tokens": [
+    {
+     "text": "Two",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "Do",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "you",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "have",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "a",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "table",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "by",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "the",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "window",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "?",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Hai người. Có bàn cạnh cửa sổ không?",
+   "start_ms": 3588,
+   "end_ms": 6870,
+   "words": [
+    {
+     "text": "Two",
+     "start_ms": 3588,
+     "end_ms": 4120
+    },
+    {
+     "text": "Do",
+     "start_ms": 5008,
+     "end_ms": 5114
+    },
+    {
+     "text": "you",
+     "start_ms": 5128,
+     "end_ms": 5248
+    },
+    {
+     "text": "have",
+     "start_ms": 5274,
+     "end_ms": 5434
+    },
+    {
+     "text": "a",
+     "start_ms": 5447,
+     "end_ms": 5527
+    },
+    {
+     "text": "table",
+     "start_ms": 5554,
+     "end_ms": 5953
+    },
+    {
+     "text": "by",
+     "start_ms": 5979,
+     "end_ms": 6125
+    },
+    {
+     "text": "the",
+     "start_ms": 6152,
+     "end_ms": 6272
+    },
+    {
+     "text": "window",
+     "start_ms": 6298,
+     "end_ms": 6777
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "两位。有靠窗的位子吗？",
+    "reading": "liǎng wèi yǒu kào chuāng de wèi zi ma"
+   }
+  },
+  {
+   "id": "b01.02",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "Yes, this way, please. Here's the menu.",
+   "tokens": [
+    {
+     "text": "Yes",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ",",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "this",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "way",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ",",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "please",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "Here's",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "the",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "menu",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Có ạ, mời đi lối này. Đây là thực đơn.",
+   "start_ms": 7220,
+   "end_ms": 11079,
+   "words": [
+    {
+     "text": "Yes",
+     "start_ms": 7220,
+     "end_ms": 7739
+    },
+    {
+     "text": "this",
+     "start_ms": 7844,
+     "end_ms": 8057
+    },
+    {
+     "text": "way",
+     "start_ms": 8070,
+     "end_ms": 8363
+    },
+    {
+     "text": "please",
+     "start_ms": 8536,
+     "end_ms": 9094
+    },
+    {
+     "text": "Here's",
+     "start_ms": 10015,
+     "end_ms": 10347
+    },
+    {
+     "text": "the",
+     "start_ms": 10361,
+     "end_ms": 10467
+    },
+    {
+     "text": "menu",
+     "start_ms": 10481,
+     "end_ms": 11000
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "有，这边请。这是菜单。",
+    "reading": "yǒu zhè biān qǐng zhè shì cài dān"
+   }
+  },
+  {
+   "id": "b01.03",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "What's your most popular dish?",
+   "tokens": [
+    {
+     "text": "What's",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "your",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "most",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "popular",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "dish",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "?",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Quán mình món gì nổi tiếng nhất?",
+   "start_ms": 11429,
+   "end_ms": 13203,
+   "words": [
+    {
+     "text": "What's",
+     "start_ms": 11429,
+     "end_ms": 11735
+    },
+    {
+     "text": "your",
+     "start_ms": 11697,
+     "end_ms": 11843
+    },
+    {
+     "text": "most",
+     "start_ms": 11869,
+     "end_ms": 12162
+    },
+    {
+     "text": "popular",
+     "start_ms": 12189,
+     "end_ms": 12668
+    },
+    {
+     "text": "dish",
+     "start_ms": 12694,
+     "end_ms": 13133
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "你们店里什么菜最有名？",
+    "reading": "nǐ men diàn lǐ shén me cài zuì yǒu míng"
+   }
+  },
+  {
+   "id": "b01.04",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "Kung Pao chicken and mapo tofu are both very popular.",
+   "tokens": [
+    {
+     "text": "Kung",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "Pao",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "chicken",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "and",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "mapo",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "tofu",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "are",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "both",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "very",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "popular",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Gà Kung Pao và đậu phụ Tứ Xuyên đều được ưa chuộng.",
+   "start_ms": 13553,
+   "end_ms": 17001,
+   "words": [
+    {
+     "text": "Kung",
+     "start_ms": 13553,
+     "end_ms": 13846
+    },
+    {
+     "text": "Pao",
+     "start_ms": 13801,
+     "end_ms": 14014
+    },
+    {
+     "text": "chicken",
+     "start_ms": 14027,
+     "end_ms": 14453
+    },
+    {
+     "text": "and",
+     "start_ms": 14466,
+     "end_ms": 14599
+    },
+    {
+     "text": "mapo",
+     "start_ms": 14612,
+     "end_ms": 14944
+    },
+    {
+     "text": "tofu",
+     "start_ms": 14958,
+     "end_ms": 15463
+    },
+    {
+     "text": "are",
+     "start_ms": 15477,
+     "end_ms": 15676
+    },
+    {
+     "text": "both",
+     "start_ms": 15689,
+     "end_ms": 15942
+    },
+    {
+     "text": "very",
+     "start_ms": 15955,
+     "end_ms": 16248
+    },
+    {
+     "text": "popular",
+     "start_ms": 16261,
+     "end_ms": 16926
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "宫保鸡丁和麻婆豆腐都很受欢迎。",
+    "reading": "gōng bǎo jī dīng hé má pó dòu fu dōu hěn shòu huān yíng"
+   }
+  },
+  {
+   "id": "b01.05",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "Is the mapo tofu spicy? I can't handle much spice.",
+   "tokens": [
+    {
+     "text": "Is",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "the",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "mapo",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "tofu",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "spicy",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "?",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "I",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "can't",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "handle",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "much",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "spice",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Đậu phụ Tứ Xuyên có cay không? Tôi ăn cay kém lắm.",
+   "start_ms": 17351,
+   "end_ms": 21814,
+   "words": [
+    {
+     "text": "Is",
+     "start_ms": 17351,
+     "end_ms": 17577
+    },
+    {
+     "text": "the",
+     "start_ms": 17534,
+     "end_ms": 17627
+    },
+    {
+     "text": "mapo",
+     "start_ms": 17640,
+     "end_ms": 18012
+    },
+    {
+     "text": "tofu",
+     "start_ms": 18026,
+     "end_ms": 18465
+    },
+    {
+     "text": "spicy",
+     "start_ms": 18491,
+     "end_ms": 19103
+    },
+    {
+     "text": "I",
+     "start_ms": 20050,
+     "end_ms": 20223
+    },
+    {
+     "text": "can't",
+     "start_ms": 20236,
+     "end_ms": 20529
+    },
+    {
+     "text": "handle",
+     "start_ms": 20542,
+     "end_ms": 20928
+    },
+    {
+     "text": "much",
+     "start_ms": 20955,
+     "end_ms": 21154
+    },
+    {
+     "text": "spice",
+     "start_ms": 21181,
+     "end_ms": 21753
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [
+    "spice"
+   ],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "麻婆豆腐辣吗？我不太能吃辣。",
+    "reading": "má pó dòu fu là ma wǒ bú tài néng chī là"
+   }
+  },
+  {
+   "id": "b01.06",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "It's a little spicy, but we can make it mild for you.",
+   "tokens": [
+    {
+     "text": "It's",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "a",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "little",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "spicy",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ",",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "but",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "we",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "can",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "make",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "it",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "mild",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "for",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "you",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Hơi cay một chút, quán có thể làm cay nhẹ cho anh.",
+   "start_ms": 22164,
+   "end_ms": 25148,
+   "words": [
+    {
+     "text": "It's",
+     "start_ms": 22164,
+     "end_ms": 22390
+    },
+    {
+     "text": "a",
+     "start_ms": 22350,
+     "end_ms": 22416
+    },
+    {
+     "text": "little",
+     "start_ms": 22429,
+     "end_ms": 22708
+    },
+    {
+     "text": "spicy",
+     "start_ms": 22722,
+     "end_ms": 23280
+    },
+    {
+     "text": "but",
+     "start_ms": 23467,
+     "end_ms": 23613
+    },
+    {
+     "text": "we",
+     "start_ms": 23626,
+     "end_ms": 23746
+    },
+    {
+     "text": "can",
+     "start_ms": 23759,
+     "end_ms": 23905
+    },
+    {
+     "text": "make",
+     "start_ms": 23919,
+     "end_ms": 24132
+    },
+    {
+     "text": "it",
+     "start_ms": 24145,
+     "end_ms": 24225
+    },
+    {
+     "text": "mild",
+     "start_ms": 24238,
+     "end_ms": 24597
+    },
+    {
+     "text": "for",
+     "start_ms": 24610,
+     "end_ms": 24783
+    },
+    {
+     "text": "you",
+     "start_ms": 24796,
+     "end_ms": 25075
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "有一点辣，我们可以给你做微辣的。",
+    "reading": "yǒu yì diǎn là wǒ men kě yǐ gěi nǐ zuò wēi là de"
+   }
+  },
+  {
+   "id": "b01.07",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "Great, then one mild mapo tofu and a bowl of rice, please.",
+   "tokens": [
+    {
+     "text": "Great",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ",",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "then",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "one",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "mild",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "mapo",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "tofu",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "and",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "a",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "bowl",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "of",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "rice",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ",",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "please",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Được, vậy cho một đậu phụ Tứ Xuyên cay nhẹ, thêm một bát cơm.",
+   "start_ms": 25498,
+   "end_ms": 29227,
+   "words": [
+    {
+     "text": "Great",
+     "start_ms": 25498,
+     "end_ms": 25857
+    },
+    {
+     "text": "then",
+     "start_ms": 26032,
+     "end_ms": 26218
+    },
+    {
+     "text": "one",
+     "start_ms": 26244,
+     "end_ms": 26443
+    },
+    {
+     "text": "mild",
+     "start_ms": 26470,
+     "end_ms": 26776
+    },
+    {
+     "text": "mapo",
+     "start_ms": 26803,
+     "end_ms": 27135
+    },
+    {
+     "text": "tofu",
+     "start_ms": 27162,
+     "end_ms": 27588
+    },
+    {
+     "text": "and",
+     "start_ms": 27614,
+     "end_ms": 27720
+    },
+    {
+     "text": "a",
+     "start_ms": 27747,
+     "end_ms": 27813
+    },
+    {
+     "text": "bowl",
+     "start_ms": 27840,
+     "end_ms": 28039
+    },
+    {
+     "text": "of",
+     "start_ms": 28066,
+     "end_ms": 28159
+    },
+    {
+     "text": "rice",
+     "start_ms": 28186,
+     "end_ms": 28558
+    },
+    {
+     "text": "please",
+     "start_ms": 28704,
+     "end_ms": 29156
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [
+    "mild"
+   ],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "好，那就要一个微辣的麻婆豆腐，再来一碗米饭。",
+    "reading": "hǎo nà jiù yào yí gè wēi là de má pó dòu fu zài lái yì wǎn mǐ fàn"
+   }
+  },
+  {
+   "id": "b01.08",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "Anything to drink?",
+   "tokens": [
+    {
+     "text": "Anything",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "to",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "drink",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "?",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Anh có muốn uống gì không?",
+   "start_ms": 29577,
+   "end_ms": 30665,
+   "words": [
+    {
+     "text": "Anything",
+     "start_ms": 29577,
+     "end_ms": 30069
+    },
+    {
+     "text": "to",
+     "start_ms": 30023,
+     "end_ms": 30129
+    },
+    {
+     "text": "drink",
+     "start_ms": 30143,
+     "end_ms": 30648
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "要喝点什么吗？",
+    "reading": "yào hē diǎn shén me ma"
+   }
+  },
+  {
+   "id": "b01.09",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "Just a cup of hot tea, thanks.",
+   "tokens": [
+    {
+     "text": "Just",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "a",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "cup",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "of",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "hot",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "tea",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ",",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "thanks",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Một cốc trà nóng là được, cảm ơn.",
+   "start_ms": 31015,
+   "end_ms": 33100,
+   "words": [
+    {
+     "text": "Just",
+     "start_ms": 31015,
+     "end_ms": 31321
+    },
+    {
+     "text": "a",
+     "start_ms": 31279,
+     "end_ms": 31345
+    },
+    {
+     "text": "cup",
+     "start_ms": 31372,
+     "end_ms": 31585
+    },
+    {
+     "text": "of",
+     "start_ms": 31611,
+     "end_ms": 31717
+    },
+    {
+     "text": "hot",
+     "start_ms": 31744,
+     "end_ms": 31970
+    },
+    {
+     "text": "tea",
+     "start_ms": 31997,
+     "end_ms": 32236
+    },
+    {
+     "text": "thanks",
+     "start_ms": 32475,
+     "end_ms": 33007
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "一杯热茶就好，谢谢。",
+    "reading": "yì bēi rè chá jiù hǎo xiè xie"
+   }
+  },
+  {
+   "id": "b01.10",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "Sure. One moment, your food will be right out.",
+   "tokens": [
+    {
+     "text": "Sure",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "One",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "moment",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ",",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "your",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "food",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "will",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "be",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "right",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "out",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Vâng, xin chờ một chút, món sẽ lên ngay.",
+   "start_ms": 33450,
+   "end_ms": 37434,
+   "words": [
+    {
+     "text": "Sure",
+     "start_ms": 33450,
+     "end_ms": 34102
+    },
+    {
+     "text": "One",
+     "start_ms": 34945,
+     "end_ms": 35251
+    },
+    {
+     "text": "moment",
+     "start_ms": 35264,
+     "end_ms": 35716
+    },
+    {
+     "text": "your",
+     "start_ms": 35915,
+     "end_ms": 36088
+    },
+    {
+     "text": "food",
+     "start_ms": 36101,
+     "end_ms": 36420
+    },
+    {
+     "text": "will",
+     "start_ms": 36434,
+     "end_ms": 36554
+    },
+    {
+     "text": "be",
+     "start_ms": 36567,
+     "end_ms": 36713
+    },
+    {
+     "text": "right",
+     "start_ms": 36726,
+     "end_ms": 36952
+    },
+    {
+     "text": "out",
+     "start_ms": 36966,
+     "end_ms": 37392
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "好的，请稍等，菜马上就来。",
+    "reading": "hǎo de qǐng shāo děng cài mǎ shàng jiù lái"
+   }
+  },
+  {
+   "id": "b02.00",
+   "section": "b02",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "Is the mapo tofu spicy? I can't handle much spice.",
+   "tokens": [
+    {
+     "text": "Is",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "the",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "mapo",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "tofu",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "spicy",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "?",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "I",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "can't",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "handle",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "much",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "spice",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Đậu phụ Tứ Xuyên có cay không? Tôi ăn cay kém lắm.",
+   "start_ms": 38334,
+   "end_ms": 43566,
+   "words": [
+    {
+     "text": "Is",
+     "start_ms": 38334,
+     "end_ms": 38600
+    },
+    {
+     "text": "the",
+     "start_ms": 38547,
+     "end_ms": 38656
+    },
+    {
+     "text": "mapo",
+     "start_ms": 38672,
+     "end_ms": 39110
+    },
+    {
+     "text": "tofu",
+     "start_ms": 39126,
+     "end_ms": 39642
+    },
+    {
+     "text": "spicy",
+     "start_ms": 39672,
+     "end_ms": 40391
+    },
+    {
+     "text": "I",
+     "start_ms": 41513,
+     "end_ms": 41716
+    },
+    {
+     "text": "can't",
+     "start_ms": 41732,
+     "end_ms": 42076
+    },
+    {
+     "text": "handle",
+     "start_ms": 42091,
+     "end_ms": 42544
+    },
+    {
+     "text": "much",
+     "start_ms": 42576,
+     "end_ms": 42810
+    },
+    {
+     "text": "spice",
+     "start_ms": 42841,
+     "end_ms": 43513
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": true,
+   "pause_after_ms": 2000,
+   "targets": [
+    "spice"
+   ],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "麻婆豆腐辣吗？我不太能吃辣。",
+    "reading": "má pó dòu fu là ma wǒ bú tài néng chī là"
+   }
+  },
+  {
+   "id": "b02.01",
+   "section": "b02",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "Great, then one mild mapo tofu and a bowl of rice, please.",
+   "tokens": [
+    {
+     "text": "Great",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ",",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "then",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "one",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "mild",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "mapo",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "tofu",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "and",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "a",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "bowl",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "of",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "rice",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ",",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "please",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Được, vậy cho một đậu phụ Tứ Xuyên cay nhẹ, thêm một bát cơm.",
+   "start_ms": 45916,
+   "end_ms": 50277,
+   "words": [
+    {
+     "text": "Great",
+     "start_ms": 45916,
+     "end_ms": 46338
+    },
+    {
+     "text": "then",
+     "start_ms": 46532,
+     "end_ms": 46751
+    },
+    {
+     "text": "one",
+     "start_ms": 46782,
+     "end_ms": 47016
+    },
+    {
+     "text": "mild",
+     "start_ms": 47047,
+     "end_ms": 47406
+    },
+    {
+     "text": "mapo",
+     "start_ms": 47438,
+     "end_ms": 47829
+    },
+    {
+     "text": "tofu",
+     "start_ms": 47860,
+     "end_ms": 48360
+    },
+    {
+     "text": "and",
+     "start_ms": 48391,
+     "end_ms": 48516
+    },
+    {
+     "text": "a",
+     "start_ms": 48547,
+     "end_ms": 48625
+    },
+    {
+     "text": "bowl",
+     "start_ms": 48657,
+     "end_ms": 48891
+    },
+    {
+     "text": "of",
+     "start_ms": 48922,
+     "end_ms": 49031
+    },
+    {
+     "text": "rice",
+     "start_ms": 49063,
+     "end_ms": 49501
+    },
+    {
+     "text": "please",
+     "start_ms": 49672,
+     "end_ms": 50203
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": true,
+   "pause_after_ms": 2000,
+   "targets": [
+    "mild"
+   ],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "好，那就要一个微辣的麻婆豆腐，再来一碗米饭。",
+    "reading": "hǎo nà jiù yào yí gè wēi là de má pó dòu fu zài lái yì wǎn mǐ fàn"
+   }
+  }
+ ],
+ "vocab": [
+  {
+   "text": "party",
+   "reading": null,
+   "l1": "nhóm khách (ở nhà hàng)",
+   "level": null,
+   "cognate": null
+  },
+  {
+   "text": "mild",
+   "reading": null,
+   "l1": "nhẹ, ít cay",
+   "level": null,
+   "cognate": null
+  },
+  {
+   "text": "right out",
+   "reading": null,
+   "l1": "mang ra ngay",
+   "level": null,
+   "cognate": null
+  }
+ ],
+ "cognate_reveal": null,
+ "errata": [],
+ "attribution": [],
+ "disclosure": {
+  "synthetic_voice": true
+ }
+}

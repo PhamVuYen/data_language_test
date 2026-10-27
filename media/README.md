@@ -31,8 +31,9 @@ Hai hợp đồng `catalog/1` và `feed/1` được mô tả trong `README.md` c
 
 Giới hạn của GitHub: mỗi file dưới 100MB, cả repo nên dưới 1GB.
 
-## Dữ liệu đang có (13/10/2026)
+## Dữ liệu đang có (27/10/2026)
 
+- Series "Đời sống" (`doi-song-zh`, HSK 3 và `doi-song-en`, A2): 10 kịch bản, mỗi kịch bản một bài tiếng Trung và một bài tiếng Anh, `doi-song-01-zh` / `doi-song-01-en` … `doi-song-10-zh` / `doi-song-10-en`. Hai bài cùng `pair` là cùng một kịch bản, cùng id câu, mỗi câu có `parallel` là câu của bài kia. Sinh bằng `./cv bilingual` ở `language_media/media` (kịch bản và hợp đồng ở `language_media/media/bilingual/`); đừng sửa tay `catalog.json` cho các bài này.
 - `vi-260829-test-quy-trinh`: bài mẫu, trùng với bài đóng gói sẵn trong app.
 - `thu-tai-ve-01`: bản sao của bài mẫu với id khác, chỉ để thử luồng tải về. Xoá được.
 - `feed.json`: một mục bài học và một bài đăng mẫu, chỉ để thử mục Tin. Xoá được.

@@ -1,0 +1,1823 @@
+{
+ "schema": "episode/1",
+ "id": "doi-song-04-zh",
+ "pair": "doi-song-04",
+ "lang": {
+  "target": "zh-Hans",
+  "l1": "vi"
+ },
+ "level": {
+  "scheme": "HSK3.0",
+  "label": "HSK 3"
+ },
+ "title": {
+  "target": "坐出租车",
+  "l1": "Đi taxi"
+ },
+ "series": {
+  "id": "doi-song-zh",
+  "name": "Đời sống",
+  "order": 4
+ },
+ "flags": [],
+ "audio": {
+  "mix": "audio/mix.m4a",
+  "duration_ms": 44986
+ },
+ "speakers": {
+  "A": {
+   "name": "司机",
+   "l1_name": "tài xế"
+  },
+  "B": {
+   "name": "阿南",
+   "l1_name": "Nam"
+  }
+ },
+ "sections": [
+  {
+   "id": "b01",
+   "type": "dialogue",
+   "label": "Hội thoại",
+   "start_ms": 300
+  },
+  {
+   "id": "b02",
+   "type": "recap_slow",
+   "label": "Nhắc lại chậm",
+   "start_ms": 31161
+  }
+ ],
+ "lines": [
+  {
+   "id": "b01.00",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "你好，请问去哪里？",
+   "tokens": [
+    {
+     "text": "你",
+     "reading": "nǐ",
+     "tone": 3
+    },
+    {
+     "text": "好",
+     "reading": "hǎo",
+     "tone": 3
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "请",
+     "reading": "qǐng",
+     "tone": 3
+    },
+    {
+     "text": "问",
+     "reading": "wèn",
+     "tone": 4
+    },
+    {
+     "text": "去",
+     "reading": "qù",
+     "tone": 4
+    },
+    {
+     "text": "哪",
+     "reading": "nǎ",
+     "tone": 3
+    },
+    {
+     "text": "里",
+     "reading": "lǐ",
+     "tone": 3
+    },
+    {
+     "text": "？",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Chào anh, anh đi đâu ạ?",
+   "start_ms": 300,
+   "end_ms": 1708,
+   "words": [
+    {
+     "text": "你好",
+     "start_ms": 300,
+     "end_ms": 777
+    },
+    {
+     "text": "请问",
+     "start_ms": 841,
+     "end_ms": 1125
+    },
+    {
+     "text": "去",
+     "start_ms": 1125,
+     "end_ms": 1228
+    },
+    {
+     "text": "哪里",
+     "start_ms": 1241,
+     "end_ms": 1641
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "en",
+    "text": "Hi, where to?",
+    "reading": null
+   }
+  },
+  {
+   "id": "b01.01",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "去北京饭店。麻烦你开快一点，我有点着急。",
+   "tokens": [
+    {
+     "text": "去",
+     "reading": "qù",
+     "tone": 4
+    },
+    {
+     "text": "北",
+     "reading": "běi",
+     "tone": 3
+    },
+    {
+     "text": "京",
+     "reading": "jīng",
+     "tone": 1
+    },
+    {
+     "text": "饭",
+     "reading": "fàn",
+     "tone": 4
+    },
+    {
+     "text": "店",
+     "reading": "diàn",
+     "tone": 4
+    },
+    {
+     "text": "。",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "麻",
+     "reading": "má",
+     "tone": 2
+    },
+    {
+     "text": "烦",
+     "reading": "fan",
+     "tone": 0
+    },
+    {
+     "text": "你",
+     "reading": "nǐ",
+     "tone": 3
+    },
+    {
+     "text": "开",
+     "reading": "kāi",
+     "tone": 1
+    },
+    {
+     "text": "快",
+     "reading": "kuài",
+     "tone": 4
+    },
+    {
+     "text": "一",
+     "reading": "yì",
+     "tone": 4
+    },
+    {
+     "text": "点",
+     "reading": "diǎn",
+     "tone": 3
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "我",
+     "reading": "wǒ",
+     "tone": 3
+    },
+    {
+     "text": "有",
+     "reading": "yǒu",
+     "tone": 3
+    },
+    {
+     "text": "点",
+     "reading": "diǎn",
+     "tone": 3
+    },
+    {
+     "text": "着",
+     "reading": "zháo",
+     "tone": 2
+    },
+    {
+     "text": "急",
+     "reading": "jí",
+     "tone": 2
+    },
+    {
+     "text": "。",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Đến khách sạn Bắc Kinh. Phiền anh đi nhanh một chút, tôi hơi vội.",
+   "start_ms": 2058,
+   "end_ms": 5825,
+   "words": [
+    {
+     "text": "去",
+     "start_ms": 2058,
+     "end_ms": 2361
+    },
+    {
+     "text": "北京",
+     "start_ms": 2220,
+     "end_ms": 2485
+    },
+    {
+     "text": "饭店",
+     "start_ms": 2498,
+     "end_ms": 3003
+    },
+    {
+     "text": "麻烦",
+     "start_ms": 3584,
+     "end_ms": 3887
+    },
+    {
+     "text": "你",
+     "start_ms": 3900,
+     "end_ms": 3976
+    },
+    {
+     "text": "开",
+     "start_ms": 3976,
+     "end_ms": 4115
+    },
+    {
+     "text": "快",
+     "start_ms": 4127,
+     "end_ms": 4253
+    },
+    {
+     "text": "一点",
+     "start_ms": 4254,
+     "end_ms": 4608
+    },
+    {
+     "text": "我",
+     "start_ms": 4986,
+     "end_ms": 5125
+    },
+    {
+     "text": "有点",
+     "start_ms": 5125,
+     "end_ms": 5327
+    },
+    {
+     "text": "着急",
+     "start_ms": 5339,
+     "end_ms": 5781
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [
+    "着急"
+   ],
+   "parallel": {
+    "lang": "en",
+    "text": "The Beijing Hotel, please. Could you hurry a bit? I'm in a rush.",
+    "reading": null
+   }
+  },
+  {
+   "id": "b01.02",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "好的。现在是下班时间，路上车很多。",
+   "tokens": [
+    {
+     "text": "好",
+     "reading": "hǎo",
+     "tone": 3
+    },
+    {
+     "text": "的",
+     "reading": "de",
+     "tone": 0
+    },
+    {
+     "text": "。",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "现",
+     "reading": "xiàn",
+     "tone": 4
+    },
+    {
+     "text": "在",
+     "reading": "zài",
+     "tone": 4
+    },
+    {
+     "text": "是",
+     "reading": "shì",
+     "tone": 4
+    },
+    {
+     "text": "下",
+     "reading": "xià",
+     "tone": 4
+    },
+    {
+     "text": "班",
+     "reading": "bān",
+     "tone": 1
+    },
+    {
+     "text": "时",
+     "reading": "shí",
+     "tone": 2
+    },
+    {
+     "text": "间",
+     "reading": "jiān",
+     "tone": 1
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "路",
+     "reading": "lù",
+     "tone": 4
+    },
+    {
+     "text": "上",
+     "reading": "shàng",
+     "tone": 4
+    },
+    {
+     "text": "车",
+     "reading": "chē",
+     "tone": 1
+    },
+    {
+     "text": "很",
+     "reading": "hěn",
+     "tone": 3
+    },
+    {
+     "text": "多",
+     "reading": "duō",
+     "tone": 1
+    },
+    {
+     "text": "。",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Được. Giờ đang tan tầm, đường đông xe lắm.",
+   "start_ms": 6175,
+   "end_ms": 9722,
+   "words": [
+    {
+     "text": "好",
+     "start_ms": 6175,
+     "end_ms": 6420
+    },
+    {
+     "text": "的",
+     "start_ms": 6316,
+     "end_ms": 6548
+    },
+    {
+     "text": "现在",
+     "start_ms": 7117,
+     "end_ms": 7478
+    },
+    {
+     "text": "是",
+     "start_ms": 7478,
+     "end_ms": 7620
+    },
+    {
+     "text": "下班",
+     "start_ms": 7632,
+     "end_ms": 7993
+    },
+    {
+     "text": "时间",
+     "start_ms": 8006,
+     "end_ms": 8406
+    },
+    {
+     "text": "路",
+     "start_ms": 8534,
+     "end_ms": 8766
+    },
+    {
+     "text": "上车",
+     "start_ms": 8779,
+     "end_ms": 9179
+    },
+    {
+     "text": "很多",
+     "start_ms": 9192,
+     "end_ms": 9656
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "en",
+    "text": "Sure. It's rush hour, so there's a lot of traffic.",
+    "reading": null
+   }
+  },
+  {
+   "id": "b01.03",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "大概要多久能到？",
+   "tokens": [
+    {
+     "text": "大",
+     "reading": "dà",
+     "tone": 4
+    },
+    {
+     "text": "概",
+     "reading": "gài",
+     "tone": 4
+    },
+    {
+     "text": "要",
+     "reading": "yào",
+     "tone": 4
+    },
+    {
+     "text": "多",
+     "reading": "duō",
+     "tone": 1
+    },
+    {
+     "text": "久",
+     "reading": "jiǔ",
+     "tone": 3
+    },
+    {
+     "text": "能",
+     "reading": "néng",
+     "tone": 2
+    },
+    {
+     "text": "到",
+     "reading": "dào",
+     "tone": 4
+    },
+    {
+     "text": "？",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Khoảng bao lâu thì tới ạ?",
+   "start_ms": 10072,
+   "end_ms": 11176,
+   "words": [
+    {
+     "text": "大概",
+     "start_ms": 10072,
+     "end_ms": 10362
+    },
+    {
+     "text": "要",
+     "start_ms": 10299,
+     "end_ms": 10413
+    },
+    {
+     "text": "多久",
+     "start_ms": 10438,
+     "end_ms": 10716
+    },
+    {
+     "text": "能",
+     "start_ms": 10728,
+     "end_ms": 10880
+    },
+    {
+     "text": "到",
+     "start_ms": 10880,
+     "end_ms": 11176
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "en",
+    "text": "About how long will it take?",
+    "reading": null
+   }
+  },
+  {
+   "id": "b01.04",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "不堵车的话二十分钟，现在可能要半个小时。",
+   "tokens": [
+    {
+     "text": "不",
+     "reading": "bù",
+     "tone": 4
+    },
+    {
+     "text": "堵",
+     "reading": "dǔ",
+     "tone": 3
+    },
+    {
+     "text": "车",
+     "reading": "chē",
+     "tone": 1
+    },
+    {
+     "text": "的",
+     "reading": "de",
+     "tone": 0
+    },
+    {
+     "text": "话",
+     "reading": "huà",
+     "tone": 4
+    },
+    {
+     "text": "二",
+     "reading": "èr",
+     "tone": 4
+    },
+    {
+     "text": "十",
+     "reading": "shí",
+     "tone": 2
+    },
+    {
+     "text": "分",
+     "reading": "fēn",
+     "tone": 1
+    },
+    {
+     "text": "钟",
+     "reading": "zhōng",
+     "tone": 1
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "现",
+     "reading": "xiàn",
+     "tone": 4
+    },
+    {
+     "text": "在",
+     "reading": "zài",
+     "tone": 4
+    },
+    {
+     "text": "可",
+     "reading": "kě",
+     "tone": 3
+    },
+    {
+     "text": "能",
+     "reading": "néng",
+     "tone": 2
+    },
+    {
+     "text": "要",
+     "reading": "yào",
+     "tone": 4
+    },
+    {
+     "text": "半",
+     "reading": "bàn",
+     "tone": 4
+    },
+    {
+     "text": "个",
+     "reading": "gè",
+     "tone": 4
+    },
+    {
+     "text": "小",
+     "reading": "xiǎo",
+     "tone": 3
+    },
+    {
+     "text": "时",
+     "reading": "shí",
+     "tone": 2
+    },
+    {
+     "text": "。",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Không tắc thì hai mươi phút, giờ có lẽ mất nửa tiếng.",
+   "start_ms": 11526,
+   "end_ms": 14768,
+   "words": [
+    {
+     "text": "不",
+     "start_ms": 11526,
+     "end_ms": 11719
+    },
+    {
+     "text": "堵车",
+     "start_ms": 11626,
+     "end_ms": 11922
+    },
+    {
+     "text": "的话",
+     "start_ms": 11935,
+     "end_ms": 12193
+    },
+    {
+     "text": "二十",
+     "start_ms": 12219,
+     "end_ms": 12515
+    },
+    {
+     "text": "分钟",
+     "start_ms": 12515,
+     "end_ms": 12927
+    },
+    {
+     "text": "现在",
+     "start_ms": 13056,
+     "end_ms": 13520
+    },
+    {
+     "text": "可能",
+     "start_ms": 13533,
+     "end_ms": 13765
+    },
+    {
+     "text": "要",
+     "start_ms": 13765,
+     "end_ms": 13945
+    },
+    {
+     "text": "半个",
+     "start_ms": 13971,
+     "end_ms": 14177
+    },
+    {
+     "text": "小时",
+     "start_ms": 14190,
+     "end_ms": 14693
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "en",
+    "text": "Twenty minutes without traffic, but it might take half an hour now.",
+    "reading": null
+   }
+  },
+  {
+   "id": "b01.05",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "没关系，你看哪条路快就走哪条。",
+   "tokens": [
+    {
+     "text": "没",
+     "reading": "méi",
+     "tone": 2
+    },
+    {
+     "text": "关",
+     "reading": "guān",
+     "tone": 1
+    },
+    {
+     "text": "系",
+     "reading": "xi",
+     "tone": 0
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "你",
+     "reading": "nǐ",
+     "tone": 3
+    },
+    {
+     "text": "看",
+     "reading": "kàn",
+     "tone": 4
+    },
+    {
+     "text": "哪",
+     "reading": "nǎ",
+     "tone": 3
+    },
+    {
+     "text": "条",
+     "reading": "tiáo",
+     "tone": 2
+    },
+    {
+     "text": "路",
+     "reading": "lù",
+     "tone": 4
+    },
+    {
+     "text": "快",
+     "reading": "kuài",
+     "tone": 4
+    },
+    {
+     "text": "就",
+     "reading": "jiù",
+     "tone": 4
+    },
+    {
+     "text": "走",
+     "reading": "zǒu",
+     "tone": 3
+    },
+    {
+     "text": "哪",
+     "reading": "nǎ",
+     "tone": 3
+    },
+    {
+     "text": "条",
+     "reading": "tiáo",
+     "tone": 2
+    },
+    {
+     "text": "。",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Không sao, anh thấy đường nào nhanh thì đi đường đó.",
+   "start_ms": 15118,
+   "end_ms": 18222,
+   "words": [
+    {
+     "text": "没关系",
+     "start_ms": 15118,
+     "end_ms": 15762
+    },
+    {
+     "text": "你",
+     "start_ms": 16131,
+     "end_ms": 16308
+    },
+    {
+     "text": "看",
+     "start_ms": 16307,
+     "end_ms": 16433
+    },
+    {
+     "text": "哪",
+     "start_ms": 16459,
+     "end_ms": 16585
+    },
+    {
+     "text": "条",
+     "start_ms": 16585,
+     "end_ms": 16724
+    },
+    {
+     "text": "路",
+     "start_ms": 16724,
+     "end_ms": 16850
+    },
+    {
+     "text": "快",
+     "start_ms": 16850,
+     "end_ms": 17292
+    },
+    {
+     "text": "就",
+     "start_ms": 17406,
+     "end_ms": 17583
+    },
+    {
+     "text": "走",
+     "start_ms": 17583,
+     "end_ms": 17684
+    },
+    {
+     "text": "哪",
+     "start_ms": 17696,
+     "end_ms": 17835
+    },
+    {
+     "text": "条",
+     "start_ms": 17835,
+     "end_ms": 18189
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "en",
+    "text": "That's fine. Take whichever road is fastest.",
+    "reading": null
+   }
+  },
+  {
+   "id": "b01.06",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "好，我们走高速吧，可能要多付一点过路费。",
+   "tokens": [
+    {
+     "text": "好",
+     "reading": "hǎo",
+     "tone": 3
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "我",
+     "reading": "wǒ",
+     "tone": 3
+    },
+    {
+     "text": "们",
+     "reading": "men",
+     "tone": 0
+    },
+    {
+     "text": "走",
+     "reading": "zǒu",
+     "tone": 3
+    },
+    {
+     "text": "高",
+     "reading": "gāo",
+     "tone": 1
+    },
+    {
+     "text": "速",
+     "reading": "sù",
+     "tone": 4
+    },
+    {
+     "text": "吧",
+     "reading": "ba",
+     "tone": 0
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "可",
+     "reading": "kě",
+     "tone": 3
+    },
+    {
+     "text": "能",
+     "reading": "néng",
+     "tone": 2
+    },
+    {
+     "text": "要",
+     "reading": "yào",
+     "tone": 4
+    },
+    {
+     "text": "多",
+     "reading": "duō",
+     "tone": 1
+    },
+    {
+     "text": "付",
+     "reading": "fù",
+     "tone": 4
+    },
+    {
+     "text": "一",
+     "reading": "yì",
+     "tone": 4
+    },
+    {
+     "text": "点",
+     "reading": "diǎn",
+     "tone": 3
+    },
+    {
+     "text": "过",
+     "reading": "guò",
+     "tone": 4
+    },
+    {
+     "text": "路",
+     "reading": "lù",
+     "tone": 4
+    },
+    {
+     "text": "费",
+     "reading": "fèi",
+     "tone": 4
+    },
+    {
+     "text": "。",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Được, mình đi cao tốc nhé, có thể phải trả thêm chút phí đường.",
+   "start_ms": 18572,
+   "end_ms": 21755,
+   "words": [
+    {
+     "text": "好",
+     "start_ms": 18572,
+     "end_ms": 19049
+    },
+    {
+     "text": "我们",
+     "start_ms": 19090,
+     "end_ms": 19309
+    },
+    {
+     "text": "走",
+     "start_ms": 19309,
+     "end_ms": 19438
+    },
+    {
+     "text": "高速",
+     "start_ms": 19451,
+     "end_ms": 19812
+    },
+    {
+     "text": "吧",
+     "start_ms": 19812,
+     "end_ms": 20096
+    },
+    {
+     "text": "可能",
+     "start_ms": 20250,
+     "end_ms": 20469
+    },
+    {
+     "text": "要",
+     "start_ms": 20482,
+     "end_ms": 20662
+    },
+    {
+     "text": "多",
+     "start_ms": 20688,
+     "end_ms": 20856
+    },
+    {
+     "text": "付",
+     "start_ms": 20856,
+     "end_ms": 20985
+    },
+    {
+     "text": "一点",
+     "start_ms": 20997,
+     "end_ms": 21242
+    },
+    {
+     "text": "过路费",
+     "start_ms": 21268,
+     "end_ms": 21719
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "en",
+    "text": "Okay, let's take the highway. There may be a small toll.",
+    "reading": null
+   }
+  },
+  {
+   "id": "b01.07",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "可以。到了以后能给我开张发票吗？",
+   "tokens": [
+    {
+     "text": "可",
+     "reading": "kě",
+     "tone": 3
+    },
+    {
+     "text": "以",
+     "reading": "yǐ",
+     "tone": 3
+    },
+    {
+     "text": "。",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "到",
+     "reading": "dào",
+     "tone": 4
+    },
+    {
+     "text": "了",
+     "reading": "le",
+     "tone": 0
+    },
+    {
+     "text": "以",
+     "reading": "yǐ",
+     "tone": 3
+    },
+    {
+     "text": "后",
+     "reading": "hòu",
+     "tone": 4
+    },
+    {
+     "text": "能",
+     "reading": "néng",
+     "tone": 2
+    },
+    {
+     "text": "给",
+     "reading": "gěi",
+     "tone": 3
+    },
+    {
+     "text": "我",
+     "reading": "wǒ",
+     "tone": 3
+    },
+    {
+     "text": "开",
+     "reading": "kāi",
+     "tone": 1
+    },
+    {
+     "text": "张",
+     "reading": "zhāng",
+     "tone": 1
+    },
+    {
+     "text": "发",
+     "reading": "fā",
+     "tone": 1
+    },
+    {
+     "text": "票",
+     "reading": "piào",
+     "tone": 4
+    },
+    {
+     "text": "吗",
+     "reading": "ma",
+     "tone": 0
+    },
+    {
+     "text": "？",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Được. Đến nơi anh xuất cho tôi hóa đơn được không?",
+   "start_ms": 22105,
+   "end_ms": 25376,
+   "words": [
+    {
+     "text": "可以",
+     "start_ms": 22105,
+     "end_ms": 22724
+    },
+    {
+     "text": "到",
+     "start_ms": 23246,
+     "end_ms": 23435
+    },
+    {
+     "text": "了",
+     "start_ms": 23435,
+     "end_ms": 23498
+    },
+    {
+     "text": "以后",
+     "start_ms": 23511,
+     "end_ms": 24079
+    },
+    {
+     "text": "能",
+     "start_ms": 24193,
+     "end_ms": 24420
+    },
+    {
+     "text": "给",
+     "start_ms": 24420,
+     "end_ms": 24496
+    },
+    {
+     "text": "我",
+     "start_ms": 24496,
+     "end_ms": 24572
+    },
+    {
+     "text": "开张",
+     "start_ms": 24584,
+     "end_ms": 24837
+    },
+    {
+     "text": "发票",
+     "start_ms": 24849,
+     "end_ms": 25190
+    },
+    {
+     "text": "吗",
+     "start_ms": 25190,
+     "end_ms": 25376
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [
+    "发票"
+   ],
+   "parallel": {
+    "lang": "en",
+    "text": "No problem. Could you give me a receipt when we get there?",
+    "reading": null
+   }
+  },
+  {
+   "id": "b01.08",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "没问题。到了，一共五十六块。",
+   "tokens": [
+    {
+     "text": "没",
+     "reading": "méi",
+     "tone": 2
+    },
+    {
+     "text": "问",
+     "reading": "wèn",
+     "tone": 4
+    },
+    {
+     "text": "题",
+     "reading": "tí",
+     "tone": 2
+    },
+    {
+     "text": "。",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "到",
+     "reading": "dào",
+     "tone": 4
+    },
+    {
+     "text": "了",
+     "reading": "le",
+     "tone": 0
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "一",
+     "reading": "yí",
+     "tone": 2
+    },
+    {
+     "text": "共",
+     "reading": "gòng",
+     "tone": 4
+    },
+    {
+     "text": "五",
+     "reading": "wǔ",
+     "tone": 3
+    },
+    {
+     "text": "十",
+     "reading": "shí",
+     "tone": 2
+    },
+    {
+     "text": "六",
+     "reading": "liù",
+     "tone": 4
+    },
+    {
+     "text": "块",
+     "reading": "kuài",
+     "tone": 4
+    },
+    {
+     "text": "。",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Không vấn đề. Tới rồi, tổng cộng năm mươi sáu tệ.",
+   "start_ms": 25726,
+   "end_ms": 28523,
+   "words": [
+    {
+     "text": "没",
+     "start_ms": 25726,
+     "end_ms": 25945
+    },
+    {
+     "text": "问题",
+     "start_ms": 25884,
+     "end_ms": 26348
+    },
+    {
+     "text": "到",
+     "start_ms": 26916,
+     "end_ms": 27174
+    },
+    {
+     "text": "了",
+     "start_ms": 27174,
+     "end_ms": 27342
+    },
+    {
+     "text": "一共",
+     "start_ms": 27444,
+     "end_ms": 27805
+    },
+    {
+     "text": "五十六",
+     "start_ms": 27831,
+     "end_ms": 28218
+    },
+    {
+     "text": "块",
+     "start_ms": 28218,
+     "end_ms": 28502
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "en",
+    "text": "Sure thing. Here we are. That's fifty-six yuan in total.",
+    "reading": null
+   }
+  },
+  {
+   "id": "b01.09",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "给你，谢谢师傅！",
+   "tokens": [
+    {
+     "text": "给",
+     "reading": "gěi",
+     "tone": 3
+    },
+    {
+     "text": "你",
+     "reading": "nǐ",
+     "tone": 3
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "谢",
+     "reading": "xiè",
+     "tone": 4
+    },
+    {
+     "text": "谢",
+     "reading": "xie",
+     "tone": 0
+    },
+    {
+     "text": "师",
+     "reading": "shī",
+     "tone": 1
+    },
+    {
+     "text": "傅",
+     "reading": "fu",
+     "tone": 0
+    },
+    {
+     "text": "！",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Gửi anh, cảm ơn bác tài!",
+   "start_ms": 28873,
+   "end_ms": 30261,
+   "words": [
+    {
+     "text": "给",
+     "start_ms": 28873,
+     "end_ms": 29037
+    },
+    {
+     "text": "你",
+     "start_ms": 28987,
+     "end_ms": 29189
+    },
+    {
+     "text": "谢谢",
+     "start_ms": 29504,
+     "end_ms": 29807
+    },
+    {
+     "text": "师傅",
+     "start_ms": 29820,
+     "end_ms": 30237
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "en",
+    "text": "Here you go. Thanks!",
+    "reading": null
+   }
+  },
+  {
+   "id": "b02.00",
+   "section": "b02",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "去北京饭店。麻烦你开快一点，我有点着急。",
+   "tokens": [
+    {
+     "text": "去",
+     "reading": "qù",
+     "tone": 4
+    },
+    {
+     "text": "北",
+     "reading": "běi",
+     "tone": 3
+    },
+    {
+     "text": "京",
+     "reading": "jīng",
+     "tone": 1
+    },
+    {
+     "text": "饭",
+     "reading": "fàn",
+     "tone": 4
+    },
+    {
+     "text": "店",
+     "reading": "diàn",
+     "tone": 4
+    },
+    {
+     "text": "。",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "麻",
+     "reading": "má",
+     "tone": 2
+    },
+    {
+     "text": "烦",
+     "reading": "fan",
+     "tone": 0
+    },
+    {
+     "text": "你",
+     "reading": "nǐ",
+     "tone": 3
+    },
+    {
+     "text": "开",
+     "reading": "kāi",
+     "tone": 1
+    },
+    {
+     "text": "快",
+     "reading": "kuài",
+     "tone": 4
+    },
+    {
+     "text": "一",
+     "reading": "yì",
+     "tone": 4
+    },
+    {
+     "text": "点",
+     "reading": "diǎn",
+     "tone": 3
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "我",
+     "reading": "wǒ",
+     "tone": 3
+    },
+    {
+     "text": "有",
+     "reading": "yǒu",
+     "tone": 3
+    },
+    {
+     "text": "点",
+     "reading": "diǎn",
+     "tone": 3
+    },
+    {
+     "text": "着",
+     "reading": "zháo",
+     "tone": 2
+    },
+    {
+     "text": "急",
+     "reading": "jí",
+     "tone": 2
+    },
+    {
+     "text": "。",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Đến khách sạn Bắc Kinh. Phiền anh đi nhanh một chút, tôi hơi vội.",
+   "start_ms": 31161,
+   "end_ms": 35910,
+   "words": [
+    {
+     "text": "去",
+     "start_ms": 31161,
+     "end_ms": 31546
+    },
+    {
+     "text": "北京",
+     "start_ms": 31354,
+     "end_ms": 31691
+    },
+    {
+     "text": "饭店",
+     "start_ms": 31706,
+     "end_ms": 32347
+    },
+    {
+     "text": "麻烦",
+     "start_ms": 33099,
+     "end_ms": 33484
+    },
+    {
+     "text": "你",
+     "start_ms": 33499,
+     "end_ms": 33595
+    },
+    {
+     "text": "开",
+     "start_ms": 33595,
+     "end_ms": 33771
+    },
+    {
+     "text": "快",
+     "start_ms": 33788,
+     "end_ms": 33948
+    },
+    {
+     "text": "一点",
+     "start_ms": 33948,
+     "end_ms": 34397
+    },
+    {
+     "text": "我",
+     "start_ms": 34877,
+     "end_ms": 35053
+    },
+    {
+     "text": "有点",
+     "start_ms": 35054,
+     "end_ms": 35310
+    },
+    {
+     "text": "着急",
+     "start_ms": 35326,
+     "end_ms": 35887
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": true,
+   "pause_after_ms": 2000,
+   "targets": [
+    "着急"
+   ],
+   "parallel": {
+    "lang": "en",
+    "text": "The Beijing Hotel, please. Could you hurry a bit? I'm in a rush.",
+    "reading": null
+   }
+  },
+  {
+   "id": "b02.01",
+   "section": "b02",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "可以。到了以后能给我开张发票吗？",
+   "tokens": [
+    {
+     "text": "可",
+     "reading": "kě",
+     "tone": 3
+    },
+    {
+     "text": "以",
+     "reading": "yǐ",
+     "tone": 3
+    },
+    {
+     "text": "。",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "到",
+     "reading": "dào",
+     "tone": 4
+    },
+    {
+     "text": "了",
+     "reading": "le",
+     "tone": 0
+    },
+    {
+     "text": "以",
+     "reading": "yǐ",
+     "tone": 3
+    },
+    {
+     "text": "后",
+     "reading": "hòu",
+     "tone": 4
+    },
+    {
+     "text": "能",
+     "reading": "néng",
+     "tone": 2
+    },
+    {
+     "text": "给",
+     "reading": "gěi",
+     "tone": 3
+    },
+    {
+     "text": "我",
+     "reading": "wǒ",
+     "tone": 3
+    },
+    {
+     "text": "开",
+     "reading": "kāi",
+     "tone": 1
+    },
+    {
+     "text": "张",
+     "reading": "zhāng",
+     "tone": 1
+    },
+    {
+     "text": "发",
+     "reading": "fā",
+     "tone": 1
+    },
+    {
+     "text": "票",
+     "reading": "piào",
+     "tone": 4
+    },
+    {
+     "text": "吗",
+     "reading": "ma",
+     "tone": 0
+    },
+    {
+     "text": "？",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Được. Đến nơi anh xuất cho tôi hóa đơn được không?",
+   "start_ms": 38260,
+   "end_ms": 42386,
+   "words": [
+    {
+     "text": "可以",
+     "start_ms": 38260,
+     "end_ms": 39045
+    },
+    {
+     "text": "到",
+     "start_ms": 39705,
+     "end_ms": 39945
+    },
+    {
+     "text": "了",
+     "start_ms": 39945,
+     "end_ms": 40025
+    },
+    {
+     "text": "以后",
+     "start_ms": 40041,
+     "end_ms": 40762
+    },
+    {
+     "text": "能",
+     "start_ms": 40907,
+     "end_ms": 41195
+    },
+    {
+     "text": "给",
+     "start_ms": 41195,
+     "end_ms": 41291
+    },
+    {
+     "text": "我",
+     "start_ms": 41291,
+     "end_ms": 41387
+    },
+    {
+     "text": "开张",
+     "start_ms": 41403,
+     "end_ms": 41723
+    },
+    {
+     "text": "发票",
+     "start_ms": 41740,
+     "end_ms": 42173
+    },
+    {
+     "text": "吗",
+     "start_ms": 42173,
+     "end_ms": 42386
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": true,
+   "pause_after_ms": 2000,
+   "targets": [
+    "发票"
+   ],
+   "parallel": {
+    "lang": "en",
+    "text": "No problem. Could you give me a receipt when we get there?",
+    "reading": null
+   }
+  }
+ ],
+ "vocab": [
+  {
+   "text": "着急",
+   "reading": "zháo jí",
+   "l1": "vội, sốt ruột",
+   "level": 3,
+   "cognate": null
+  },
+  {
+   "text": "堵车",
+   "reading": "dǔ chē",
+   "l1": "tắc đường",
+   "level": 4,
+   "cognate": null
+  },
+  {
+   "text": "发票",
+   "reading": "fā piào",
+   "l1": "hóa đơn",
+   "level": 4,
+   "cognate": null
+  }
+ ],
+ "cognate_reveal": null,
+ "errata": [],
+ "attribution": [
+  "pypinyin (MIT)",
+  "jieba (MIT)"
+ ],
+ "disclosure": {
+  "synthetic_voice": true
+ }
+}

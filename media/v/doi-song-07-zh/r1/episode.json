@@ -1,0 +1,1870 @@
+{
+ "schema": "episode/1",
+ "id": "doi-song-07-zh",
+ "pair": "doi-song-07",
+ "lang": {
+  "target": "zh-Hans",
+  "l1": "vi"
+ },
+ "level": {
+  "scheme": "HSK3.0",
+  "label": "HSK 3"
+ },
+ "title": {
+  "target": "在银行开户",
+  "l1": "Mở tài khoản ngân hàng"
+ },
+ "series": {
+  "id": "doi-song-zh",
+  "name": "Đời sống",
+  "order": 7
+ },
+ "flags": [],
+ "audio": {
+  "mix": "audio/mix.m4a",
+  "duration_ms": 44007
+ },
+ "speakers": {
+  "A": {
+   "name": "银行职员",
+   "l1_name": "nhân viên ngân hàng"
+  },
+  "B": {
+   "name": "阿南",
+   "l1_name": "Nam"
+  }
+ },
+ "sections": [
+  {
+   "id": "b01",
+   "type": "dialogue",
+   "label": "Hội thoại",
+   "start_ms": 300
+  },
+  {
+   "id": "b02",
+   "type": "recap_slow",
+   "label": "Nhắc lại chậm",
+   "start_ms": 33988
+  }
+ ],
+ "lines": [
+  {
+   "id": "b01.00",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "您好，请问您要办什么业务？",
+   "tokens": [
+    {
+     "text": "您",
+     "reading": "nín",
+     "tone": 2
+    },
+    {
+     "text": "好",
+     "reading": "hǎo",
+     "tone": 3
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "请",
+     "reading": "qǐng",
+     "tone": 3
+    },
+    {
+     "text": "问",
+     "reading": "wèn",
+     "tone": 4
+    },
+    {
+     "text": "您",
+     "reading": "nín",
+     "tone": 2
+    },
+    {
+     "text": "要",
+     "reading": "yào",
+     "tone": 4
+    },
+    {
+     "text": "办",
+     "reading": "bàn",
+     "tone": 4
+    },
+    {
+     "text": "什",
+     "reading": "shén",
+     "tone": 2
+    },
+    {
+     "text": "么",
+     "reading": "me",
+     "tone": 0
+    },
+    {
+     "text": "业",
+     "reading": "yè",
+     "tone": 4
+    },
+    {
+     "text": "务",
+     "reading": "wù",
+     "tone": 4
+    },
+    {
+     "text": "？",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Xin chào, anh cần làm dịch vụ gì ạ?",
+   "start_ms": 300,
+   "end_ms": 2685,
+   "words": [
+    {
+     "text": "您好",
+     "start_ms": 300,
+     "end_ms": 764
+    },
+    {
+     "text": "请问",
+     "start_ms": 1073,
+     "end_ms": 1434
+    },
+    {
+     "text": "您",
+     "start_ms": 1433,
+     "end_ms": 1536
+    },
+    {
+     "text": "要",
+     "start_ms": 1549,
+     "end_ms": 1704
+    },
+    {
+     "text": "办",
+     "start_ms": 1704,
+     "end_ms": 1859
+    },
+    {
+     "text": "什么",
+     "start_ms": 1872,
+     "end_ms": 2117
+    },
+    {
+     "text": "业务",
+     "start_ms": 2129,
+     "end_ms": 2593
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "en",
+    "text": "Hello, what can I help you with today?",
+    "reading": null
+   }
+  },
+  {
+   "id": "b01.01",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "我想开一个银行账户。",
+   "tokens": [
+    {
+     "text": "我",
+     "reading": "wǒ",
+     "tone": 3
+    },
+    {
+     "text": "想",
+     "reading": "xiǎng",
+     "tone": 3
+    },
+    {
+     "text": "开",
+     "reading": "kāi",
+     "tone": 1
+    },
+    {
+     "text": "一",
+     "reading": "yí",
+     "tone": 2
+    },
+    {
+     "text": "个",
+     "reading": "gè",
+     "tone": 4
+    },
+    {
+     "text": "银",
+     "reading": "yín",
+     "tone": 2
+    },
+    {
+     "text": "行",
+     "reading": "háng",
+     "tone": 2
+    },
+    {
+     "text": "账",
+     "reading": "zhàng",
+     "tone": 4
+    },
+    {
+     "text": "户",
+     "reading": "hù",
+     "tone": 4
+    },
+    {
+     "text": "。",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Tôi muốn mở một tài khoản ngân hàng.",
+   "start_ms": 3035,
+   "end_ms": 4349,
+   "words": [
+    {
+     "text": "我",
+     "start_ms": 3035,
+     "end_ms": 3338
+    },
+    {
+     "text": "想",
+     "start_ms": 3116,
+     "end_ms": 3293
+    },
+    {
+     "text": "开",
+     "start_ms": 3292,
+     "end_ms": 3418
+    },
+    {
+     "text": "一个",
+     "start_ms": 3431,
+     "end_ms": 3570
+    },
+    {
+     "text": "银行",
+     "start_ms": 3595,
+     "end_ms": 3873
+    },
+    {
+     "text": "账户",
+     "start_ms": 3886,
+     "end_ms": 4349
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [
+    "账户"
+   ],
+   "parallel": {
+    "lang": "en",
+    "text": "I'd like to open a bank account.",
+    "reading": null
+   }
+  },
+  {
+   "id": "b01.02",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "好的，请给我看一下您的护照。",
+   "tokens": [
+    {
+     "text": "好",
+     "reading": "hǎo",
+     "tone": 3
+    },
+    {
+     "text": "的",
+     "reading": "de",
+     "tone": 0
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "请",
+     "reading": "qǐng",
+     "tone": 3
+    },
+    {
+     "text": "给",
+     "reading": "gěi",
+     "tone": 3
+    },
+    {
+     "text": "我",
+     "reading": "wǒ",
+     "tone": 3
+    },
+    {
+     "text": "看",
+     "reading": "kàn",
+     "tone": 4
+    },
+    {
+     "text": "一",
+     "reading": "yí",
+     "tone": 2
+    },
+    {
+     "text": "下",
+     "reading": "xià",
+     "tone": 4
+    },
+    {
+     "text": "您",
+     "reading": "nín",
+     "tone": 2
+    },
+    {
+     "text": "的",
+     "reading": "de",
+     "tone": 0
+    },
+    {
+     "text": "护",
+     "reading": "hù",
+     "tone": 4
+    },
+    {
+     "text": "照",
+     "reading": "zhào",
+     "tone": 4
+    },
+    {
+     "text": "。",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Vâng, cho tôi xem hộ chiếu của anh.",
+   "start_ms": 4699,
+   "end_ms": 7092,
+   "words": [
+    {
+     "text": "好",
+     "start_ms": 4699,
+     "end_ms": 4918
+    },
+    {
+     "text": "的",
+     "start_ms": 4866,
+     "end_ms": 5085
+    },
+    {
+     "text": "请",
+     "start_ms": 5433,
+     "end_ms": 5601
+    },
+    {
+     "text": "给",
+     "start_ms": 5600,
+     "end_ms": 5716
+    },
+    {
+     "text": "我",
+     "start_ms": 5716,
+     "end_ms": 5832
+    },
+    {
+     "text": "看",
+     "start_ms": 5845,
+     "end_ms": 6051
+    },
+    {
+     "text": "一下",
+     "start_ms": 6051,
+     "end_ms": 6347
+    },
+    {
+     "text": "您",
+     "start_ms": 6373,
+     "end_ms": 6476
+    },
+    {
+     "text": "的",
+     "start_ms": 6476,
+     "end_ms": 6553
+    },
+    {
+     "text": "护照",
+     "start_ms": 6567,
+     "end_ms": 7005
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "en",
+    "text": "Sure. May I see your passport, please?",
+    "reading": null
+   }
+  },
+  {
+   "id": "b01.03",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "给您。外国人也可以开账户吗？",
+   "tokens": [
+    {
+     "text": "给",
+     "reading": "gěi",
+     "tone": 3
+    },
+    {
+     "text": "您",
+     "reading": "nín",
+     "tone": 2
+    },
+    {
+     "text": "。",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "外",
+     "reading": "wài",
+     "tone": 4
+    },
+    {
+     "text": "国",
+     "reading": "guó",
+     "tone": 2
+    },
+    {
+     "text": "人",
+     "reading": "rén",
+     "tone": 2
+    },
+    {
+     "text": "也",
+     "reading": "yě",
+     "tone": 3
+    },
+    {
+     "text": "可",
+     "reading": "kě",
+     "tone": 3
+    },
+    {
+     "text": "以",
+     "reading": "yǐ",
+     "tone": 3
+    },
+    {
+     "text": "开",
+     "reading": "kāi",
+     "tone": 1
+    },
+    {
+     "text": "账",
+     "reading": "zhàng",
+     "tone": 4
+    },
+    {
+     "text": "户",
+     "reading": "hù",
+     "tone": 4
+    },
+    {
+     "text": "吗",
+     "reading": "ma",
+     "tone": 0
+    },
+    {
+     "text": "？",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Gửi chị. Người nước ngoài cũng mở được tài khoản à?",
+   "start_ms": 7442,
+   "end_ms": 10111,
+   "words": [
+    {
+     "text": "给",
+     "start_ms": 7442,
+     "end_ms": 7682
+    },
+    {
+     "text": "您",
+     "start_ms": 7594,
+     "end_ms": 7960
+    },
+    {
+     "text": "外国人",
+     "start_ms": 8529,
+     "end_ms": 9122
+    },
+    {
+     "text": "也",
+     "start_ms": 9148,
+     "end_ms": 9249
+    },
+    {
+     "text": "可以",
+     "start_ms": 9262,
+     "end_ms": 9426
+    },
+    {
+     "text": "开",
+     "start_ms": 9426,
+     "end_ms": 9540
+    },
+    {
+     "text": "账户",
+     "start_ms": 9552,
+     "end_ms": 9880
+    },
+    {
+     "text": "吗",
+     "start_ms": 9880,
+     "end_ms": 10111
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "en",
+    "text": "Here you are. Can foreigners open an account too?",
+    "reading": null
+   }
+  },
+  {
+   "id": "b01.04",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "可以，您只需要护照和手机号码。",
+   "tokens": [
+    {
+     "text": "可",
+     "reading": "kě",
+     "tone": 3
+    },
+    {
+     "text": "以",
+     "reading": "yǐ",
+     "tone": 3
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "您",
+     "reading": "nín",
+     "tone": 2
+    },
+    {
+     "text": "只",
+     "reading": "zhǐ",
+     "tone": 3
+    },
+    {
+     "text": "需",
+     "reading": "xū",
+     "tone": 1
+    },
+    {
+     "text": "要",
+     "reading": "yào",
+     "tone": 4
+    },
+    {
+     "text": "护",
+     "reading": "hù",
+     "tone": 4
+    },
+    {
+     "text": "照",
+     "reading": "zhào",
+     "tone": 4
+    },
+    {
+     "text": "和",
+     "reading": "hé",
+     "tone": 2
+    },
+    {
+     "text": "手",
+     "reading": "shǒu",
+     "tone": 3
+    },
+    {
+     "text": "机",
+     "reading": "jī",
+     "tone": 1
+    },
+    {
+     "text": "号",
+     "reading": "hào",
+     "tone": 4
+    },
+    {
+     "text": "码",
+     "reading": "mǎ",
+     "tone": 3
+    },
+    {
+     "text": "。",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Được ạ, anh chỉ cần hộ chiếu và số điện thoại.",
+   "start_ms": 10461,
+   "end_ms": 13338,
+   "words": [
+    {
+     "text": "可以",
+     "start_ms": 10461,
+     "end_ms": 10925
+    },
+    {
+     "text": "您",
+     "start_ms": 11216,
+     "end_ms": 11358
+    },
+    {
+     "text": "只",
+     "start_ms": 11370,
+     "end_ms": 11512
+    },
+    {
+     "text": "需要",
+     "start_ms": 11512,
+     "end_ms": 11796
+    },
+    {
+     "text": "护照",
+     "start_ms": 11821,
+     "end_ms": 12233
+    },
+    {
+     "text": "和",
+     "start_ms": 12259,
+     "end_ms": 12388
+    },
+    {
+     "text": "手机",
+     "start_ms": 12401,
+     "end_ms": 12762
+    },
+    {
+     "text": "号码",
+     "start_ms": 12775,
+     "end_ms": 13252
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "en",
+    "text": "Yes, you just need your passport and a phone number.",
+    "reading": null
+   }
+  },
+  {
+   "id": "b01.05",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "请填一下这张表，在这里签名。",
+   "tokens": [
+    {
+     "text": "请",
+     "reading": "qǐng",
+     "tone": 3
+    },
+    {
+     "text": "填",
+     "reading": "tián",
+     "tone": 2
+    },
+    {
+     "text": "一",
+     "reading": "yí",
+     "tone": 2
+    },
+    {
+     "text": "下",
+     "reading": "xià",
+     "tone": 4
+    },
+    {
+     "text": "这",
+     "reading": "zhè",
+     "tone": 4
+    },
+    {
+     "text": "张",
+     "reading": "zhāng",
+     "tone": 1
+    },
+    {
+     "text": "表",
+     "reading": "biǎo",
+     "tone": 3
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "在",
+     "reading": "zài",
+     "tone": 4
+    },
+    {
+     "text": "这",
+     "reading": "zhè",
+     "tone": 4
+    },
+    {
+     "text": "里",
+     "reading": "lǐ",
+     "tone": 3
+    },
+    {
+     "text": "签",
+     "reading": "qiān",
+     "tone": 1
+    },
+    {
+     "text": "名",
+     "reading": "míng",
+     "tone": 2
+    },
+    {
+     "text": "。",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Anh điền giúp tờ đơn này, ký tên ở đây.",
+   "start_ms": 13688,
+   "end_ms": 16483,
+   "words": [
+    {
+     "text": "请",
+     "start_ms": 13688,
+     "end_ms": 13907
+    },
+    {
+     "text": "填",
+     "start_ms": 13881,
+     "end_ms": 14113
+    },
+    {
+     "text": "一下",
+     "start_ms": 14125,
+     "end_ms": 14434
+    },
+    {
+     "text": "这",
+     "start_ms": 14460,
+     "end_ms": 14589
+    },
+    {
+     "text": "张",
+     "start_ms": 14589,
+     "end_ms": 14821
+    },
+    {
+     "text": "表",
+     "start_ms": 14821,
+     "end_ms": 15105
+    },
+    {
+     "text": "在",
+     "start_ms": 15350,
+     "end_ms": 15505
+    },
+    {
+     "text": "这里",
+     "start_ms": 15517,
+     "end_ms": 15801
+    },
+    {
+     "text": "签名",
+     "start_ms": 15814,
+     "end_ms": 16368
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [
+    "签名"
+   ],
+   "parallel": {
+    "lang": "en",
+    "text": "Please fill out this form and sign here.",
+    "reading": null
+   }
+  },
+  {
+   "id": "b01.06",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "填好了。今天就能拿到银行卡吗？",
+   "tokens": [
+    {
+     "text": "填",
+     "reading": "tián",
+     "tone": 2
+    },
+    {
+     "text": "好",
+     "reading": "hǎo",
+     "tone": 3
+    },
+    {
+     "text": "了",
+     "reading": "le",
+     "tone": 0
+    },
+    {
+     "text": "。",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "今",
+     "reading": "jīn",
+     "tone": 1
+    },
+    {
+     "text": "天",
+     "reading": "tiān",
+     "tone": 1
+    },
+    {
+     "text": "就",
+     "reading": "jiù",
+     "tone": 4
+    },
+    {
+     "text": "能",
+     "reading": "néng",
+     "tone": 2
+    },
+    {
+     "text": "拿",
+     "reading": "ná",
+     "tone": 2
+    },
+    {
+     "text": "到",
+     "reading": "dào",
+     "tone": 4
+    },
+    {
+     "text": "银",
+     "reading": "yín",
+     "tone": 2
+    },
+    {
+     "text": "行",
+     "reading": "háng",
+     "tone": 2
+    },
+    {
+     "text": "卡",
+     "reading": "kǎ",
+     "tone": 3
+    },
+    {
+     "text": "吗",
+     "reading": "ma",
+     "tone": 0
+    },
+    {
+     "text": "？",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Điền xong rồi. Hôm nay lấy được thẻ luôn không?",
+   "start_ms": 16833,
+   "end_ms": 19701,
+   "words": [
+    {
+     "text": "填好",
+     "start_ms": 16833,
+     "end_ms": 17250
+    },
+    {
+     "text": "了",
+     "start_ms": 17194,
+     "end_ms": 17510
+    },
+    {
+     "text": "今天",
+     "start_ms": 18079,
+     "end_ms": 18546
+    },
+    {
+     "text": "就",
+     "start_ms": 18571,
+     "end_ms": 18659
+    },
+    {
+     "text": "能",
+     "start_ms": 18659,
+     "end_ms": 18747
+    },
+    {
+     "text": "拿到",
+     "start_ms": 18760,
+     "end_ms": 18987
+    },
+    {
+     "text": "银行卡",
+     "start_ms": 18988,
+     "end_ms": 19443
+    },
+    {
+     "text": "吗",
+     "start_ms": 19442,
+     "end_ms": 19701
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "en",
+    "text": "All done. Can I get the card today?",
+    "reading": null
+   }
+  },
+  {
+   "id": "b01.07",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "能，大概十分钟就好了。请设置一个六位数的密码。",
+   "tokens": [
+    {
+     "text": "能",
+     "reading": "néng",
+     "tone": 2
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "大",
+     "reading": "dà",
+     "tone": 4
+    },
+    {
+     "text": "概",
+     "reading": "gài",
+     "tone": 4
+    },
+    {
+     "text": "十",
+     "reading": "shí",
+     "tone": 2
+    },
+    {
+     "text": "分",
+     "reading": "fēn",
+     "tone": 1
+    },
+    {
+     "text": "钟",
+     "reading": "zhōng",
+     "tone": 1
+    },
+    {
+     "text": "就",
+     "reading": "jiù",
+     "tone": 4
+    },
+    {
+     "text": "好",
+     "reading": "hǎo",
+     "tone": 3
+    },
+    {
+     "text": "了",
+     "reading": "le",
+     "tone": 0
+    },
+    {
+     "text": "。",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "请",
+     "reading": "qǐng",
+     "tone": 3
+    },
+    {
+     "text": "设",
+     "reading": "shè",
+     "tone": 4
+    },
+    {
+     "text": "置",
+     "reading": "zhì",
+     "tone": 4
+    },
+    {
+     "text": "一",
+     "reading": "yí",
+     "tone": 2
+    },
+    {
+     "text": "个",
+     "reading": "gè",
+     "tone": 4
+    },
+    {
+     "text": "六",
+     "reading": "liù",
+     "tone": 4
+    },
+    {
+     "text": "位",
+     "reading": "wèi",
+     "tone": 4
+    },
+    {
+     "text": "数",
+     "reading": "shù",
+     "tone": 4
+    },
+    {
+     "text": "的",
+     "reading": "de",
+     "tone": 0
+    },
+    {
+     "text": "密",
+     "reading": "mì",
+     "tone": 4
+    },
+    {
+     "text": "码",
+     "reading": "mǎ",
+     "tone": 3
+    },
+    {
+     "text": "。",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Được, khoảng mười phút là xong. Anh đặt một mật khẩu sáu chữ số nhé.",
+   "start_ms": 20051,
+   "end_ms": 24679,
+   "words": [
+    {
+     "text": "能",
+     "start_ms": 20051,
+     "end_ms": 20347
+    },
+    {
+     "text": "大概",
+     "start_ms": 20589,
+     "end_ms": 20885
+    },
+    {
+     "text": "十分钟",
+     "start_ms": 20898,
+     "end_ms": 21478
+    },
+    {
+     "text": "就",
+     "start_ms": 21504,
+     "end_ms": 21581
+    },
+    {
+     "text": "好",
+     "start_ms": 21594,
+     "end_ms": 21839
+    },
+    {
+     "text": "了",
+     "start_ms": 21839,
+     "end_ms": 22071
+    },
+    {
+     "text": "请",
+     "start_ms": 22652,
+     "end_ms": 22871
+    },
+    {
+     "text": "设置",
+     "start_ms": 22884,
+     "end_ms": 23219
+    },
+    {
+     "text": "一个",
+     "start_ms": 23232,
+     "end_ms": 23503
+    },
+    {
+     "text": "六",
+     "start_ms": 23528,
+     "end_ms": 23721
+    },
+    {
+     "text": "位",
+     "start_ms": 23722,
+     "end_ms": 23902
+    },
+    {
+     "text": "数",
+     "start_ms": 23902,
+     "end_ms": 24057
+    },
+    {
+     "text": "的",
+     "start_ms": 24057,
+     "end_ms": 24147
+    },
+    {
+     "text": "密码",
+     "start_ms": 24160,
+     "end_ms": 24598
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "en",
+    "text": "Yes, it'll be ready in about ten minutes. Please set a six-digit PIN.",
+    "reading": null
+   }
+  },
+  {
+   "id": "b01.08",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "好了。这张卡可以在网上付钱吗？",
+   "tokens": [
+    {
+     "text": "好",
+     "reading": "hǎo",
+     "tone": 3
+    },
+    {
+     "text": "了",
+     "reading": "le",
+     "tone": 0
+    },
+    {
+     "text": "。",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "这",
+     "reading": "zhè",
+     "tone": 4
+    },
+    {
+     "text": "张",
+     "reading": "zhāng",
+     "tone": 1
+    },
+    {
+     "text": "卡",
+     "reading": "kǎ",
+     "tone": 3
+    },
+    {
+     "text": "可",
+     "reading": "kě",
+     "tone": 3
+    },
+    {
+     "text": "以",
+     "reading": "yǐ",
+     "tone": 3
+    },
+    {
+     "text": "在",
+     "reading": "zài",
+     "tone": 4
+    },
+    {
+     "text": "网",
+     "reading": "wǎng",
+     "tone": 3
+    },
+    {
+     "text": "上",
+     "reading": "shàng",
+     "tone": 4
+    },
+    {
+     "text": "付",
+     "reading": "fù",
+     "tone": 4
+    },
+    {
+     "text": "钱",
+     "reading": "qián",
+     "tone": 2
+    },
+    {
+     "text": "吗",
+     "reading": "ma",
+     "tone": 0
+    },
+    {
+     "text": "？",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Xong rồi. Thẻ này trả tiền trên mạng được không?",
+   "start_ms": 25029,
+   "end_ms": 28187,
+   "words": [
+    {
+     "text": "好了",
+     "start_ms": 25029,
+     "end_ms": 25585
+    },
+    {
+     "text": "这",
+     "start_ms": 26026,
+     "end_ms": 26228
+    },
+    {
+     "text": "张",
+     "start_ms": 26228,
+     "end_ms": 26417
+    },
+    {
+     "text": "卡",
+     "start_ms": 26417,
+     "end_ms": 26859
+    },
+    {
+     "text": "可以",
+     "start_ms": 26960,
+     "end_ms": 27187
+    },
+    {
+     "text": "在",
+     "start_ms": 27187,
+     "end_ms": 27275
+    },
+    {
+     "text": "网上",
+     "start_ms": 27288,
+     "end_ms": 27591
+    },
+    {
+     "text": "付钱",
+     "start_ms": 27604,
+     "end_ms": 27920
+    },
+    {
+     "text": "吗",
+     "start_ms": 27920,
+     "end_ms": 28187
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "en",
+    "text": "Done. Can I use this card to pay online?",
+    "reading": null
+   }
+  },
+  {
+   "id": "b01.09",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "可以，下载我们的手机银行就能用。",
+   "tokens": [
+    {
+     "text": "可",
+     "reading": "kě",
+     "tone": 3
+    },
+    {
+     "text": "以",
+     "reading": "yǐ",
+     "tone": 3
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "下",
+     "reading": "xià",
+     "tone": 4
+    },
+    {
+     "text": "载",
+     "reading": "zài",
+     "tone": 4
+    },
+    {
+     "text": "我",
+     "reading": "wǒ",
+     "tone": 3
+    },
+    {
+     "text": "们",
+     "reading": "men",
+     "tone": 0
+    },
+    {
+     "text": "的",
+     "reading": "de",
+     "tone": 0
+    },
+    {
+     "text": "手",
+     "reading": "shǒu",
+     "tone": 3
+    },
+    {
+     "text": "机",
+     "reading": "jī",
+     "tone": 1
+    },
+    {
+     "text": "银",
+     "reading": "yín",
+     "tone": 2
+    },
+    {
+     "text": "行",
+     "reading": "háng",
+     "tone": 2
+    },
+    {
+     "text": "就",
+     "reading": "jiù",
+     "tone": 4
+    },
+    {
+     "text": "能",
+     "reading": "néng",
+     "tone": 2
+    },
+    {
+     "text": "用",
+     "reading": "yòng",
+     "tone": 4
+    },
+    {
+     "text": "。",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Được, tải ứng dụng ngân hàng của chúng tôi về là dùng được.",
+   "start_ms": 28537,
+   "end_ms": 31445,
+   "words": [
+    {
+     "text": "可以",
+     "start_ms": 28537,
+     "end_ms": 29027
+    },
+    {
+     "text": "下载",
+     "start_ms": 29343,
+     "end_ms": 29691
+    },
+    {
+     "text": "我们",
+     "start_ms": 29704,
+     "end_ms": 29897
+    },
+    {
+     "text": "的",
+     "start_ms": 29897,
+     "end_ms": 29987
+    },
+    {
+     "text": "手机",
+     "start_ms": 30000,
+     "end_ms": 30361
+    },
+    {
+     "text": "银行",
+     "start_ms": 30374,
+     "end_ms": 30774
+    },
+    {
+     "text": "就",
+     "start_ms": 30799,
+     "end_ms": 30915
+    },
+    {
+     "text": "能",
+     "start_ms": 30928,
+     "end_ms": 31096
+    },
+    {
+     "text": "用",
+     "start_ms": 31096,
+     "end_ms": 31367
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "en",
+    "text": "Yes, just download our mobile banking app.",
+    "reading": null
+   }
+  },
+  {
+   "id": "b01.10",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "太好了，谢谢您！",
+   "tokens": [
+    {
+     "text": "太",
+     "reading": "tài",
+     "tone": 4
+    },
+    {
+     "text": "好",
+     "reading": "hǎo",
+     "tone": 3
+    },
+    {
+     "text": "了",
+     "reading": "le",
+     "tone": 0
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "谢",
+     "reading": "xiè",
+     "tone": 4
+    },
+    {
+     "text": "谢",
+     "reading": "xie",
+     "tone": 0
+    },
+    {
+     "text": "您",
+     "reading": "nín",
+     "tone": 2
+    },
+    {
+     "text": "！",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Tốt quá, cảm ơn chị!",
+   "start_ms": 31795,
+   "end_ms": 33088,
+   "words": [
+    {
+     "text": "太",
+     "start_ms": 31795,
+     "end_ms": 31997
+    },
+    {
+     "text": "好",
+     "start_ms": 31937,
+     "end_ms": 32051
+    },
+    {
+     "text": "了",
+     "start_ms": 32050,
+     "end_ms": 32265
+    },
+    {
+     "text": "谢谢",
+     "start_ms": 32517,
+     "end_ms": 32795
+    },
+    {
+     "text": "您",
+     "start_ms": 32795,
+     "end_ms": 33048
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "en",
+    "text": "Perfect, thank you!",
+    "reading": null
+   }
+  },
+  {
+   "id": "b02.00",
+   "section": "b02",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "我想开一个银行账户。",
+   "tokens": [
+    {
+     "text": "我",
+     "reading": "wǒ",
+     "tone": 3
+    },
+    {
+     "text": "想",
+     "reading": "xiǎng",
+     "tone": 3
+    },
+    {
+     "text": "开",
+     "reading": "kāi",
+     "tone": 1
+    },
+    {
+     "text": "一",
+     "reading": "yí",
+     "tone": 2
+    },
+    {
+     "text": "个",
+     "reading": "gè",
+     "tone": 4
+    },
+    {
+     "text": "银",
+     "reading": "yín",
+     "tone": 2
+    },
+    {
+     "text": "行",
+     "reading": "háng",
+     "tone": 2
+    },
+    {
+     "text": "账",
+     "reading": "zhàng",
+     "tone": 4
+    },
+    {
+     "text": "户",
+     "reading": "hù",
+     "tone": 4
+    },
+    {
+     "text": "。",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Tôi muốn mở một tài khoản ngân hàng.",
+   "start_ms": 33988,
+   "end_ms": 35616,
+   "words": [
+    {
+     "text": "我",
+     "start_ms": 33988,
+     "end_ms": 34373
+    },
+    {
+     "text": "想",
+     "start_ms": 34074,
+     "end_ms": 34298
+    },
+    {
+     "text": "开",
+     "start_ms": 34298,
+     "end_ms": 34458
+    },
+    {
+     "text": "一个",
+     "start_ms": 34474,
+     "end_ms": 34650
+    },
+    {
+     "text": "银行",
+     "start_ms": 34683,
+     "end_ms": 35036
+    },
+    {
+     "text": "账户",
+     "start_ms": 35051,
+     "end_ms": 35616
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": true,
+   "pause_after_ms": 2000,
+   "targets": [
+    "账户"
+   ],
+   "parallel": {
+    "lang": "en",
+    "text": "I'd like to open a bank account.",
+    "reading": null
+   }
+  },
+  {
+   "id": "b02.01",
+   "section": "b02",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "请填一下这张表，在这里签名。",
+   "tokens": [
+    {
+     "text": "请",
+     "reading": "qǐng",
+     "tone": 3
+    },
+    {
+     "text": "填",
+     "reading": "tián",
+     "tone": 2
+    },
+    {
+     "text": "一",
+     "reading": "yí",
+     "tone": 2
+    },
+    {
+     "text": "下",
+     "reading": "xià",
+     "tone": 4
+    },
+    {
+     "text": "这",
+     "reading": "zhè",
+     "tone": 4
+    },
+    {
+     "text": "张",
+     "reading": "zhāng",
+     "tone": 1
+    },
+    {
+     "text": "表",
+     "reading": "biǎo",
+     "tone": 3
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "在",
+     "reading": "zài",
+     "tone": 4
+    },
+    {
+     "text": "这",
+     "reading": "zhè",
+     "tone": 4
+    },
+    {
+     "text": "里",
+     "reading": "lǐ",
+     "tone": 3
+    },
+    {
+     "text": "签",
+     "reading": "qiān",
+     "tone": 1
+    },
+    {
+     "text": "名",
+     "reading": "míng",
+     "tone": 2
+    },
+    {
+     "text": "。",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Anh điền giúp tờ đơn này, ký tên ở đây.",
+   "start_ms": 37966,
+   "end_ms": 41407,
+   "words": [
+    {
+     "text": "请",
+     "start_ms": 37966,
+     "end_ms": 38238
+    },
+    {
+     "text": "填",
+     "start_ms": 38192,
+     "end_ms": 38480
+    },
+    {
+     "text": "一下",
+     "start_ms": 38496,
+     "end_ms": 38881
+    },
+    {
+     "text": "这",
+     "start_ms": 38913,
+     "end_ms": 39073
+    },
+    {
+     "text": "张",
+     "start_ms": 39073,
+     "end_ms": 39361
+    },
+    {
+     "text": "表",
+     "start_ms": 39361,
+     "end_ms": 39714
+    },
+    {
+     "text": "在",
+     "start_ms": 40018,
+     "end_ms": 40210
+    },
+    {
+     "text": "这里",
+     "start_ms": 40227,
+     "end_ms": 40580
+    },
+    {
+     "text": "签名",
+     "start_ms": 40595,
+     "end_ms": 41284
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": true,
+   "pause_after_ms": 2000,
+   "targets": [
+    "签名"
+   ],
+   "parallel": {
+    "lang": "en",
+    "text": "Please fill out this form and sign here.",
+    "reading": null
+   }
+  }
+ ],
+ "vocab": [
+  {
+   "text": "账户",
+   "reading": "zhàng hù",
+   "l1": "tài khoản",
+   "level": 5,
+   "cognate": null
+  },
+  {
+   "text": "护照",
+   "reading": "hù zhào",
+   "l1": "hộ chiếu",
+   "level": 2,
+   "cognate": null
+  },
+  {
+   "text": "签名",
+   "reading": "qiān míng",
+   "l1": "ký tên",
+   "level": 5,
+   "cognate": null
+  },
+  {
+   "text": "密码",
+   "reading": "mì mǎ",
+   "l1": "mật khẩu",
+   "level": 4,
+   "cognate": null
+  }
+ ],
+ "cognate_reveal": null,
+ "errata": [],
+ "attribution": [
+  "pypinyin (MIT)",
+  "jieba (MIT)"
+ ],
+ "disclosure": {
+  "synthetic_voice": true
+ }
+}

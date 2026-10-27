@@ -1,0 +1,1540 @@
+{
+ "schema": "episode/1",
+ "id": "doi-song-09-en",
+ "pair": "doi-song-09",
+ "lang": {
+  "target": "en",
+  "l1": "vi"
+ },
+ "level": {
+  "scheme": "CEFR",
+  "label": "A2"
+ },
+ "title": {
+  "target": "Making Weekend Plans",
+  "l1": "Hẹn bạn cuối tuần"
+ },
+ "series": {
+  "id": "doi-song-en",
+  "name": "Đời sống",
+  "order": 9
+ },
+ "flags": [],
+ "audio": {
+  "mix": "audio/mix.m4a",
+  "duration_ms": 50461
+ },
+ "speakers": {
+  "A": {
+   "name": "Lily",
+   "l1_name": "Lệ"
+  },
+  "B": {
+   "name": "Nam",
+   "l1_name": "Nam"
+  }
+ },
+ "sections": [
+  {
+   "id": "b01",
+   "type": "dialogue",
+   "label": "Hội thoại",
+   "start_ms": 300
+  },
+  {
+   "id": "b02",
+   "type": "recap_slow",
+   "label": "Nhắc lại chậm",
+   "start_ms": 39372
+  }
+ ],
+ "lines": [
+  {
+   "id": "b01.00",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "Nam, what are your plans this weekend?",
+   "tokens": [
+    {
+     "text": "Nam",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ",",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "what",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "are",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "your",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "plans",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "this",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "weekend",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "?",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Nam ơi, cuối tuần này cậu có dự định gì không?",
+   "start_ms": 300,
+   "end_ms": 2562,
+   "words": [
+    {
+     "text": "Nam",
+     "start_ms": 300,
+     "end_ms": 765
+    },
+    {
+     "text": "what",
+     "start_ms": 936,
+     "end_ms": 1096
+    },
+    {
+     "text": "are",
+     "start_ms": 1109,
+     "end_ms": 1162
+    },
+    {
+     "text": "your",
+     "start_ms": 1175,
+     "end_ms": 1308
+    },
+    {
+     "text": "plans",
+     "start_ms": 1321,
+     "end_ms": 1707
+    },
+    {
+     "text": "this",
+     "start_ms": 1720,
+     "end_ms": 1906
+    },
+    {
+     "text": "weekend",
+     "start_ms": 1920,
+     "end_ms": 2518
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [
+    "plans"
+   ],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "阿南，这个周末你有什么打算？",
+    "reading": "ā nán zhè ge zhōu mò nǐ yǒu shén me dǎ suan"
+   }
+  },
+  {
+   "id": "b01.01",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "I haven't decided yet. How about you?",
+   "tokens": [
+    {
+     "text": "I",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "haven't",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "decided",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "yet",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "How",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "about",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "you",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "?",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Chưa nghĩ ra, còn cậu?",
+   "start_ms": 2912,
+   "end_ms": 6420,
+   "words": [
+    {
+     "text": "I",
+     "start_ms": 2912,
+     "end_ms": 3098
+    },
+    {
+     "text": "haven't",
+     "start_ms": 3057,
+     "end_ms": 3416
+    },
+    {
+     "text": "decided",
+     "start_ms": 3429,
+     "end_ms": 4014
+    },
+    {
+     "text": "yet",
+     "start_ms": 4041,
+     "end_ms": 4387
+    },
+    {
+     "text": "How",
+     "start_ms": 5320,
+     "end_ms": 5573
+    },
+    {
+     "text": "about",
+     "start_ms": 5586,
+     "end_ms": 5918
+    },
+    {
+     "text": "you",
+     "start_ms": 5946,
+     "end_ms": 6345
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "还没想好，你呢？",
+    "reading": "hái méi xiǎng hǎo nǐ ne"
+   }
+  },
+  {
+   "id": "b01.02",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "I want to see a movie. I heard the new one that just came out is really good.",
+   "tokens": [
+    {
+     "text": "I",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "want",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "to",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "see",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "a",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "movie",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "I",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "heard",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "the",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "new",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "one",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "that",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "just",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "came",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "out",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "is",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "really",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "good",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Tớ muốn đi xem phim, nghe nói bộ phim mới ra hay lắm.",
+   "start_ms": 6770,
+   "end_ms": 11768,
+   "words": [
+    {
+     "text": "I",
+     "start_ms": 6770,
+     "end_ms": 6903
+    },
+    {
+     "text": "want",
+     "start_ms": 6856,
+     "end_ms": 7069
+    },
+    {
+     "text": "to",
+     "start_ms": 7083,
+     "end_ms": 7163
+    },
+    {
+     "text": "see",
+     "start_ms": 7176,
+     "end_ms": 7375
+    },
+    {
+     "text": "a",
+     "start_ms": 7388,
+     "end_ms": 7454
+    },
+    {
+     "text": "movie",
+     "start_ms": 7468,
+     "end_ms": 7973
+    },
+    {
+     "text": "I",
+     "start_ms": 8894,
+     "end_ms": 9054
+    },
+    {
+     "text": "heard",
+     "start_ms": 9067,
+     "end_ms": 9346
+    },
+    {
+     "text": "the",
+     "start_ms": 9360,
+     "end_ms": 9440
+    },
+    {
+     "text": "new",
+     "start_ms": 9453,
+     "end_ms": 9639
+    },
+    {
+     "text": "one",
+     "start_ms": 9652,
+     "end_ms": 9878
+    },
+    {
+     "text": "that",
+     "start_ms": 9892,
+     "end_ms": 10038
+    },
+    {
+     "text": "just",
+     "start_ms": 10051,
+     "end_ms": 10330
+    },
+    {
+     "text": "came",
+     "start_ms": 10344,
+     "end_ms": 10583
+    },
+    {
+     "text": "out",
+     "start_ms": 10596,
+     "end_ms": 10822
+    },
+    {
+     "text": "is",
+     "start_ms": 10836,
+     "end_ms": 10969
+    },
+    {
+     "text": "really",
+     "start_ms": 10982,
+     "end_ms": 11275
+    },
+    {
+     "text": "good",
+     "start_ms": 11288,
+     "end_ms": 11740
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "我想去看电影，听说新出的那部电影特别好看。",
+    "reading": "wǒ xiǎng qù kàn diàn yǐng tīng shuō xīn chū de nà bù diàn yǐng tè bié hǎo kàn"
+   }
+  },
+  {
+   "id": "b01.03",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "Sounds great, I want to see it too. What time?",
+   "tokens": [
+    {
+     "text": "Sounds",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "great",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ",",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "I",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "want",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "to",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "see",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "it",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "too",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "What",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "time",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "?",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Hay đấy, tớ cũng muốn xem. Mấy giờ?",
+   "start_ms": 12118,
+   "end_ms": 16135,
+   "words": [
+    {
+     "text": "Sounds",
+     "start_ms": 12118,
+     "end_ms": 12583
+    },
+    {
+     "text": "great",
+     "start_ms": 12512,
+     "end_ms": 12858
+    },
+    {
+     "text": "I",
+     "start_ms": 13177,
+     "end_ms": 13230
+    },
+    {
+     "text": "want",
+     "start_ms": 13257,
+     "end_ms": 13470
+    },
+    {
+     "text": "to",
+     "start_ms": 13483,
+     "end_ms": 13549
+    },
+    {
+     "text": "see",
+     "start_ms": 13576,
+     "end_ms": 13775
+    },
+    {
+     "text": "it",
+     "start_ms": 13802,
+     "end_ms": 13908
+    },
+    {
+     "text": "too",
+     "start_ms": 13935,
+     "end_ms": 14307
+    },
+    {
+     "text": "What",
+     "start_ms": 15241,
+     "end_ms": 15507
+    },
+    {
+     "text": "time",
+     "start_ms": 15534,
+     "end_ms": 16026
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "好啊，我也想看。几点的？",
+    "reading": "hǎo a wǒ yě xiǎng kàn jǐ diǎn de"
+   }
+  },
+  {
+   "id": "b01.04",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "Saturday at seven in the evening. Let's grab dinner together afterward.",
+   "tokens": [
+    {
+     "text": "Saturday",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "at",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "seven",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "in",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "the",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "evening",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "Let's",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "grab",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "dinner",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "together",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "afterward",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Bảy giờ tối thứ Bảy, xem xong mình cùng đi ăn nhé.",
+   "start_ms": 16485,
+   "end_ms": 21518,
+   "words": [
+    {
+     "text": "Saturday",
+     "start_ms": 16485,
+     "end_ms": 17110
+    },
+    {
+     "text": "at",
+     "start_ms": 17059,
+     "end_ms": 17205
+    },
+    {
+     "text": "seven",
+     "start_ms": 17218,
+     "end_ms": 17564
+    },
+    {
+     "text": "in",
+     "start_ms": 17577,
+     "end_ms": 17657
+    },
+    {
+     "text": "the",
+     "start_ms": 17670,
+     "end_ms": 17750
+    },
+    {
+     "text": "evening",
+     "start_ms": 17763,
+     "end_ms": 18308
+    },
+    {
+     "text": "Let's",
+     "start_ms": 19229,
+     "end_ms": 19575
+    },
+    {
+     "text": "grab",
+     "start_ms": 19588,
+     "end_ms": 19947
+    },
+    {
+     "text": "dinner",
+     "start_ms": 19961,
+     "end_ms": 20240
+    },
+    {
+     "text": "together",
+     "start_ms": 20253,
+     "end_ms": 20732
+    },
+    {
+     "text": "afterward",
+     "start_ms": 20745,
+     "end_ms": 21476
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "星期六晚上七点，看完我们一起去吃饭吧。",
+    "reading": "xīng qī liù wǎn shang qī diǎn kàn wán wǒ men yì qǐ qù chī fàn ba"
+   }
+  },
+  {
+   "id": "b01.05",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "No problem. Where should we meet?",
+   "tokens": [
+    {
+     "text": "No",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "problem",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "Where",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "should",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "we",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "meet",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "?",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Không vấn đề. Mình gặp nhau ở đâu?",
+   "start_ms": 21868,
+   "end_ms": 24865,
+   "words": [
+    {
+     "text": "No",
+     "start_ms": 21868,
+     "end_ms": 22200
+    },
+    {
+     "text": "problem",
+     "start_ms": 22139,
+     "end_ms": 22764
+    },
+    {
+     "text": "Where",
+     "start_ms": 23685,
+     "end_ms": 23951
+    },
+    {
+     "text": "should",
+     "start_ms": 23977,
+     "end_ms": 24176
+    },
+    {
+     "text": "we",
+     "start_ms": 24203,
+     "end_ms": 24336
+    },
+    {
+     "text": "meet",
+     "start_ms": 24363,
+     "end_ms": 24802
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [
+    "meet"
+   ],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "没问题。我们在哪里见面？",
+    "reading": "méi wèn tí wǒ men zài nǎ lǐ jiàn miàn"
+   }
+  },
+  {
+   "id": "b01.06",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "In front of the cinema, at six thirty?",
+   "tokens": [
+    {
+     "text": "In",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "front",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "of",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "the",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "cinema",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ",",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "at",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "six",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "thirty",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "?",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Trước cửa rạp chiếu phim, sáu rưỡi được không?",
+   "start_ms": 25215,
+   "end_ms": 27617,
+   "words": [
+    {
+     "text": "In",
+     "start_ms": 25215,
+     "end_ms": 25428
+    },
+    {
+     "text": "front",
+     "start_ms": 25382,
+     "end_ms": 25675
+    },
+    {
+     "text": "of",
+     "start_ms": 25688,
+     "end_ms": 25768
+    },
+    {
+     "text": "the",
+     "start_ms": 25781,
+     "end_ms": 25874
+    },
+    {
+     "text": "cinema",
+     "start_ms": 25888,
+     "end_ms": 26353
+    },
+    {
+     "text": "at",
+     "start_ms": 26566,
+     "end_ms": 26779
+    },
+    {
+     "text": "six",
+     "start_ms": 26792,
+     "end_ms": 27124
+    },
+    {
+     "text": "thirty",
+     "start_ms": 27138,
+     "end_ms": 27564
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "电影院门口，六点半怎么样？",
+    "reading": "diàn yǐng yuàn mén kǒu liù diǎn bàn zěn me yàng"
+   }
+  },
+  {
+   "id": "b01.07",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "Okay, I'll buy the tickets online first.",
+   "tokens": [
+    {
+     "text": "Okay",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ",",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "I'll",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "buy",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "the",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "tickets",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "online",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "first",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Được, tớ mua vé trên mạng trước.",
+   "start_ms": 27967,
+   "end_ms": 30369,
+   "words": [
+    {
+     "text": "Okay",
+     "start_ms": 27967,
+     "end_ms": 28366
+    },
+    {
+     "text": "I'll",
+     "start_ms": 28540,
+     "end_ms": 28700
+    },
+    {
+     "text": "buy",
+     "start_ms": 28726,
+     "end_ms": 28846
+    },
+    {
+     "text": "the",
+     "start_ms": 28859,
+     "end_ms": 28992
+    },
+    {
+     "text": "tickets",
+     "start_ms": 29005,
+     "end_ms": 29404
+    },
+    {
+     "text": "online",
+     "start_ms": 29417,
+     "end_ms": 29776
+    },
+    {
+     "text": "first",
+     "start_ms": 29803,
+     "end_ms": 30295
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "好，我先在网上买票。",
+    "reading": "hǎo wǒ xiān zài wǎng shàng mǎi piào"
+   }
+  },
+  {
+   "id": "b01.08",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "Great! Don't forget an umbrella, it might rain this weekend.",
+   "tokens": [
+    {
+     "text": "Great",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "!",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "Don't",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "forget",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "an",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "umbrella",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ",",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "it",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "might",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "rain",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "this",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "weekend",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Tuyệt! Đừng quên mang ô, cuối tuần có thể mưa đấy.",
+   "start_ms": 30719,
+   "end_ms": 35305,
+   "words": [
+    {
+     "text": "Great",
+     "start_ms": 30719,
+     "end_ms": 31344
+    },
+    {
+     "text": "Don't",
+     "start_ms": 32213,
+     "end_ms": 32519
+    },
+    {
+     "text": "forget",
+     "start_ms": 32532,
+     "end_ms": 32878
+    },
+    {
+     "text": "an",
+     "start_ms": 32891,
+     "end_ms": 32984
+    },
+    {
+     "text": "umbrella",
+     "start_ms": 32997,
+     "end_ms": 33542
+    },
+    {
+     "text": "it",
+     "start_ms": 33715,
+     "end_ms": 33861
+    },
+    {
+     "text": "might",
+     "start_ms": 33875,
+     "end_ms": 34194
+    },
+    {
+     "text": "rain",
+     "start_ms": 34207,
+     "end_ms": 34446
+    },
+    {
+     "text": "this",
+     "start_ms": 34460,
+     "end_ms": 34633
+    },
+    {
+     "text": "weekend",
+     "start_ms": 34646,
+     "end_ms": 35258
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "太好了！别忘了带伞，周末可能会下雨。",
+    "reading": "tài hǎo le bié wàng le dài sǎn zhōu mò kě néng huì xià yǔ"
+   }
+  },
+  {
+   "id": "b01.09",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "Got it. See you Saturday!",
+   "tokens": [
+    {
+     "text": "Got",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "it",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "See",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "you",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "Saturday",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "!",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Biết rồi, thứ Bảy gặp nhé!",
+   "start_ms": 35655,
+   "end_ms": 38472,
+   "words": [
+    {
+     "text": "Got",
+     "start_ms": 35655,
+     "end_ms": 36001
+    },
+    {
+     "text": "it",
+     "start_ms": 35952,
+     "end_ms": 36245
+    },
+    {
+     "text": "See",
+     "start_ms": 37166,
+     "end_ms": 37472
+    },
+    {
+     "text": "you",
+     "start_ms": 37498,
+     "end_ms": 37618
+    },
+    {
+     "text": "Saturday",
+     "start_ms": 37644,
+     "end_ms": 38389
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "知道了，周六见！",
+    "reading": "zhī dao le zhōu liù jiàn"
+   }
+  },
+  {
+   "id": "b02.00",
+   "section": "b02",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "Nam, what are your plans this weekend?",
+   "tokens": [
+    {
+     "text": "Nam",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ",",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "what",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "are",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "your",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "plans",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "this",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "weekend",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "?",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Nam ơi, cuối tuần này cậu có dự định gì không?",
+   "start_ms": 39372,
+   "end_ms": 42012,
+   "words": [
+    {
+     "text": "Nam",
+     "start_ms": 39372,
+     "end_ms": 39919
+    },
+    {
+     "text": "what",
+     "start_ms": 40113,
+     "end_ms": 40301
+    },
+    {
+     "text": "are",
+     "start_ms": 40316,
+     "end_ms": 40378
+    },
+    {
+     "text": "your",
+     "start_ms": 40394,
+     "end_ms": 40550
+    },
+    {
+     "text": "plans",
+     "start_ms": 40566,
+     "end_ms": 41019
+    },
+    {
+     "text": "this",
+     "start_ms": 41035,
+     "end_ms": 41254
+    },
+    {
+     "text": "weekend",
+     "start_ms": 41269,
+     "end_ms": 41972
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": true,
+   "pause_after_ms": 2000,
+   "targets": [
+    "plans"
+   ],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "阿南，这个周末你有什么打算？",
+    "reading": "ā nán zhè ge zhōu mò nǐ yǒu shén me dǎ suan"
+   }
+  },
+  {
+   "id": "b02.01",
+   "section": "b02",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "No problem. Where should we meet?",
+   "tokens": [
+    {
+     "text": "No",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "problem",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "Where",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "should",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "we",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "meet",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "?",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Không vấn đề. Mình gặp nhau ở đâu?",
+   "start_ms": 44362,
+   "end_ms": 47861,
+   "words": [
+    {
+     "text": "No",
+     "start_ms": 44362,
+     "end_ms": 44753
+    },
+    {
+     "text": "problem",
+     "start_ms": 44673,
+     "end_ms": 45407
+    },
+    {
+     "text": "Where",
+     "start_ms": 46498,
+     "end_ms": 46810
+    },
+    {
+     "text": "should",
+     "start_ms": 46842,
+     "end_ms": 47076
+    },
+    {
+     "text": "we",
+     "start_ms": 47107,
+     "end_ms": 47263
+    },
+    {
+     "text": "meet",
+     "start_ms": 47295,
+     "end_ms": 47811
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": true,
+   "pause_after_ms": 2000,
+   "targets": [
+    "meet"
+   ],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "没问题。我们在哪里见面？",
+    "reading": "méi wèn tí wǒ men zài nǎ lǐ jiàn miàn"
+   }
+  }
+ ],
+ "vocab": [
+  {
+   "text": "plans",
+   "reading": null,
+   "l1": "dự định",
+   "level": null,
+   "cognate": null
+  },
+  {
+   "text": "grab dinner",
+   "reading": null,
+   "l1": "đi ăn tối",
+   "level": null,
+   "cognate": null
+  },
+  {
+   "text": "afterward",
+   "reading": null,
+   "l1": "sau đó",
+   "level": null,
+   "cognate": null
+  }
+ ],
+ "cognate_reveal": null,
+ "errata": [],
+ "attribution": [],
+ "disclosure": {
+  "synthetic_voice": true
+ }
+}

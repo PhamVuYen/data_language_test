@@ -1,0 +1,1750 @@
+{
+ "schema": "episode/1",
+ "id": "doi-song-10-zh",
+ "pair": "doi-song-10",
+ "lang": {
+  "target": "zh-Hans",
+  "l1": "vi"
+ },
+ "level": {
+  "scheme": "HSK3.0",
+  "label": "HSK 3"
+ },
+ "title": {
+  "target": "第一天上班",
+  "l1": "Ngày đầu đi làm"
+ },
+ "series": {
+  "id": "doi-song-zh",
+  "name": "Đời sống",
+  "order": 10
+ },
+ "flags": [],
+ "audio": {
+  "mix": "audio/mix.m4a",
+  "duration_ms": 42289
+ },
+ "speakers": {
+  "A": {
+   "name": "王经理",
+   "l1_name": "quản lý Vương"
+  },
+  "B": {
+   "name": "阿南",
+   "l1_name": "Nam"
+  }
+ },
+ "sections": [
+  {
+   "id": "b01",
+   "type": "dialogue",
+   "label": "Hội thoại",
+   "start_ms": 300
+  },
+  {
+   "id": "b02",
+   "type": "recap_slow",
+   "label": "Nhắc lại chậm",
+   "start_ms": 31533
+  }
+ ],
+ "lines": [
+  {
+   "id": "b01.00",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "欢迎你加入我们公司！我是王经理。",
+   "tokens": [
+    {
+     "text": "欢",
+     "reading": "huān",
+     "tone": 1
+    },
+    {
+     "text": "迎",
+     "reading": "yíng",
+     "tone": 2
+    },
+    {
+     "text": "你",
+     "reading": "nǐ",
+     "tone": 3
+    },
+    {
+     "text": "加",
+     "reading": "jiā",
+     "tone": 1
+    },
+    {
+     "text": "入",
+     "reading": "rù",
+     "tone": 4
+    },
+    {
+     "text": "我",
+     "reading": "wǒ",
+     "tone": 3
+    },
+    {
+     "text": "们",
+     "reading": "men",
+     "tone": 0
+    },
+    {
+     "text": "公",
+     "reading": "gōng",
+     "tone": 1
+    },
+    {
+     "text": "司",
+     "reading": "sī",
+     "tone": 1
+    },
+    {
+     "text": "！",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "我",
+     "reading": "wǒ",
+     "tone": 3
+    },
+    {
+     "text": "是",
+     "reading": "shì",
+     "tone": 4
+    },
+    {
+     "text": "王",
+     "reading": "wáng",
+     "tone": 2
+    },
+    {
+     "text": "经",
+     "reading": "jīng",
+     "tone": 1
+    },
+    {
+     "text": "理",
+     "reading": "lǐ",
+     "tone": 3
+    },
+    {
+     "text": "。",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Chào mừng cậu gia nhập công ty! Tôi là quản lý Vương.",
+   "start_ms": 300,
+   "end_ms": 3162,
+   "words": [
+    {
+     "text": "欢迎",
+     "start_ms": 300,
+     "end_ms": 622
+    },
+    {
+     "text": "你",
+     "start_ms": 508,
+     "end_ms": 624
+    },
+    {
+     "text": "加入",
+     "start_ms": 637,
+     "end_ms": 921
+    },
+    {
+     "text": "我们",
+     "start_ms": 946,
+     "end_ms": 1126
+    },
+    {
+     "text": "公司",
+     "start_ms": 1139,
+     "end_ms": 1577
+    },
+    {
+     "text": "我",
+     "start_ms": 2172,
+     "end_ms": 2340
+    },
+    {
+     "text": "是",
+     "start_ms": 2339,
+     "end_ms": 2442
+    },
+    {
+     "text": "王",
+     "start_ms": 2455,
+     "end_ms": 2648
+    },
+    {
+     "text": "经理",
+     "start_ms": 2648,
+     "end_ms": 3099
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "en",
+    "text": "Welcome to the company! I'm Wang, the manager.",
+    "reading": null
+   }
+  },
+  {
+   "id": "b01.01",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "王经理好，我是阿南，很高兴认识您。",
+   "tokens": [
+    {
+     "text": "王",
+     "reading": "wáng",
+     "tone": 2
+    },
+    {
+     "text": "经",
+     "reading": "jīng",
+     "tone": 1
+    },
+    {
+     "text": "理",
+     "reading": "lǐ",
+     "tone": 3
+    },
+    {
+     "text": "好",
+     "reading": "hǎo",
+     "tone": 3
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "我",
+     "reading": "wǒ",
+     "tone": 3
+    },
+    {
+     "text": "是",
+     "reading": "shì",
+     "tone": 4
+    },
+    {
+     "text": "阿",
+     "reading": "ā",
+     "tone": 1
+    },
+    {
+     "text": "南",
+     "reading": "nán",
+     "tone": 2
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "很",
+     "reading": "hěn",
+     "tone": 3
+    },
+    {
+     "text": "高",
+     "reading": "gāo",
+     "tone": 1
+    },
+    {
+     "text": "兴",
+     "reading": "xìng",
+     "tone": 4
+    },
+    {
+     "text": "认",
+     "reading": "rèn",
+     "tone": 4
+    },
+    {
+     "text": "识",
+     "reading": "shi",
+     "tone": 0
+    },
+    {
+     "text": "您",
+     "reading": "nín",
+     "tone": 2
+    },
+    {
+     "text": "。",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Chào anh Vương, tôi là Nam, rất vui được gặp anh.",
+   "start_ms": 3512,
+   "end_ms": 6352,
+   "words": [
+    {
+     "text": "王",
+     "start_ms": 3512,
+     "end_ms": 3714
+    },
+    {
+     "text": "经理",
+     "start_ms": 3649,
+     "end_ms": 3851
+    },
+    {
+     "text": "好",
+     "start_ms": 3851,
+     "end_ms": 4141
+    },
+    {
+     "text": "我",
+     "start_ms": 4444,
+     "end_ms": 4570
+    },
+    {
+     "text": "是",
+     "start_ms": 4570,
+     "end_ms": 4671
+    },
+    {
+     "text": "阿南",
+     "start_ms": 4684,
+     "end_ms": 5025
+    },
+    {
+     "text": "很",
+     "start_ms": 5404,
+     "end_ms": 5606
+    },
+    {
+     "text": "高兴",
+     "start_ms": 5606,
+     "end_ms": 5871
+    },
+    {
+     "text": "认识",
+     "start_ms": 5883,
+     "end_ms": 6098
+    },
+    {
+     "text": "您",
+     "start_ms": 6098,
+     "end_ms": 6313
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "en",
+    "text": "Hello, Mr. Wang. I'm Nam. It's a pleasure to meet you.",
+    "reading": null
+   }
+  },
+  {
+   "id": "b01.02",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "我先带你看看办公室。这是你的座位。",
+   "tokens": [
+    {
+     "text": "我",
+     "reading": "wǒ",
+     "tone": 3
+    },
+    {
+     "text": "先",
+     "reading": "xiān",
+     "tone": 1
+    },
+    {
+     "text": "带",
+     "reading": "dài",
+     "tone": 4
+    },
+    {
+     "text": "你",
+     "reading": "nǐ",
+     "tone": 3
+    },
+    {
+     "text": "看",
+     "reading": "kàn",
+     "tone": 4
+    },
+    {
+     "text": "看",
+     "reading": "kan",
+     "tone": 0
+    },
+    {
+     "text": "办",
+     "reading": "bàn",
+     "tone": 4
+    },
+    {
+     "text": "公",
+     "reading": "gōng",
+     "tone": 1
+    },
+    {
+     "text": "室",
+     "reading": "shì",
+     "tone": 4
+    },
+    {
+     "text": "。",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "这",
+     "reading": "zhè",
+     "tone": 4
+    },
+    {
+     "text": "是",
+     "reading": "shì",
+     "tone": 4
+    },
+    {
+     "text": "你",
+     "reading": "nǐ",
+     "tone": 3
+    },
+    {
+     "text": "的",
+     "reading": "de",
+     "tone": 0
+    },
+    {
+     "text": "座",
+     "reading": "zuò",
+     "tone": 4
+    },
+    {
+     "text": "位",
+     "reading": "wèi",
+     "tone": 4
+    },
+    {
+     "text": "。",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Để tôi dẫn cậu đi xem văn phòng trước. Đây là chỗ ngồi của cậu.",
+   "start_ms": 6702,
+   "end_ms": 9689,
+   "words": [
+    {
+     "text": "我",
+     "start_ms": 6702,
+     "end_ms": 6870
+    },
+    {
+     "text": "先",
+     "start_ms": 6784,
+     "end_ms": 6952
+    },
+    {
+     "text": "带",
+     "start_ms": 6965,
+     "end_ms": 7107
+    },
+    {
+     "text": "你",
+     "start_ms": 7106,
+     "end_ms": 7196
+    },
+    {
+     "text": "看看",
+     "start_ms": 7209,
+     "end_ms": 7505
+    },
+    {
+     "text": "办公室",
+     "start_ms": 7519,
+     "end_ms": 8047
+    },
+    {
+     "text": "这",
+     "start_ms": 8641,
+     "end_ms": 8847
+    },
+    {
+     "text": "是",
+     "start_ms": 8847,
+     "end_ms": 8976
+    },
+    {
+     "text": "你",
+     "start_ms": 8989,
+     "end_ms": 9092
+    },
+    {
+     "text": "的",
+     "start_ms": 9092,
+     "end_ms": 9182
+    },
+    {
+     "text": "座位",
+     "start_ms": 9195,
+     "end_ms": 9659
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "en",
+    "text": "Let me show you around the office first. This is your desk.",
+    "reading": null
+   }
+  },
+  {
+   "id": "b01.03",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "谢谢。我们每天几点上班？",
+   "tokens": [
+    {
+     "text": "谢",
+     "reading": "xiè",
+     "tone": 4
+    },
+    {
+     "text": "谢",
+     "reading": "xie",
+     "tone": 0
+    },
+    {
+     "text": "。",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "我",
+     "reading": "wǒ",
+     "tone": 3
+    },
+    {
+     "text": "们",
+     "reading": "men",
+     "tone": 0
+    },
+    {
+     "text": "每",
+     "reading": "měi",
+     "tone": 3
+    },
+    {
+     "text": "天",
+     "reading": "tiān",
+     "tone": 1
+    },
+    {
+     "text": "几",
+     "reading": "jǐ",
+     "tone": 3
+    },
+    {
+     "text": "点",
+     "reading": "diǎn",
+     "tone": 3
+    },
+    {
+     "text": "上",
+     "reading": "shàng",
+     "tone": 4
+    },
+    {
+     "text": "班",
+     "reading": "bān",
+     "tone": 1
+    },
+    {
+     "text": "？",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Cảm ơn anh. Mỗi ngày mấy giờ mình vào làm?",
+   "start_ms": 10039,
+   "end_ms": 12524,
+   "words": [
+    {
+     "text": "谢谢",
+     "start_ms": 10039,
+     "end_ms": 10620
+    },
+    {
+     "text": "我们",
+     "start_ms": 11107,
+     "end_ms": 11435
+    },
+    {
+     "text": "每天",
+     "start_ms": 11448,
+     "end_ms": 11764
+    },
+    {
+     "text": "几点",
+     "start_ms": 11789,
+     "end_ms": 12004
+    },
+    {
+     "text": "上班",
+     "start_ms": 12016,
+     "end_ms": 12524
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [
+    "上班"
+   ],
+   "parallel": {
+    "lang": "en",
+    "text": "Thanks. What time do we start every day?",
+    "reading": null
+   }
+  },
+  {
+   "id": "b01.04",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "早上九点上班，下午六点下班，中午休息一个小时。",
+   "tokens": [
+    {
+     "text": "早",
+     "reading": "zǎo",
+     "tone": 3
+    },
+    {
+     "text": "上",
+     "reading": "shang",
+     "tone": 0
+    },
+    {
+     "text": "九",
+     "reading": "jiǔ",
+     "tone": 3
+    },
+    {
+     "text": "点",
+     "reading": "diǎn",
+     "tone": 3
+    },
+    {
+     "text": "上",
+     "reading": "shàng",
+     "tone": 4
+    },
+    {
+     "text": "班",
+     "reading": "bān",
+     "tone": 1
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "下",
+     "reading": "xià",
+     "tone": 4
+    },
+    {
+     "text": "午",
+     "reading": "wǔ",
+     "tone": 3
+    },
+    {
+     "text": "六",
+     "reading": "liù",
+     "tone": 4
+    },
+    {
+     "text": "点",
+     "reading": "diǎn",
+     "tone": 3
+    },
+    {
+     "text": "下",
+     "reading": "xià",
+     "tone": 4
+    },
+    {
+     "text": "班",
+     "reading": "bān",
+     "tone": 1
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "中",
+     "reading": "zhōng",
+     "tone": 1
+    },
+    {
+     "text": "午",
+     "reading": "wǔ",
+     "tone": 3
+    },
+    {
+     "text": "休",
+     "reading": "xiū",
+     "tone": 1
+    },
+    {
+     "text": "息",
+     "reading": "xi",
+     "tone": 0
+    },
+    {
+     "text": "一",
+     "reading": "yí",
+     "tone": 2
+    },
+    {
+     "text": "个",
+     "reading": "gè",
+     "tone": 4
+    },
+    {
+     "text": "小",
+     "reading": "xiǎo",
+     "tone": 3
+    },
+    {
+     "text": "时",
+     "reading": "shí",
+     "tone": 2
+    },
+    {
+     "text": "。",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Chín giờ sáng vào làm, sáu giờ chiều tan làm, trưa nghỉ một tiếng.",
+   "start_ms": 12874,
+   "end_ms": 17022,
+   "words": [
+    {
+     "text": "早上",
+     "start_ms": 12874,
+     "end_ms": 13299
+    },
+    {
+     "text": "九点",
+     "start_ms": 13261,
+     "end_ms": 13519
+    },
+    {
+     "text": "上班",
+     "start_ms": 13531,
+     "end_ms": 13956
+    },
+    {
+     "text": "下午",
+     "start_ms": 14085,
+     "end_ms": 14497
+    },
+    {
+     "text": "六点",
+     "start_ms": 14511,
+     "end_ms": 14807
+    },
+    {
+     "text": "下班",
+     "start_ms": 14820,
+     "end_ms": 15258
+    },
+    {
+     "text": "中午",
+     "start_ms": 15413,
+     "end_ms": 15787
+    },
+    {
+     "text": "休息",
+     "start_ms": 15799,
+     "end_ms": 16224
+    },
+    {
+     "text": "一个",
+     "start_ms": 16250,
+     "end_ms": 16456
+    },
+    {
+     "text": "小时",
+     "start_ms": 16469,
+     "end_ms": 16959
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "en",
+    "text": "We start at nine in the morning and finish at six, with an hour for lunch.",
+    "reading": null
+   }
+  },
+  {
+   "id": "b01.05",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "如果有问题，我应该问谁？",
+   "tokens": [
+    {
+     "text": "如",
+     "reading": "rú",
+     "tone": 2
+    },
+    {
+     "text": "果",
+     "reading": "guǒ",
+     "tone": 3
+    },
+    {
+     "text": "有",
+     "reading": "yǒu",
+     "tone": 3
+    },
+    {
+     "text": "问",
+     "reading": "wèn",
+     "tone": 4
+    },
+    {
+     "text": "题",
+     "reading": "tí",
+     "tone": 2
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "我",
+     "reading": "wǒ",
+     "tone": 3
+    },
+    {
+     "text": "应",
+     "reading": "yīng",
+     "tone": 1
+    },
+    {
+     "text": "该",
+     "reading": "gāi",
+     "tone": 1
+    },
+    {
+     "text": "问",
+     "reading": "wèn",
+     "tone": 4
+    },
+    {
+     "text": "谁",
+     "reading": "shuí",
+     "tone": 2
+    },
+    {
+     "text": "？",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Nếu có vấn đề thì tôi nên hỏi ai?",
+   "start_ms": 17372,
+   "end_ms": 19525,
+   "words": [
+    {
+     "text": "如果",
+     "start_ms": 17372,
+     "end_ms": 17599
+    },
+    {
+     "text": "有",
+     "start_ms": 17537,
+     "end_ms": 17676
+    },
+    {
+     "text": "问题",
+     "start_ms": 17676,
+     "end_ms": 18194
+    },
+    {
+     "text": "我",
+     "start_ms": 18611,
+     "end_ms": 18763
+    },
+    {
+     "text": "应该",
+     "start_ms": 18762,
+     "end_ms": 18951
+    },
+    {
+     "text": "问",
+     "start_ms": 18964,
+     "end_ms": 19128
+    },
+    {
+     "text": "谁",
+     "start_ms": 19128,
+     "end_ms": 19482
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [
+    "应该"
+   ],
+   "parallel": {
+    "lang": "en",
+    "text": "If I have a question, who should I ask?",
+    "reading": null
+   }
+  },
+  {
+   "id": "b01.06",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "你可以问小李，她就坐在你旁边。",
+   "tokens": [
+    {
+     "text": "你",
+     "reading": "nǐ",
+     "tone": 3
+    },
+    {
+     "text": "可",
+     "reading": "kě",
+     "tone": 3
+    },
+    {
+     "text": "以",
+     "reading": "yǐ",
+     "tone": 3
+    },
+    {
+     "text": "问",
+     "reading": "wèn",
+     "tone": 4
+    },
+    {
+     "text": "小",
+     "reading": "xiǎo",
+     "tone": 3
+    },
+    {
+     "text": "李",
+     "reading": "lǐ",
+     "tone": 3
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "她",
+     "reading": "tā",
+     "tone": 1
+    },
+    {
+     "text": "就",
+     "reading": "jiù",
+     "tone": 4
+    },
+    {
+     "text": "坐",
+     "reading": "zuò",
+     "tone": 4
+    },
+    {
+     "text": "在",
+     "reading": "zài",
+     "tone": 4
+    },
+    {
+     "text": "你",
+     "reading": "nǐ",
+     "tone": 3
+    },
+    {
+     "text": "旁",
+     "reading": "páng",
+     "tone": 2
+    },
+    {
+     "text": "边",
+     "reading": "biān",
+     "tone": 1
+    },
+    {
+     "text": "。",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Cậu có thể hỏi Tiểu Lý, cô ấy ngồi ngay cạnh cậu.",
+   "start_ms": 19875,
+   "end_ms": 22140,
+   "words": [
+    {
+     "text": "你",
+     "start_ms": 19875,
+     "end_ms": 20043
+    },
+    {
+     "text": "可以",
+     "start_ms": 19981,
+     "end_ms": 20149
+    },
+    {
+     "text": "问",
+     "start_ms": 20161,
+     "end_ms": 20303
+    },
+    {
+     "text": "小李",
+     "start_ms": 20303,
+     "end_ms": 20806
+    },
+    {
+     "text": "她",
+     "start_ms": 20896,
+     "end_ms": 21076
+    },
+    {
+     "text": "就",
+     "start_ms": 21076,
+     "end_ms": 21192
+    },
+    {
+     "text": "坐",
+     "start_ms": 21205,
+     "end_ms": 21385
+    },
+    {
+     "text": "在你旁边",
+     "start_ms": 21386,
+     "end_ms": 22082
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "en",
+    "text": "You can ask Xiao Li. She sits right next to you.",
+    "reading": null
+   }
+  },
+  {
+   "id": "b01.07",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "好的。今天我需要做什么？",
+   "tokens": [
+    {
+     "text": "好",
+     "reading": "hǎo",
+     "tone": 3
+    },
+    {
+     "text": "的",
+     "reading": "de",
+     "tone": 0
+    },
+    {
+     "text": "。",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "今",
+     "reading": "jīn",
+     "tone": 1
+    },
+    {
+     "text": "天",
+     "reading": "tiān",
+     "tone": 1
+    },
+    {
+     "text": "我",
+     "reading": "wǒ",
+     "tone": 3
+    },
+    {
+     "text": "需",
+     "reading": "xū",
+     "tone": 1
+    },
+    {
+     "text": "要",
+     "reading": "yào",
+     "tone": 4
+    },
+    {
+     "text": "做",
+     "reading": "zuò",
+     "tone": 4
+    },
+    {
+     "text": "什",
+     "reading": "shén",
+     "tone": 2
+    },
+    {
+     "text": "么",
+     "reading": "me",
+     "tone": 0
+    },
+    {
+     "text": "？",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Vâng. Hôm nay tôi cần làm gì ạ?",
+   "start_ms": 22490,
+   "end_ms": 24758,
+   "words": [
+    {
+     "text": "好",
+     "start_ms": 22490,
+     "end_ms": 22793
+    },
+    {
+     "text": "的",
+     "start_ms": 22636,
+     "end_ms": 22990
+    },
+    {
+     "text": "今天",
+     "start_ms": 23558,
+     "end_ms": 23975
+    },
+    {
+     "text": "我",
+     "start_ms": 24000,
+     "end_ms": 24088
+    },
+    {
+     "text": "需要",
+     "start_ms": 24088,
+     "end_ms": 24265
+    },
+    {
+     "text": "做",
+     "start_ms": 24277,
+     "end_ms": 24391
+    },
+    {
+     "text": "什么",
+     "start_ms": 24391,
+     "end_ms": 24758
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "en",
+    "text": "Okay. What do I need to do today?",
+    "reading": null
+   }
+  },
+  {
+   "id": "b01.08",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "今天先熟悉一下工作环境，下午三点开会。",
+   "tokens": [
+    {
+     "text": "今",
+     "reading": "jīn",
+     "tone": 1
+    },
+    {
+     "text": "天",
+     "reading": "tiān",
+     "tone": 1
+    },
+    {
+     "text": "先",
+     "reading": "xiān",
+     "tone": 1
+    },
+    {
+     "text": "熟",
+     "reading": "shú",
+     "tone": 2
+    },
+    {
+     "text": "悉",
+     "reading": "xī",
+     "tone": 1
+    },
+    {
+     "text": "一",
+     "reading": "yí",
+     "tone": 2
+    },
+    {
+     "text": "下",
+     "reading": "xià",
+     "tone": 4
+    },
+    {
+     "text": "工",
+     "reading": "gōng",
+     "tone": 1
+    },
+    {
+     "text": "作",
+     "reading": "zuò",
+     "tone": 4
+    },
+    {
+     "text": "环",
+     "reading": "huán",
+     "tone": 2
+    },
+    {
+     "text": "境",
+     "reading": "jìng",
+     "tone": 4
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "下",
+     "reading": "xià",
+     "tone": 4
+    },
+    {
+     "text": "午",
+     "reading": "wǔ",
+     "tone": 3
+    },
+    {
+     "text": "三",
+     "reading": "sān",
+     "tone": 1
+    },
+    {
+     "text": "点",
+     "reading": "diǎn",
+     "tone": 3
+    },
+    {
+     "text": "开",
+     "reading": "kāi",
+     "tone": 1
+    },
+    {
+     "text": "会",
+     "reading": "huì",
+     "tone": 4
+    },
+    {
+     "text": "。",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Hôm nay cứ làm quen với môi trường làm việc trước, ba giờ chiều họp.",
+   "start_ms": 25108,
+   "end_ms": 28552,
+   "words": [
+    {
+     "text": "今天",
+     "start_ms": 25108,
+     "end_ms": 25572
+    },
+    {
+     "text": "先",
+     "start_ms": 25530,
+     "end_ms": 25723
+    },
+    {
+     "text": "熟悉",
+     "start_ms": 25736,
+     "end_ms": 26045
+    },
+    {
+     "text": "一下",
+     "start_ms": 26059,
+     "end_ms": 26394
+    },
+    {
+     "text": "工作",
+     "start_ms": 26419,
+     "end_ms": 26690
+    },
+    {
+     "text": "环境",
+     "start_ms": 26703,
+     "end_ms": 27154
+    },
+    {
+     "text": "下午三点",
+     "start_ms": 27309,
+     "end_ms": 28082
+    },
+    {
+     "text": "开会",
+     "start_ms": 28095,
+     "end_ms": 28520
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "en",
+    "text": "Today, just get to know the workplace. We have a meeting at three this afternoon.",
+    "reading": null
+   }
+  },
+  {
+   "id": "b01.09",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "明白了，我会努力的！",
+   "tokens": [
+    {
+     "text": "明",
+     "reading": "míng",
+     "tone": 2
+    },
+    {
+     "text": "白",
+     "reading": "bai",
+     "tone": 0
+    },
+    {
+     "text": "了",
+     "reading": "le",
+     "tone": 0
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "我",
+     "reading": "wǒ",
+     "tone": 3
+    },
+    {
+     "text": "会",
+     "reading": "huì",
+     "tone": 4
+    },
+    {
+     "text": "努",
+     "reading": "nǔ",
+     "tone": 3
+    },
+    {
+     "text": "力",
+     "reading": "lì",
+     "tone": 4
+    },
+    {
+     "text": "的",
+     "reading": "de",
+     "tone": 0
+    },
+    {
+     "text": "！",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Tôi hiểu rồi, tôi sẽ cố gắng!",
+   "start_ms": 28902,
+   "end_ms": 30633,
+   "words": [
+    {
+     "text": "明白",
+     "start_ms": 28902,
+     "end_ms": 29293
+    },
+    {
+     "text": "了",
+     "start_ms": 29218,
+     "end_ms": 29471
+    },
+    {
+     "text": "我",
+     "start_ms": 29862,
+     "end_ms": 30001
+    },
+    {
+     "text": "会",
+     "start_ms": 30001,
+     "end_ms": 30115
+    },
+    {
+     "text": "努力",
+     "start_ms": 30127,
+     "end_ms": 30380
+    },
+    {
+     "text": "的",
+     "start_ms": 30380,
+     "end_ms": 30595
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "en",
+    "text": "Understood. I'll do my best!",
+    "reading": null
+   }
+  },
+  {
+   "id": "b02.00",
+   "section": "b02",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "谢谢。我们每天几点上班？",
+   "tokens": [
+    {
+     "text": "谢",
+     "reading": "xiè",
+     "tone": 4
+    },
+    {
+     "text": "谢",
+     "reading": "xie",
+     "tone": 0
+    },
+    {
+     "text": "。",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "我",
+     "reading": "wǒ",
+     "tone": 3
+    },
+    {
+     "text": "们",
+     "reading": "men",
+     "tone": 0
+    },
+    {
+     "text": "每",
+     "reading": "měi",
+     "tone": 3
+    },
+    {
+     "text": "天",
+     "reading": "tiān",
+     "tone": 1
+    },
+    {
+     "text": "几",
+     "reading": "jǐ",
+     "tone": 3
+    },
+    {
+     "text": "点",
+     "reading": "diǎn",
+     "tone": 3
+    },
+    {
+     "text": "上",
+     "reading": "shàng",
+     "tone": 4
+    },
+    {
+     "text": "班",
+     "reading": "bān",
+     "tone": 1
+    },
+    {
+     "text": "？",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Cảm ơn anh. Mỗi ngày mấy giờ mình vào làm?",
+   "start_ms": 31533,
+   "end_ms": 34644,
+   "words": [
+    {
+     "text": "谢谢",
+     "start_ms": 31533,
+     "end_ms": 32270
+    },
+    {
+     "text": "我们",
+     "start_ms": 32886,
+     "end_ms": 33303
+    },
+    {
+     "text": "每天",
+     "start_ms": 33318,
+     "end_ms": 33719
+    },
+    {
+     "text": "几点",
+     "start_ms": 33751,
+     "end_ms": 34023
+    },
+    {
+     "text": "上班",
+     "start_ms": 34039,
+     "end_ms": 34644
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": true,
+   "pause_after_ms": 2000,
+   "targets": [
+    "上班"
+   ],
+   "parallel": {
+    "lang": "en",
+    "text": "Thanks. What time do we start every day?",
+    "reading": null
+   }
+  },
+  {
+   "id": "b02.01",
+   "section": "b02",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "如果有问题，我应该问谁？",
+   "tokens": [
+    {
+     "text": "如",
+     "reading": "rú",
+     "tone": 2
+    },
+    {
+     "text": "果",
+     "reading": "guǒ",
+     "tone": 3
+    },
+    {
+     "text": "有",
+     "reading": "yǒu",
+     "tone": 3
+    },
+    {
+     "text": "问",
+     "reading": "wèn",
+     "tone": 4
+    },
+    {
+     "text": "题",
+     "reading": "tí",
+     "tone": 2
+    },
+    {
+     "text": "，",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "我",
+     "reading": "wǒ",
+     "tone": 3
+    },
+    {
+     "text": "应",
+     "reading": "yīng",
+     "tone": 1
+    },
+    {
+     "text": "该",
+     "reading": "gāi",
+     "tone": 1
+    },
+    {
+     "text": "问",
+     "reading": "wèn",
+     "tone": 4
+    },
+    {
+     "text": "谁",
+     "reading": "shuí",
+     "tone": 2
+    },
+    {
+     "text": "？",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Nếu có vấn đề thì tôi nên hỏi ai?",
+   "start_ms": 36994,
+   "end_ms": 39689,
+   "words": [
+    {
+     "text": "如果",
+     "start_ms": 36994,
+     "end_ms": 37282
+    },
+    {
+     "text": "有",
+     "start_ms": 37187,
+     "end_ms": 37363
+    },
+    {
+     "text": "问题",
+     "start_ms": 37363,
+     "end_ms": 38020
+    },
+    {
+     "text": "我",
+     "start_ms": 38549,
+     "end_ms": 38741
+    },
+    {
+     "text": "应该",
+     "start_ms": 38741,
+     "end_ms": 38981
+    },
+    {
+     "text": "问",
+     "start_ms": 38998,
+     "end_ms": 39206
+    },
+    {
+     "text": "谁",
+     "start_ms": 39206,
+     "end_ms": 39655
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": true,
+   "pause_after_ms": 2000,
+   "targets": [
+    "应该"
+   ],
+   "parallel": {
+    "lang": "en",
+    "text": "If I have a question, who should I ask?",
+    "reading": null
+   }
+  }
+ ],
+ "vocab": [
+  {
+   "text": "上班",
+   "reading": "shàng bān",
+   "l1": "đi làm",
+   "level": 1,
+   "cognate": null
+  },
+  {
+   "text": "下班",
+   "reading": "xià bān",
+   "l1": "tan làm",
+   "level": 1,
+   "cognate": null
+  },
+  {
+   "text": "熟悉",
+   "reading": "shú xī",
+   "l1": "làm quen, quen thuộc",
+   "level": 4,
+   "cognate": null
+  },
+  {
+   "text": "开会",
+   "reading": "kāi huì",
+   "l1": "họp",
+   "level": 1,
+   "cognate": null
+  }
+ ],
+ "cognate_reveal": null,
+ "errata": [],
+ "attribution": [
+  "pypinyin (MIT)",
+  "jieba (MIT)"
+ ],
+ "disclosure": {
+  "synthetic_voice": true
+ }
+}

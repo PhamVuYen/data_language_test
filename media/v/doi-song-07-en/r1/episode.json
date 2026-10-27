@@ -1,0 +1,1590 @@
+{
+ "schema": "episode/1",
+ "id": "doi-song-07-en",
+ "pair": "doi-song-07",
+ "lang": {
+  "target": "en",
+  "l1": "vi"
+ },
+ "level": {
+  "scheme": "CEFR",
+  "label": "A2"
+ },
+ "title": {
+  "target": "Opening a Bank Account",
+  "l1": "Mở tài khoản ngân hàng"
+ },
+ "series": {
+  "id": "doi-song-en",
+  "name": "Đời sống",
+  "order": 7
+ },
+ "flags": [],
+ "audio": {
+  "mix": "audio/mix.m4a",
+  "duration_ms": 47318
+ },
+ "speakers": {
+  "A": {
+   "name": "Bank clerk",
+   "l1_name": "nhân viên ngân hàng"
+  },
+  "B": {
+   "name": "Nam",
+   "l1_name": "Nam"
+  }
+ },
+ "sections": [
+  {
+   "id": "b01",
+   "type": "dialogue",
+   "label": "Hội thoại",
+   "start_ms": 300
+  },
+  {
+   "id": "b02",
+   "type": "recap_slow",
+   "label": "Nhắc lại chậm",
+   "start_ms": 37648
+  }
+ ],
+ "lines": [
+  {
+   "id": "b01.00",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "Hello, what can I help you with today?",
+   "tokens": [
+    {
+     "text": "Hello",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ",",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "what",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "can",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "I",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "help",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "you",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "with",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "today",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "?",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Xin chào, anh cần làm dịch vụ gì ạ?",
+   "start_ms": 300,
+   "end_ms": 2454,
+   "words": [
+    {
+     "text": "Hello",
+     "start_ms": 300,
+     "end_ms": 779
+    },
+    {
+     "text": "what",
+     "start_ms": 961,
+     "end_ms": 1121
+    },
+    {
+     "text": "can",
+     "start_ms": 1133,
+     "end_ms": 1253
+    },
+    {
+     "text": "I",
+     "start_ms": 1266,
+     "end_ms": 1346
+    },
+    {
+     "text": "help",
+     "start_ms": 1360,
+     "end_ms": 1573
+    },
+    {
+     "text": "you",
+     "start_ms": 1586,
+     "end_ms": 1692
+    },
+    {
+     "text": "with",
+     "start_ms": 1705,
+     "end_ms": 1865
+    },
+    {
+     "text": "today",
+     "start_ms": 1878,
+     "end_ms": 2370
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "您好，请问您要办什么业务？",
+    "reading": "nín hǎo qǐng wèn nín yào bàn shén me yè wù"
+   }
+  },
+  {
+   "id": "b01.01",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "I'd like to open a bank account.",
+   "tokens": [
+    {
+     "text": "I'd",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "like",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "to",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "open",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "a",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "bank",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "account",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Tôi muốn mở một tài khoản ngân hàng.",
+   "start_ms": 2804,
+   "end_ms": 4645,
+   "words": [
+    {
+     "text": "I'd",
+     "start_ms": 2804,
+     "end_ms": 3070
+    },
+    {
+     "text": "like",
+     "start_ms": 2992,
+     "end_ms": 3191
+    },
+    {
+     "text": "to",
+     "start_ms": 3218,
+     "end_ms": 3351
+    },
+    {
+     "text": "open",
+     "start_ms": 3364,
+     "end_ms": 3670
+    },
+    {
+     "text": "a",
+     "start_ms": 3697,
+     "end_ms": 3763
+    },
+    {
+     "text": "bank",
+     "start_ms": 3790,
+     "end_ms": 4069
+    },
+    {
+     "text": "account",
+     "start_ms": 4082,
+     "end_ms": 4574
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [
+    "account"
+   ],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "我想开一个银行账户。",
+    "reading": "wǒ xiǎng kāi yí gè yín háng zhàng hù"
+   }
+  },
+  {
+   "id": "b01.02",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "Sure. May I see your passport, please?",
+   "tokens": [
+    {
+     "text": "Sure",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "May",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "I",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "see",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "your",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "passport",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ",",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "please",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "?",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Vâng, cho tôi xem hộ chiếu của anh.",
+   "start_ms": 4995,
+   "end_ms": 8641,
+   "words": [
+    {
+     "text": "Sure",
+     "start_ms": 4995,
+     "end_ms": 5647
+    },
+    {
+     "text": "May",
+     "start_ms": 6490,
+     "end_ms": 6743
+    },
+    {
+     "text": "I",
+     "start_ms": 6756,
+     "end_ms": 6862
+    },
+    {
+     "text": "see",
+     "start_ms": 6875,
+     "end_ms": 7061
+    },
+    {
+     "text": "your",
+     "start_ms": 7075,
+     "end_ms": 7221
+    },
+    {
+     "text": "passport",
+     "start_ms": 7234,
+     "end_ms": 7872
+    },
+    {
+     "text": "please",
+     "start_ms": 8059,
+     "end_ms": 8591
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "好的，请给我看一下您的护照。",
+    "reading": "hǎo de qǐng gěi wǒ kàn yí xià nín de hù zhào"
+   }
+  },
+  {
+   "id": "b01.03",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "Here you are. Can foreigners open an account too?",
+   "tokens": [
+    {
+     "text": "Here",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "you",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "are",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "Can",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "foreigners",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "open",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "an",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "account",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "too",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "?",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Gửi chị. Người nước ngoài cũng mở được tài khoản à?",
+   "start_ms": 8991,
+   "end_ms": 12813,
+   "words": [
+    {
+     "text": "Here",
+     "start_ms": 8991,
+     "end_ms": 9270
+    },
+    {
+     "text": "you",
+     "start_ms": 9179,
+     "end_ms": 9339
+    },
+    {
+     "text": "are",
+     "start_ms": 9352,
+     "end_ms": 9791
+    },
+    {
+     "text": "Can",
+     "start_ms": 10738,
+     "end_ms": 10951
+    },
+    {
+     "text": "foreigners",
+     "start_ms": 10977,
+     "end_ms": 11549
+    },
+    {
+     "text": "open",
+     "start_ms": 11576,
+     "end_ms": 11869
+    },
+    {
+     "text": "an",
+     "start_ms": 11895,
+     "end_ms": 11988
+    },
+    {
+     "text": "account",
+     "start_ms": 12001,
+     "end_ms": 12360
+    },
+    {
+     "text": "too",
+     "start_ms": 12374,
+     "end_ms": 12706
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "给您。外国人也可以开账户吗？",
+    "reading": "gěi nín wài guó rén yě kě yǐ kāi zhàng hù ma"
+   }
+  },
+  {
+   "id": "b01.04",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "Yes, you just need your passport and a phone number.",
+   "tokens": [
+    {
+     "text": "Yes",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ",",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "you",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "just",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "need",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "your",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "passport",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "and",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "a",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "phone",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "number",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Được ạ, anh chỉ cần hộ chiếu và số điện thoại.",
+   "start_ms": 13163,
+   "end_ms": 16186,
+   "words": [
+    {
+     "text": "Yes",
+     "start_ms": 13163,
+     "end_ms": 13655
+    },
+    {
+     "text": "you",
+     "start_ms": 13775,
+     "end_ms": 13908
+    },
+    {
+     "text": "just",
+     "start_ms": 13921,
+     "end_ms": 14187
+    },
+    {
+     "text": "need",
+     "start_ms": 14201,
+     "end_ms": 14400
+    },
+    {
+     "text": "your",
+     "start_ms": 14413,
+     "end_ms": 14533
+    },
+    {
+     "text": "passport",
+     "start_ms": 14546,
+     "end_ms": 15171
+    },
+    {
+     "text": "and",
+     "start_ms": 15185,
+     "end_ms": 15331
+    },
+    {
+     "text": "a",
+     "start_ms": 15344,
+     "end_ms": 15397
+    },
+    {
+     "text": "phone",
+     "start_ms": 15411,
+     "end_ms": 15664
+    },
+    {
+     "text": "number",
+     "start_ms": 15677,
+     "end_ms": 16116
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "可以，您只需要护照和手机号码。",
+    "reading": "kě yǐ nín zhǐ xū yào hù zhào hé shǒu jī hào mǎ"
+   }
+  },
+  {
+   "id": "b01.05",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "Please fill out this form and sign here.",
+   "tokens": [
+    {
+     "text": "Please",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "fill",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "out",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "this",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "form",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "and",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "sign",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "here",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Anh điền giúp tờ đơn này, ký tên ở đây.",
+   "start_ms": 16536,
+   "end_ms": 18742,
+   "words": [
+    {
+     "text": "Please",
+     "start_ms": 16536,
+     "end_ms": 16922
+    },
+    {
+     "text": "fill",
+     "start_ms": 16879,
+     "end_ms": 17092
+    },
+    {
+     "text": "out",
+     "start_ms": 17105,
+     "end_ms": 17291
+    },
+    {
+     "text": "this",
+     "start_ms": 17305,
+     "end_ms": 17504
+    },
+    {
+     "text": "form",
+     "start_ms": 17517,
+     "end_ms": 17823
+    },
+    {
+     "text": "and",
+     "start_ms": 17837,
+     "end_ms": 17957
+    },
+    {
+     "text": "sign",
+     "start_ms": 17970,
+     "end_ms": 18276
+    },
+    {
+     "text": "here",
+     "start_ms": 18289,
+     "end_ms": 18675
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [
+    "sign"
+   ],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "请填一下这张表，在这里签名。",
+    "reading": "qǐng tián yí xià zhè zhāng biǎo zài zhè lǐ qiān míng"
+   }
+  },
+  {
+   "id": "b01.06",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "All done. Can I get the card today?",
+   "tokens": [
+    {
+     "text": "All",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "done",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "Can",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "I",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "get",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "the",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "card",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "today",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "?",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Điền xong rồi. Hôm nay lấy được thẻ luôn không?",
+   "start_ms": 19092,
+   "end_ms": 22210,
+   "words": [
+    {
+     "text": "All",
+     "start_ms": 19092,
+     "end_ms": 19411
+    },
+    {
+     "text": "done",
+     "start_ms": 19363,
+     "end_ms": 19828
+    },
+    {
+     "text": "Can",
+     "start_ms": 20749,
+     "end_ms": 20948
+    },
+    {
+     "text": "I",
+     "start_ms": 20975,
+     "end_ms": 21068
+    },
+    {
+     "text": "get",
+     "start_ms": 21095,
+     "end_ms": 21268
+    },
+    {
+     "text": "the",
+     "start_ms": 21294,
+     "end_ms": 21414
+    },
+    {
+     "text": "card",
+     "start_ms": 21427,
+     "end_ms": 21706
+    },
+    {
+     "text": "today",
+     "start_ms": 21720,
+     "end_ms": 22106
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "填好了。今天就能拿到银行卡吗？",
+    "reading": "tián hǎo le jīn tiān jiù néng ná dào yín háng kǎ ma"
+   }
+  },
+  {
+   "id": "b01.07",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "Yes, it'll be ready in about ten minutes. Please set a six-digit PIN.",
+   "tokens": [
+    {
+     "text": "Yes",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ",",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "it'll",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "be",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "ready",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "in",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "about",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "ten",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "minutes",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "Please",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "set",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "a",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "six",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "-",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "digit",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "PIN",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Được, khoảng mười phút là xong. Anh đặt một mật khẩu sáu chữ số nhé.",
+   "start_ms": 22560,
+   "end_ms": 27886,
+   "words": [
+    {
+     "text": "Yes",
+     "start_ms": 22560,
+     "end_ms": 23079
+    },
+    {
+     "text": "it'll",
+     "start_ms": 23185,
+     "end_ms": 23371
+    },
+    {
+     "text": "be",
+     "start_ms": 23385,
+     "end_ms": 23531
+    },
+    {
+     "text": "ready",
+     "start_ms": 23544,
+     "end_ms": 23837
+    },
+    {
+     "text": "in",
+     "start_ms": 23850,
+     "end_ms": 23956
+    },
+    {
+     "text": "about",
+     "start_ms": 23970,
+     "end_ms": 24263
+    },
+    {
+     "text": "ten",
+     "start_ms": 24276,
+     "end_ms": 24502
+    },
+    {
+     "text": "minutes",
+     "start_ms": 24515,
+     "end_ms": 25087
+    },
+    {
+     "text": "Please",
+     "start_ms": 26021,
+     "end_ms": 26367
+    },
+    {
+     "text": "set",
+     "start_ms": 26380,
+     "end_ms": 26579
+    },
+    {
+     "text": "a",
+     "start_ms": 26593,
+     "end_ms": 26659
+    },
+    {
+     "text": "six",
+     "start_ms": 26673,
+     "end_ms": 26922
+    },
+    {
+     "text": "digit",
+     "start_ms": 26922,
+     "end_ms": 27338
+    },
+    {
+     "text": "PIN",
+     "start_ms": 27351,
+     "end_ms": 27777
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "能，大概十分钟就好了。请设置一个六位数的密码。",
+    "reading": "néng dà gài shí fēn zhōng jiù hǎo le qǐng shè zhì yí gè liù wèi shù de mì mǎ"
+   }
+  },
+  {
+   "id": "b01.08",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "Done. Can I use this card to pay online?",
+   "tokens": [
+    {
+     "text": "Done",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "Can",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "I",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "use",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "this",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "card",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "to",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "pay",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "online",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "?",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Xong rồi. Thẻ này trả tiền trên mạng được không?",
+   "start_ms": 28236,
+   "end_ms": 31826,
+   "words": [
+    {
+     "text": "Done",
+     "start_ms": 28236,
+     "end_ms": 28781
+    },
+    {
+     "text": "Can",
+     "start_ms": 29616,
+     "end_ms": 29829
+    },
+    {
+     "text": "I",
+     "start_ms": 29855,
+     "end_ms": 29921
+    },
+    {
+     "text": "use",
+     "start_ms": 29948,
+     "end_ms": 30254
+    },
+    {
+     "text": "this",
+     "start_ms": 30281,
+     "end_ms": 30480
+    },
+    {
+     "text": "card",
+     "start_ms": 30507,
+     "end_ms": 30773
+    },
+    {
+     "text": "to",
+     "start_ms": 30786,
+     "end_ms": 30879
+    },
+    {
+     "text": "pay",
+     "start_ms": 30906,
+     "end_ms": 31159
+    },
+    {
+     "text": "online",
+     "start_ms": 31185,
+     "end_ms": 31704
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "好了。这张卡可以在网上付钱吗？",
+    "reading": "hǎo le zhè zhāng kǎ kě yǐ zài wǎng shàng fù qián ma"
+   }
+  },
+  {
+   "id": "b01.09",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "Yes, just download our mobile banking app.",
+   "tokens": [
+    {
+     "text": "Yes",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ",",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "just",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "download",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "our",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "mobile",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "banking",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "app",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Được, tải ứng dụng ngân hàng của chúng tôi về là dùng được.",
+   "start_ms": 32176,
+   "end_ms": 34972,
+   "words": [
+    {
+     "text": "Yes",
+     "start_ms": 32176,
+     "end_ms": 32681
+    },
+    {
+     "text": "just",
+     "start_ms": 32842,
+     "end_ms": 33161
+    },
+    {
+     "text": "download",
+     "start_ms": 33175,
+     "end_ms": 33654
+    },
+    {
+     "text": "our",
+     "start_ms": 33667,
+     "end_ms": 33773
+    },
+    {
+     "text": "mobile",
+     "start_ms": 33786,
+     "end_ms": 34132
+    },
+    {
+     "text": "banking",
+     "start_ms": 34145,
+     "end_ms": 34544
+    },
+    {
+     "text": "app",
+     "start_ms": 34558,
+     "end_ms": 34944
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "可以，下载我们的手机银行就能用。",
+    "reading": "kě yǐ xià zài wǒ men de shǒu jī yín háng jiù néng yòng"
+   }
+  },
+  {
+   "id": "b01.10",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "Perfect, thank you!",
+   "tokens": [
+    {
+     "text": "Perfect",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ",",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "thank",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "you",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "!",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Tốt quá, cảm ơn chị!",
+   "start_ms": 35322,
+   "end_ms": 36748,
+   "words": [
+    {
+     "text": "Perfect",
+     "start_ms": 35322,
+     "end_ms": 35894
+    },
+    {
+     "text": "thank",
+     "start_ms": 36074,
+     "end_ms": 36353
+    },
+    {
+     "text": "you",
+     "start_ms": 36380,
+     "end_ms": 36646
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "太好了，谢谢您！",
+    "reading": "tài hǎo le xiè xie nín"
+   }
+  },
+  {
+   "id": "b02.00",
+   "section": "b02",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "I'd like to open a bank account.",
+   "tokens": [
+    {
+     "text": "I'd",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "like",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "to",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "open",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "a",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "bank",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "account",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Tôi muốn mở một tài khoản ngân hàng.",
+   "start_ms": 37648,
+   "end_ms": 39792,
+   "words": [
+    {
+     "text": "I'd",
+     "start_ms": 37648,
+     "end_ms": 37960
+    },
+    {
+     "text": "like",
+     "start_ms": 37867,
+     "end_ms": 38101
+    },
+    {
+     "text": "to",
+     "start_ms": 38133,
+     "end_ms": 38289
+    },
+    {
+     "text": "open",
+     "start_ms": 38305,
+     "end_ms": 38664
+    },
+    {
+     "text": "a",
+     "start_ms": 38695,
+     "end_ms": 38773
+    },
+    {
+     "text": "bank",
+     "start_ms": 38805,
+     "end_ms": 39133
+    },
+    {
+     "text": "account",
+     "start_ms": 39149,
+     "end_ms": 39727
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": true,
+   "pause_after_ms": 2000,
+   "targets": [
+    "account"
+   ],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "我想开一个银行账户。",
+    "reading": "wǒ xiǎng kāi yí gè yín háng zhàng hù"
+   }
+  },
+  {
+   "id": "b02.01",
+   "section": "b02",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "Please fill out this form and sign here.",
+   "tokens": [
+    {
+     "text": "Please",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "fill",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "out",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "this",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "form",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "and",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "sign",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "here",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Anh điền giúp tờ đơn này, ký tên ở đây.",
+   "start_ms": 42142,
+   "end_ms": 44718,
+   "words": [
+    {
+     "text": "Please",
+     "start_ms": 42142,
+     "end_ms": 42595
+    },
+    {
+     "text": "fill",
+     "start_ms": 42540,
+     "end_ms": 42790
+    },
+    {
+     "text": "out",
+     "start_ms": 42806,
+     "end_ms": 43025
+    },
+    {
+     "text": "this",
+     "start_ms": 43040,
+     "end_ms": 43274
+    },
+    {
+     "text": "form",
+     "start_ms": 43290,
+     "end_ms": 43649
+    },
+    {
+     "text": "and",
+     "start_ms": 43665,
+     "end_ms": 43806
+    },
+    {
+     "text": "sign",
+     "start_ms": 43821,
+     "end_ms": 44180
+    },
+    {
+     "text": "here",
+     "start_ms": 44197,
+     "end_ms": 44650
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": true,
+   "pause_after_ms": 2000,
+   "targets": [
+    "sign"
+   ],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "请填一下这张表，在这里签名。",
+    "reading": "qǐng tián yí xià zhè zhāng biǎo zài zhè lǐ qiān míng"
+   }
+  }
+ ],
+ "vocab": [
+  {
+   "text": "account",
+   "reading": null,
+   "l1": "tài khoản",
+   "level": null,
+   "cognate": null
+  },
+  {
+   "text": "fill out",
+   "reading": null,
+   "l1": "điền (đơn)",
+   "level": null,
+   "cognate": null
+  },
+  {
+   "text": "PIN",
+   "reading": null,
+   "l1": "mã PIN",
+   "level": null,
+   "cognate": null
+  }
+ ],
+ "cognate_reveal": null,
+ "errata": [],
+ "attribution": [],
+ "disclosure": {
+  "synthetic_voice": true
+ }
+}

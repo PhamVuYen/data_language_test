@@ -1,0 +1,1465 @@
+{
+ "schema": "episode/1",
+ "id": "doi-song-03-en",
+ "pair": "doi-song-03",
+ "lang": {
+  "target": "en",
+  "l1": "vi"
+ },
+ "level": {
+  "scheme": "CEFR",
+  "label": "A2"
+ },
+ "title": {
+  "target": "Asking for Directions",
+  "l1": "Hỏi đường"
+ },
+ "series": {
+  "id": "doi-song-en",
+  "name": "Đời sống",
+  "order": 3
+ },
+ "flags": [],
+ "audio": {
+  "mix": "audio/mix.m4a",
+  "duration_ms": 43262
+ },
+ "speakers": {
+  "A": {
+   "name": "Passerby",
+   "l1_name": "người đi đường"
+  },
+  "B": {
+   "name": "Nam",
+   "l1_name": "Nam"
+  }
+ },
+ "sections": [
+  {
+   "id": "b01",
+   "type": "dialogue",
+   "label": "Hội thoại",
+   "start_ms": 300
+  },
+  {
+   "id": "b02",
+   "type": "recap_slow",
+   "label": "Nhắc lại chậm",
+   "start_ms": 31119
+  }
+ ],
+ "lines": [
+  {
+   "id": "b01.00",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "Excuse me, how do I get to the subway station?",
+   "tokens": [
+    {
+     "text": "Excuse",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "me",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ",",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "how",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "do",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "I",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "get",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "to",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "the",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "subway",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "station",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "?",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Xin lỗi, cho hỏi ga tàu điện ngầm đi thế nào?",
+   "start_ms": 300,
+   "end_ms": 3167,
+   "words": [
+    {
+     "text": "Excuse",
+     "start_ms": 300,
+     "end_ms": 858
+    },
+    {
+     "text": "me",
+     "start_ms": 811,
+     "end_ms": 1010
+    },
+    {
+     "text": "how",
+     "start_ms": 1303,
+     "end_ms": 1409
+    },
+    {
+     "text": "do",
+     "start_ms": 1423,
+     "end_ms": 1569
+    },
+    {
+     "text": "I",
+     "start_ms": 1596,
+     "end_ms": 1676
+    },
+    {
+     "text": "get",
+     "start_ms": 1689,
+     "end_ms": 1862
+    },
+    {
+     "text": "to",
+     "start_ms": 1875,
+     "end_ms": 1968
+    },
+    {
+     "text": "the",
+     "start_ms": 1994,
+     "end_ms": 2127
+    },
+    {
+     "text": "subway",
+     "start_ms": 2154,
+     "end_ms": 2540
+    },
+    {
+     "text": "station",
+     "start_ms": 2566,
+     "end_ms": 3045
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [
+    "get to"
+   ],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "不好意思，请问地铁站怎么走？",
+    "reading": "bù hǎo yì si qǐng wèn dì tiě zhàn zěn me zǒu"
+   }
+  },
+  {
+   "id": "b01.01",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "Go straight ahead and turn left at the second intersection.",
+   "tokens": [
+    {
+     "text": "Go",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "straight",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "ahead",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "and",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "turn",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "left",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "at",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "the",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "second",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "intersection",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Bạn cứ đi thẳng, đến ngã tư thứ hai thì rẽ trái.",
+   "start_ms": 3517,
+   "end_ms": 6820,
+   "words": [
+    {
+     "text": "Go",
+     "start_ms": 3517,
+     "end_ms": 3756
+    },
+    {
+     "text": "straight",
+     "start_ms": 3731,
+     "end_ms": 4077
+    },
+    {
+     "text": "ahead",
+     "start_ms": 4090,
+     "end_ms": 4436
+    },
+    {
+     "text": "and",
+     "start_ms": 4449,
+     "end_ms": 4555
+    },
+    {
+     "text": "turn",
+     "start_ms": 4569,
+     "end_ms": 4862
+    },
+    {
+     "text": "left",
+     "start_ms": 4874,
+     "end_ms": 5300
+    },
+    {
+     "text": "at",
+     "start_ms": 5313,
+     "end_ms": 5393
+    },
+    {
+     "text": "the",
+     "start_ms": 5406,
+     "end_ms": 5499
+    },
+    {
+     "text": "second",
+     "start_ms": 5513,
+     "end_ms": 5872
+    },
+    {
+     "text": "intersection",
+     "start_ms": 5885,
+     "end_ms": 6709
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [
+    "turn left"
+   ],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "你一直往前走，到第二个路口往左拐。",
+    "reading": "nǐ yì zhí wǎng qián zǒu dào dì èr gè lù kǒu wǎng zuǒ guǎi"
+   }
+  },
+  {
+   "id": "b01.02",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "Left at the second intersection, right?",
+   "tokens": [
+    {
+     "text": "Left",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "at",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "the",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "second",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "intersection",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ",",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "right",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "?",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Rẽ trái ở ngã tư thứ hai, đúng không ạ?",
+   "start_ms": 7170,
+   "end_ms": 9622,
+   "words": [
+    {
+     "text": "Left",
+     "start_ms": 7170,
+     "end_ms": 7569
+    },
+    {
+     "text": "at",
+     "start_ms": 7536,
+     "end_ms": 7642
+    },
+    {
+     "text": "the",
+     "start_ms": 7669,
+     "end_ms": 7789
+    },
+    {
+     "text": "second",
+     "start_ms": 7815,
+     "end_ms": 8201
+    },
+    {
+     "text": "intersection",
+     "start_ms": 8227,
+     "end_ms": 8919
+    },
+    {
+     "text": "right",
+     "start_ms": 9145,
+     "end_ms": 9544
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "第二个路口往左拐，对吗？",
+    "reading": "dì èr gè lù kǒu wǎng zuǒ guǎi duì ma"
+   }
+  },
+  {
+   "id": "b01.03",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "Right. After you turn, you'll see a bank.",
+   "tokens": [
+    {
+     "text": "Right",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "After",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "you",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "turn",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ",",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "you'll",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "see",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "a",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "bank",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Đúng rồi. Rẽ qua rồi bạn sẽ thấy một ngân hàng.",
+   "start_ms": 9972,
+   "end_ms": 13531,
+   "words": [
+    {
+     "text": "Right",
+     "start_ms": 9972,
+     "end_ms": 10597
+    },
+    {
+     "text": "After",
+     "start_ms": 11456,
+     "end_ms": 11855
+    },
+    {
+     "text": "you",
+     "start_ms": 11868,
+     "end_ms": 11988
+    },
+    {
+     "text": "turn",
+     "start_ms": 12001,
+     "end_ms": 12360
+    },
+    {
+     "text": "you'll",
+     "start_ms": 12559,
+     "end_ms": 12705
+    },
+    {
+     "text": "see",
+     "start_ms": 12719,
+     "end_ms": 12918
+    },
+    {
+     "text": "a",
+     "start_ms": 12932,
+     "end_ms": 12998
+    },
+    {
+     "text": "bank",
+     "start_ms": 13012,
+     "end_ms": 13517
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "对。拐过去以后，你会看到一家银行。",
+    "reading": "duì guǎi guò qù yǐ hòu nǐ huì kàn dào yì jiā yín háng"
+   }
+  },
+  {
+   "id": "b01.04",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "Is the station next to the bank?",
+   "tokens": [
+    {
+     "text": "Is",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "the",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "station",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "next",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "to",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "the",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "bank",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "?",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Ga tàu ở cạnh ngân hàng à?",
+   "start_ms": 13881,
+   "end_ms": 15675,
+   "words": [
+    {
+     "text": "Is",
+     "start_ms": 13881,
+     "end_ms": 14120
+    },
+    {
+     "text": "the",
+     "start_ms": 14080,
+     "end_ms": 14200
+    },
+    {
+     "text": "station",
+     "start_ms": 14226,
+     "end_ms": 14652
+    },
+    {
+     "text": "next",
+     "start_ms": 14679,
+     "end_ms": 14932
+    },
+    {
+     "text": "to",
+     "start_ms": 14945,
+     "end_ms": 15025
+    },
+    {
+     "text": "the",
+     "start_ms": 15038,
+     "end_ms": 15171
+    },
+    {
+     "text": "bank",
+     "start_ms": 15184,
+     "end_ms": 15623
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "地铁站在银行旁边吗？",
+    "reading": "dì tiě zhàn zài yín háng páng biān ma"
+   }
+  },
+  {
+   "id": "b01.05",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "It's across from the bank, just on the other side of the street.",
+   "tokens": [
+    {
+     "text": "It's",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "across",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "from",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "the",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "bank",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ",",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "just",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "on",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "the",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "other",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "side",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "of",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "the",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "street",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Ở đối diện ngân hàng, qua đường là tới.",
+   "start_ms": 16025,
+   "end_ms": 19278,
+   "words": [
+    {
+     "text": "It's",
+     "start_ms": 16025,
+     "end_ms": 16238
+    },
+    {
+     "text": "across",
+     "start_ms": 16193,
+     "end_ms": 16605
+    },
+    {
+     "text": "from",
+     "start_ms": 16619,
+     "end_ms": 16765
+    },
+    {
+     "text": "the",
+     "start_ms": 16778,
+     "end_ms": 16871
+    },
+    {
+     "text": "bank",
+     "start_ms": 16885,
+     "end_ms": 17244
+    },
+    {
+     "text": "just",
+     "start_ms": 17417,
+     "end_ms": 17683
+    },
+    {
+     "text": "on",
+     "start_ms": 17696,
+     "end_ms": 17802
+    },
+    {
+     "text": "the",
+     "start_ms": 17816,
+     "end_ms": 17896
+    },
+    {
+     "text": "other",
+     "start_ms": 17909,
+     "end_ms": 18188
+    },
+    {
+     "text": "side",
+     "start_ms": 18201,
+     "end_ms": 18480
+    },
+    {
+     "text": "of",
+     "start_ms": 18494,
+     "end_ms": 18560
+    },
+    {
+     "text": "the",
+     "start_ms": 18574,
+     "end_ms": 18667
+    },
+    {
+     "text": "street",
+     "start_ms": 18680,
+     "end_ms": 19238
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "在银行对面，过了马路就是。",
+    "reading": "zài yín háng duì miàn guò le mǎ lù jiù shì"
+   }
+  },
+  {
+   "id": "b01.06",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "How long does it take on foot?",
+   "tokens": [
+    {
+     "text": "How",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "long",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "does",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "it",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "take",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "on",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "foot",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "?",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Đi bộ mất bao lâu ạ?",
+   "start_ms": 19628,
+   "end_ms": 21335,
+   "words": [
+    {
+     "text": "How",
+     "start_ms": 19628,
+     "end_ms": 19814
+    },
+    {
+     "text": "long",
+     "start_ms": 19748,
+     "end_ms": 20054
+    },
+    {
+     "text": "does",
+     "start_ms": 20080,
+     "end_ms": 20266
+    },
+    {
+     "text": "it",
+     "start_ms": 20293,
+     "end_ms": 20386
+    },
+    {
+     "text": "take",
+     "start_ms": 20413,
+     "end_ms": 20679
+    },
+    {
+     "text": "on",
+     "start_ms": 20692,
+     "end_ms": 20825
+    },
+    {
+     "text": "foot",
+     "start_ms": 20851,
+     "end_ms": 21263
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "走路要多长时间？",
+    "reading": "zǒu lù yào duō cháng shí jiān"
+   }
+  },
+  {
+   "id": "b01.07",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "About ten minutes. It's not too far.",
+   "tokens": [
+    {
+     "text": "About",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "ten",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "minutes",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "It's",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "not",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "too",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "far",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Khoảng mười phút, không xa lắm.",
+   "start_ms": 21685,
+   "end_ms": 25068,
+   "words": [
+    {
+     "text": "About",
+     "start_ms": 21685,
+     "end_ms": 22071
+    },
+    {
+     "text": "ten",
+     "start_ms": 22024,
+     "end_ms": 22263
+    },
+    {
+     "text": "minutes",
+     "start_ms": 22277,
+     "end_ms": 22849
+    },
+    {
+     "text": "It's",
+     "start_ms": 23783,
+     "end_ms": 24009
+    },
+    {
+     "text": "not",
+     "start_ms": 24022,
+     "end_ms": 24301
+    },
+    {
+     "text": "too",
+     "start_ms": 24315,
+     "end_ms": 24528
+    },
+    {
+     "text": "far",
+     "start_ms": 24541,
+     "end_ms": 24993
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "大概十分钟吧，不太远。",
+    "reading": "dà gài shí fēn zhōng ba bú tài yuǎn"
+   }
+  },
+  {
+   "id": "b01.08",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "Great, thank you so much!",
+   "tokens": [
+    {
+     "text": "Great",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ",",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "thank",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "you",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "so",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "much",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "!",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Tốt quá, cảm ơn bạn!",
+   "start_ms": 25418,
+   "end_ms": 27203,
+   "words": [
+    {
+     "text": "Great",
+     "start_ms": 25418,
+     "end_ms": 25790
+    },
+    {
+     "text": "thank",
+     "start_ms": 26033,
+     "end_ms": 26272
+    },
+    {
+     "text": "you",
+     "start_ms": 26286,
+     "end_ms": 26406
+    },
+    {
+     "text": "so",
+     "start_ms": 26432,
+     "end_ms": 26658
+    },
+    {
+     "text": "much",
+     "start_ms": 26671,
+     "end_ms": 27123
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "太好了，谢谢你！",
+    "reading": "tài hǎo le xiè xie nǐ"
+   }
+  },
+  {
+   "id": "b01.09",
+   "section": "b01",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "No problem. Take care.",
+   "tokens": [
+    {
+     "text": "No",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "problem",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "Take",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "care",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Không có gì, đi cẩn thận nhé.",
+   "start_ms": 27553,
+   "end_ms": 30219,
+   "words": [
+    {
+     "text": "No",
+     "start_ms": 27553,
+     "end_ms": 27832
+    },
+    {
+     "text": "problem",
+     "start_ms": 27794,
+     "end_ms": 28419
+    },
+    {
+     "text": "Take",
+     "start_ms": 29340,
+     "end_ms": 29646
+    },
+    {
+     "text": "care",
+     "start_ms": 29659,
+     "end_ms": 30151
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": false,
+   "pause_after_ms": 0,
+   "targets": [],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "不用谢，路上小心。",
+    "reading": "bú yòng xiè lù shàng xiǎo xīn"
+   }
+  },
+  {
+   "id": "b02.00",
+   "section": "b02",
+   "kind": "dialogue",
+   "speaker": "B",
+   "text": "Excuse me, how do I get to the subway station?",
+   "tokens": [
+    {
+     "text": "Excuse",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "me",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ",",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "how",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "do",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "I",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "get",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "to",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "the",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "subway",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "station",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "?",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Xin lỗi, cho hỏi ga tàu điện ngầm đi thế nào?",
+   "start_ms": 31119,
+   "end_ms": 34457,
+   "words": [
+    {
+     "text": "Excuse",
+     "start_ms": 31119,
+     "end_ms": 31775
+    },
+    {
+     "text": "me",
+     "start_ms": 31708,
+     "end_ms": 31942
+    },
+    {
+     "text": "how",
+     "start_ms": 32286,
+     "end_ms": 32411
+    },
+    {
+     "text": "do",
+     "start_ms": 32427,
+     "end_ms": 32599
+    },
+    {
+     "text": "I",
+     "start_ms": 32630,
+     "end_ms": 32724
+    },
+    {
+     "text": "get",
+     "start_ms": 32740,
+     "end_ms": 32943
+    },
+    {
+     "text": "to",
+     "start_ms": 32958,
+     "end_ms": 33067
+    },
+    {
+     "text": "the",
+     "start_ms": 33099,
+     "end_ms": 33255
+    },
+    {
+     "text": "subway",
+     "start_ms": 33286,
+     "end_ms": 33739
+    },
+    {
+     "text": "station",
+     "start_ms": 33771,
+     "end_ms": 34333
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": true,
+   "pause_after_ms": 2000,
+   "targets": [
+    "get to"
+   ],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "不好意思，请问地铁站怎么走？",
+    "reading": "bù hǎo yì si qǐng wèn dì tiě zhàn zěn me zǒu"
+   }
+  },
+  {
+   "id": "b02.01",
+   "section": "b02",
+   "kind": "dialogue",
+   "speaker": "A",
+   "text": "Go straight ahead and turn left at the second intersection.",
+   "tokens": [
+    {
+     "text": "Go",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "straight",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "ahead",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "and",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "turn",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "left",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "at",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "the",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "second",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": "intersection",
+     "reading": null,
+     "tone": null
+    },
+    {
+     "text": ".",
+     "reading": null,
+     "tone": null
+    }
+   ],
+   "l1": "Bạn cứ đi thẳng, đến ngã tư thứ hai thì rẽ trái.",
+   "start_ms": 36807,
+   "end_ms": 40662,
+   "words": [
+    {
+     "text": "Go",
+     "start_ms": 36807,
+     "end_ms": 37088
+    },
+    {
+     "text": "straight",
+     "start_ms": 37046,
+     "end_ms": 37452
+    },
+    {
+     "text": "ahead",
+     "start_ms": 37468,
+     "end_ms": 37874
+    },
+    {
+     "text": "and",
+     "start_ms": 37890,
+     "end_ms": 38015
+    },
+    {
+     "text": "turn",
+     "start_ms": 38031,
+     "end_ms": 38375
+    },
+    {
+     "text": "left",
+     "start_ms": 38390,
+     "end_ms": 38890
+    },
+    {
+     "text": "at",
+     "start_ms": 38906,
+     "end_ms": 39000
+    },
+    {
+     "text": "the",
+     "start_ms": 39015,
+     "end_ms": 39124
+    },
+    {
+     "text": "second",
+     "start_ms": 39140,
+     "end_ms": 39562
+    },
+    {
+     "text": "intersection",
+     "start_ms": 39578,
+     "end_ms": 40547
+    }
+   ],
+   "audio": {
+    "slow": null
+   },
+   "shadow": true,
+   "pause_after_ms": 2000,
+   "targets": [
+    "turn left"
+   ],
+   "parallel": {
+    "lang": "zh-Hans",
+    "text": "你一直往前走，到第二个路口往左拐。",
+    "reading": "nǐ yì zhí wǎng qián zǒu dào dì èr gè lù kǒu wǎng zuǒ guǎi"
+   }
+  }
+ ],
+ "vocab": [
+  {
+   "text": "intersection",
+   "reading": null,
+   "l1": "ngã tư",
+   "level": null,
+   "cognate": null
+  },
+  {
+   "text": "across from",
+   "reading": null,
+   "l1": "đối diện",
+   "level": null,
+   "cognate": null
+  },
+  {
+   "text": "on foot",
+   "reading": null,
+   "l1": "đi bộ",
+   "level": null,
+   "cognate": null
+  }
+ ],
+ "cognate_reveal": null,
+ "errata": [],
+ "attribution": [],
+ "disclosure": {
+  "synthetic_voice": true
+ }
+}
